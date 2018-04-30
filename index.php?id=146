@@ -1,0 +1,543 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<title>BlackSilverUfa - Dark souls 2</title>
+<link href="css/loading.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="slider.css" type="text/css" media="screen" />
+<script src="javascript/modern.js"></script>
+<link href="video-js.css" rel="stylesheet" type="text/css">
+<script src="javascript/video.js"></script>
+<script>
+videojs.options.flash.swf = "video-js.swf";
+</script>
+</head>
+<body class="dark_souls_2">
+<div id="main_container">
+<div class="container" id="home">
+<div class="row col-wrap">			 
+<div id="left_container" class="col col-md-3 col-sm-12">
+<div class="logo">
+<img src="images/container/arthur.png">
+</div>
+<nav id="main_nav">
+<ul class="nav">
+	<li><a href="index.php?id=1">Главная страница</a></li>
+	<li><a href="index.php?id=2">Новости сайта</a></li>	
+	<li><a href="index.php?id=3">Обновление серий</a></li>
+	<li><a href="http://vk.com/official_group_by_blacksilver" target="blank">Группа Bконтакте</a></li>
+	<li><a href="http://www.youtube.com/user/BlackSilverUfa" target="blank">Канал на Youtube</a></li>
+	<li><a href="http://blacksilverufa.com/" target="blank">Форум Блэка</a></li>
+</ul>
+<ul class="nav">
+	<li><img src="images/container/rubrics.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=5">Инди хорроры</a></li>
+	<li><a href="index.php?id=6">Маленькие игры</a></li>
+	<li><a href="index.php?id=7"><font size="2">Инди игры и многосерийные хорроры</font></a></li>
+	<li><a href="index.php?id=8">Первый взгляд</a></li>
+	<li><a href="index.php?id=9">Пятничный подкаст</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/series.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><a href="index.php?id=11">"Серия игр Amnesia"</a></li>
+	<li><a href="index.php?id=189">"Серия игр Bioshock"</a></li>
+	<li><a href="index.php?id=192">"Серия игр Day Z"</a></li>
+	<li><a href="index.php?id=12">"Серия игр Dead space"</a></li>
+	<li><a href="index.php?id=23">"Серия игр Metal gear"</a></li>
+	<li><a href="index.php?id=14">"Серия игр Resident evil"</a></li>
+	<li><a href="index.php?id=13">"Серия игр SCP: Containment breach"</a></li>
+	<li><a href="index.php?id=15">"Серия игр Silent hill"</a></li>
+	<li class="active"><a href="index.php?id=193">"Серия игр Souls"</a></li>
+	<li><a href="index.php?id=16">"Серия игр The elder scrolls"</a></li>
+	<li><a href="index.php?id=31">"Серия игр The walking dead"</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/letsplay.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=35"><font size="3" color="999999">«Все прохождения»</font></a></li>
+	<li><a href="index.php?id=19"><font size="2">Black mesa & Stanley parable</font></a></li>
+	<li><a href="index.php?id=18"><font size="2">Call of cthulhu & Анабиоз: Сон разума</font></a></li>
+	<li><a href="index.php?id=21"><font size="2">Condemned: Criminal origins & Condemned 2</font></a></li>
+	<li><a href="index.php?id=29"><font size="2">Darkness within & Darkness within 2</font></a></li>
+	<li><a href="index.php?id=26"><font size="2">Dragons dogma & Тень колосса</font></a></li>
+	<li><a href="index.php?id=34"><font size="2">Halo: ODST & Halo:Reach</font></a></li>
+	<li><a href="index.php?id=22"><font size="2">I am alive & The last of us</font></a></li>
+	<li><a href="index.php?id=33"><font size="2">Journey & Dear Esther</font></a></li>
+	<li><a href="index.php?id=24"><font size="2">Left 4 dead & Left 4 dead 2</font></a></li>
+	<li><a href="index.php?id=201"><font size="2">Max Payne & Max payne 2</font></a></li>
+	<li><a href="index.php?id=27"><font size="2">Metro: 2033 & Metro: Last light</font></a></li>
+	<li><a href="index.php?id=25"><font size="2">Outlast & Siren: Blood curse</font></a></li>
+	<li><a href="index.php?id=30"><font size="2">Penumbra: Overture & Penumbra: Black plague</font></a></li>
+	<li><a href="index.php?id=20"><font size="2">Star trek & Starbound</font></a></li>
+	<li><a href="index.php?id=32"><font size="2">Злодеи республики  & Джедаи республики</font></a></li>
+</ul>
+</nav>
+<div>
+	<a href="http://vk.com/official_group_by_blacksilver" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+<img src="images_art_games/artem.png">
+<ul class="nav">
+	<li><a href="index.php?id=148"><font color="f1e685">Главная страница</font></a></li>	
+	<li><a href="index.php?id=159"><font color="f1e685">Обновление серий</font></a></li>
+	<li><a href="http://vk.com/artgamesofficial" target="blank"><font color="f1e685">Группа Bконтакте</font></a></li>
+	<li><a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><font color="f1e685">Канал на Youtube</font></a></li>
+</ul>
+<img src="images_art_games/rubrics_art_games.png">
+<ul class="nav">
+	<li><a href="index.php?id=151"><font color="f1e685">Дело было вечером</font></a></li>	
+	<li><a href="index.php?id=152"><font color="f1e685">Трансляции</font></a></li>
+	<li><a href="index.php?id=157"><font color="f1e685">Прохождения</font></a></li>	
+	<li><a href="index.php?id=160"><font color="f1e685">Сказки на ночь</font></a></li>
+</ul>
+<br>
+<div>
+	<a href="http://vk.com/artgamesofficial" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+</div>
+<div id="right_container" class="col col-md-9 col-sm-12">
+<p align="center"><img src="images/blacksilverufa.png"></p>
+<div class="row">
+</div>
+<article class="row">
+<p align="center"><b><font size="6">«Dark souls 2»</font></b><p> 
+</article>
+<article class="row">
+<p align="center"><b><font size="4"><a href="index.php?id=35">ВСЕ ПРОХОЖДЕНИЯ</a></font></b><p> 
+<p align="center"><b><font size="4"><a href="index.php?id=193">ВЕРНУТЬСЯ</a></font></b><p> 
+</article>
+<p align="center"><b><font size="5"><a href="#end">Вниз</a></font></b><p>
+<a name="start"></a>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/382a45d1de73/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%201%20%5B%D0%92%D0%BA%D1%83%D1%81%D0%BD%D1%8B%D0%B9%20%D1%85%D0%B0%D1%80%D0%B4%D0%BA%D0%BE%D1%80%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 1 [Вкусный хардкор] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/382a45d1de73/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%201%20%5B%D0%92%D0%BA%D1%83%D1%81%D0%BD%D1%8B%D0%B9%20%D1%85%D0%B0%D1%80%D0%B4%D0%BA%D0%BE%D1%80%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/a3625f467280/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%202%20%5B%D0%9E%D1%82%D0%BA%D1%83%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 2 [Откушенная голова] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/a3625f467280/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%202%20%5B%D0%9E%D1%82%D0%BA%D1%83%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/92c7cef0ad53/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%203%20%5BC%D0%BE%D0%BB%D0%B0%D1%80%2C%20%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C%20%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B0%2C%20%D1%82%D1%8B%20%D0%BB%D0%B8%20%D1%8D%D1%82%D0%BE%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 3 [Cолар, рыцарь солнца, ты ли это] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/92c7cef0ad53/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%203%20%5BC%D0%BE%D0%BB%D0%B0%D1%80%2C%20%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C%20%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B0%2C%20%D1%82%D1%8B%20%D0%BB%D0%B8%20%D1%8D%D1%82%D0%BE%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/8f1f2a5ab90b/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%204%20%5B%D0%A2%D1%8B%20%D0%B1%D1%83%D0%B4%D0%B5%D1%88%D1%8C%20%D0%B2%D0%B8%D0%B7%D0%B6%D0%B0%D1%82%D1%8C%21%20%28c.%29%20%D0%A1%D1%82%D1%80%D0%B0%D1%88%D0%BD%D1%8B%D0%B9%20%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 4 [Ты будешь визжать! (c.) Страшный рыцарь] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/8f1f2a5ab90b/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%204%20%5B%D0%A2%D1%8B%20%D0%B1%D1%83%D0%B4%D0%B5%D1%88%D1%8C%20%D0%B2%D0%B8%D0%B7%D0%B6%D0%B0%D1%82%D1%8C%21%20%28c.%29%20%D0%A1%D1%82%D1%80%D0%B0%D1%88%D0%BD%D1%8B%D0%B9%20%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/644bc0658be9/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%205%20%5B%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20%D0%B3%D0%B8%D0%B3%D0%B0%D0%BD%D1%82%20%D0%91%D0%9E%D0%A1%D0%A1%231%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 5 [Вкусный хардкор] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/644bc0658be9/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%205%20%5B%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20%D0%B3%D0%B8%D0%B3%D0%B0%D0%BD%D1%82%20%D0%91%D0%9E%D0%A1%D0%A1%231%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/d125fe9f395b/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%206%20%5B%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 6 [Последний гигант *БОСС *1] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/d125fe9f395b/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%206%20%5B%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/1c9d80d8afe6/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%207%20%5B%D0%A2%D0%B0%D0%BA%20%D1%81%D0%B5%D0%B1%D0%B5%20%D0%9F%D1%80%D0%B5%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%20%D0%91%D0%9E%D0%A1%D0%A1%20%232%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 7 [Так себе Преследователь *БОСС 2*] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/1c9d80d8afe6/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%207%20%5B%D0%A2%D0%B0%D0%BA%20%D1%81%D0%B5%D0%B1%D0%B5%20%D0%9F%D1%80%D0%B5%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%20%D0%91%D0%9E%D0%A1%D0%A1%20%232%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/442de888eb02/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%208%20%5B%D0%94%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B8%D0%B9%20%D0%B2%D1%81%D0%B0%D0%B4%D0%BD%D0%B8%D0%BA%20%D0%91%D0%9E%D0%A1%D0%A1%20%233%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 8 [Драконий всадник БОСС #3] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/442de888eb02/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%208%20%5B%D0%94%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B8%D0%B9%20%D0%B2%D1%81%D0%B0%D0%B4%D0%BD%D0%B8%D0%BA%20%D0%91%D0%9E%D0%A1%D0%A1%20%233%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/7b7ca48ee884/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%209%20%5B%D0%9E%D1%80%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD%2C%20%D1%81%D1%82%D0%B0%D1%80%D1%8B%D0%B9%20%D0%B4%D1%80%D1%83%D0%B6%D0%B5%21%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 9 [Орнштейн, старый друже!] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/7b7ca48ee884/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%209%20%5B%D0%9E%D1%80%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD%2C%20%D1%81%D1%82%D0%B0%D1%80%D1%8B%D0%B9%20%D0%B4%D1%80%D1%83%D0%B6%D0%B5%21%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/752d9eec39e1/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2010%20%5B%D0%A2%D0%B5%D0%BC%D0%BD%D0%BE%D1%82%D0%B0%2C%20%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B%20%D0%B8%20%D0%BA%D0%BE%D0%B5-%D1%87%D1%82%D0%BE%20%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%20%D0%BF%D0%BE%D1%85%D1%83%D0%B6%D0%B5%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 10 [Темнота, пираты и кое-что сильно похуже] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/752d9eec39e1/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2010%20%5B%D0%A2%D0%B5%D0%BC%D0%BD%D0%BE%D1%82%D0%B0%2C%20%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B%20%D0%B8%20%D0%BA%D0%BE%D0%B5-%D1%87%D1%82%D0%BE%20%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%20%D0%BF%D0%BE%D1%85%D1%83%D0%B6%D0%B5%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/a12ec042b63a/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2011%20%5B%D0%9F%D0%B8%D1%80%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 11 [Пиратский корабль] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/a12ec042b63a/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2011%20%5B%D0%9F%D0%B8%D1%80%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/77a22678fb4d/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2012%20%5B%D0%9D%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BE%D1%87%D0%BD%D0%BE%20%D0%B3%D0%B8%D0%B1%D0%BA%D0%B8%D0%B9%20%D1%87%D0%B0%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%91%D0%9E%D0%A1%D0%A1%234%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 12 [Недостаточно гибкий часовой БОСС#4] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/77a22678fb4d/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2012%20%5B%D0%9D%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BE%D1%87%D0%BD%D0%BE%20%D0%B3%D0%B8%D0%B1%D0%BA%D0%B8%D0%B9%20%D1%87%D0%B0%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%91%D0%9E%D0%A1%D0%A1%234%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/0d3a12fad9f1/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2013%20%5B%D0%95%D1%89%D0%B5%20%D0%BE%D0%B4%D0%B8%D0%BD%20%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C%2C%20%D0%B5%D1%89%D0%B5%20%D0%BE%D0%B4%D0%BD%D0%B0%20%D0%B7%D0%B0%D1%80%D1%83%D0%B1%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%BC%D0%B5%D1%87%D0%B5%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 13 [[Еще один рыцарь, еще одна зарубка на мече] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/0d3a12fad9f1/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2013%20%5B%D0%95%D1%89%D0%B5%20%D0%BE%D0%B4%D0%B8%D0%BD%20%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C%2C%20%D0%B5%D1%89%D0%B5%20%D0%BE%D0%B4%D0%BD%D0%B0%20%D0%B7%D0%B0%D1%80%D1%83%D0%B1%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%BC%D0%B5%D1%87%D0%B5%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/c9447e6e03f6/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2014%20%5B%D0%91%D0%BE%D1%80%D0%B5%D1%86%20%D1%81%20%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B1%D0%BE%D1%80%D1%86%D0%B0%D0%BC%D0%B8.%20%D0%94%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%B1%D0%BE%D1%80%D0%B5%D1%86.%20%D0%91%D0%9E%D0%A1%D0%A1%235%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 14 [Борец с драконоборцами. Драконобороборец. БОСС#5] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/c9447e6e03f6/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2014%20%5B%D0%91%D0%BE%D1%80%D0%B5%D1%86%20%D1%81%20%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B1%D0%BE%D1%80%D1%86%D0%B0%D0%BC%D0%B8.%20%D0%94%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%B1%D0%BE%D1%80%D0%B5%D1%86.%20%D0%91%D0%9E%D0%A1%D0%A1%235%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/cf1288e73d17/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2015%20%5B%D0%A2%D1%80%D0%B8%20%D0%BD%D0%B5%D1%83%D0%BC%D0%BE%D0%BB%D0%B8%D0%BC%D1%8B%D1%85%20%D1%81%D1%82%D1%80%D0%B0%D0%B6%D0%B0%20%D0%91%D0%9E%D0%A1%D0%A1%236%20%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 15 [Три неумолимых стража БОСС#6 ] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/cf1288e73d17/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2015%20%5B%D0%A2%D1%80%D0%B8%20%D0%BD%D0%B5%D1%83%D0%BC%D0%BE%D0%BB%D0%B8%D0%BC%D1%8B%D1%85%20%D1%81%D1%82%D1%80%D0%B0%D0%B6%D0%B0%20%D0%91%D0%9E%D0%A1%D0%A1%236%20%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/23c10c69c591/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2016%20%5B%D0%92%D0%B7%D1%80%D1%8B%D0%B2%D0%BD%D1%8B%D0%B5%20%D1%83%D0%BF%D1%8B%D1%80%D0%B8%D0%BD%D1%8B%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 16 [Взрывные упырины] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/23c10c69c591/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2016%20%5B%D0%92%D0%B7%D1%80%D1%8B%D0%B2%D0%BD%D1%8B%D0%B5%20%D1%83%D0%BF%D1%8B%D1%80%D0%B8%D0%BD%D1%8B%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/f43404765aac/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2017%20%5B%D0%97%D0%B0%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8F%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%B8%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 17 [Закрывая долги] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/f43404765aac/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2017%20%5B%D0%97%D0%B0%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8F%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%B8%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/cc8d58d7286d/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2018%20%5B%D0%94%D0%B2%D0%B5%20%D0%B7%D0%BB%D1%8B%D0%B5%20%D1%80%D1%83%D0%BA%D0%B8%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 18 [Две злые руки] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/cc8d58d7286d/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2018%20%5B%D0%94%D0%B2%D0%B5%20%D0%B7%D0%BB%D1%8B%D0%B5%20%D1%80%D1%83%D0%BA%D0%B8%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/5bad2a5aa5f3/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2019%20%5B%D0%92%D1%81%D0%B5%D0%BC%D0%B8%20%D0%B7%D0%B0%D0%B1%D1%8B%D1%82%D0%B0%D1%8F%20%D0%B3%D1%80%D0%B5%D1%88%D0%BD%D0%B8%D1%86%D0%B0%20%D0%91%D0%9E%D0%A1%D0%A1%237%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 19 [Всеми забытая грешница БОСС#7] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/5bad2a5aa5f3/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2019%20%5B%D0%92%D1%81%D0%B5%D0%BC%D0%B8%20%D0%B7%D0%B0%D0%B1%D1%8B%D1%82%D0%B0%D1%8F%20%D0%B3%D1%80%D0%B5%D1%88%D0%BD%D0%B8%D1%86%D0%B0%20%D0%91%D0%9E%D0%A1%D0%A1%237%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/dark_souls_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/3904f1a1798d/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2020%20%5B%D0%A2%D1%83%D0%BC%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%82%D1%80%D0%BE%D0%BF%D1%8B%2C%20%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B0%D0%B4%5D.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 20 [Туманные тропы, адовый ад] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/3904f1a1798d/Dark%20Souls%202%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2020%20%5B%D0%A2%D1%83%D0%BC%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%82%D1%80%D0%BE%D0%BF%D1%8B%2C%20%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B0%D0%B4%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<h2><a name="end"></h2>
+<p align="center"><b><font size="5"><a href="#start">Назад</a></font></b><p>
+</div>
+</div>
+<footer class="row credit">
+<div class="col col-md-12">
+<div id="templatemo_footer"><a href="http://vk.com/pqwpqwpqw"><font size="2" color="#fffffff">© 2014<br>Влад Астапов</font></a></div>
+</div>
+</footer>
+</div>		
+</div>
+<script src="javascript/query.js"></script>
+<script>window.jQuery || document.write('<script src="javascript/slider.js">\x3C/script>')</script>
+<script defer src="javascript/slider.js"></script>
+<script type="text/javascript">
+	$(function(){
+	SyntaxHighlighter.all();
+	});
+	$(window).load(function(){
+	$('.flexslider').flexslider({
+	animation: "slide",
+	start: function(slider){
+	$('body').removeClass('loading');
+	}
+	});
+	});
+</script>
+</body>
+<script type='text/javascript' src='javascript/logging.js'></script>
+</html>

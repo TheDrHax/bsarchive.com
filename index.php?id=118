@@ -1,0 +1,271 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<title>BlackSilverUfa - Bioshock infinite</title>
+<link href="../css/loading.css" rel="stylesheet" type="text/css">
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<link rel="../stylesheet" href="slider.css" type="text/css" media="screen" />
+<script src="../javascript/modern.js"></script>
+<link href="video-js.css" rel="stylesheet" type="text/css">
+<script src="javascript/video.js"></script>
+<script>
+videojs.options.flash.swf = "video-js.swf";
+</script>
+</head>
+<body class="bioshock_infinite">
+<div id="main_container">
+<div class="container" id="home">
+<div class="row col-wrap">			 
+<div id="left_container" class="col col-md-3 col-sm-12">
+<div class="logo">
+<img src="images/container/arthur.png">
+</div>
+<nav id="main_nav">
+<ul class="nav">
+	<li><a href="index.php?id=1">Главная страница</a></li>
+	<li><a href="index.php?id=2">Новости сайта</a></li>	
+	<li><a href="index.php?id=3">Обновление серий</a></li>
+	<li><a href="http://vk.com/official_group_by_blacksilver" target="blank">Группа Bконтакте</a></li>
+	<li><a href="http://www.youtube.com/user/BlackSilverUfa" target="blank">Канал на Youtube</a></li>
+	<li><a href="http://blacksilverufa.com/" target="blank">Форум Блэка</a></li>
+</ul>
+<ul class="nav">
+	<li><img src="images/container/rubrics.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=5">Инди хорроры</a></li>
+	<li><a href="index.php?id=6">Маленькие игры</a></li>
+	<li><a href="index.php?id=7"><font size="2">Инди игры и многосерийные хорроры</font></a></li>
+	<li><a href="index.php?id=8">Первый взгляд</a></li>
+	<li><a href="index.php?id=9">Пятничный подкаст</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/series.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><a href="index.php?id=11">"Серия игр Amnesia"</a></li>
+	<li class="active"><a href="index.php?id=189">"Серия игр Bioshock"</a></li>
+	<li><a href="index.php?id=192">"Серия игр Day Z"</a></li>
+	<li><a href="index.php?id=12">"Серия игр Dead space"</a></li>
+	<li><a href="index.php?id=23">"Серия игр Metal gear"</a></li>
+	<li><a href="index.php?id=14">"Серия игр Resident evil"</a></li>
+	<li><a href="index.php?id=13">"Серия игр SCP: Containment breach"</a></li>
+	<li><a href="index.php?id=15">"Серия игр Silent hill"</a></li>
+	<li><a href="index.php?id=193">"Серия игр Souls"</a></li>
+	<li><a href="index.php?id=16">"Серия игр The elder scrolls"</a></li>
+	<li><a href="index.php?id=31">"Серия игр The walking dead"</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/letsplay.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=35"><font size="3" color="999999">«Все прохождения»</font></a></li>
+	<li><a href="index.php?id=19"><font size="2">Black mesa & Stanley parable</font></a></li>
+	<li><a href="index.php?id=18"><font size="2">Call of cthulhu & Анабиоз: Сон разума</font></a></li>
+	<li><a href="index.php?id=21"><font size="2">Condemned: Criminal origins & Condemned 2</font></a></li>
+	<li><a href="index.php?id=29"><font size="2">Darkness within & Darkness within 2</font></a></li>
+	<li><a href="index.php?id=26"><font size="2">Dragons dogma & Тень колосса</font></a></li>
+	<li><a href="index.php?id=34"><font size="2">Halo: ODST & Halo:Reach</font></a></li>
+	<li><a href="index.php?id=22"><font size="2">I am alive & The last of us</font></a></li>
+	<li><a href="index.php?id=33"><font size="2">Journey & Dear Esther</font></a></li>
+	<li><a href="index.php?id=24"><font size="2">Left 4 dead & Left 4 dead 2</font></a></li>
+	<li><a href="index.php?id=201"><font size="2">Max Payne & Max payne 2</font></a></li>
+	<li><a href="index.php?id=27"><font size="2">Metro: 2033 & Metro: Last light</font></a></li>
+	<li><a href="index.php?id=25"><font size="2">Outlast & Siren: Blood curse</font></a></li>
+	<li><a href="index.php?id=30"><font size="2">Penumbra: Overture & Penumbra: Black plague</font></a></li>
+	<li><a href="index.php?id=20"><font size="2">Star trek & Starbound</font></a></li>
+	<li><a href="index.php?id=32"><font size="2">Злодеи республики  & Джедаи республики</font></a></li>
+</ul>
+</nav>
+<div>
+	<a href="http://vk.com/official_group_by_blacksilver" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+<img src="images_art_games/artem.png">
+<ul class="nav">
+	<li><a href="index.php?id=148"><font color="f1e685">Главная страница</font></a></li>	
+	<li><a href="index.php?id=159"><font color="f1e685">Обновление серий</font></a></li>
+	<li><a href="http://vk.com/artgamesofficial" target="blank"><font color="f1e685">Группа Bконтакте</font></a></li>
+	<li><a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><font color="f1e685">Канал на Youtube</font></a></li>
+</ul>
+<img src="images_art_games/rubrics_art_games.png">
+<ul class="nav">
+	<li><a href="index.php?id=151"><font color="f1e685">Дело было вечером</font></a></li>	
+	<li><a href="index.php?id=152"><font color="f1e685">Трансляции</font></a></li>
+	<li><a href="index.php?id=157"><font color="f1e685">Прохождения</font></a></li>	
+	<li><a href="index.php?id=160"><font color="f1e685">Сказки на ночь</font></a></li>
+</ul>
+<br>
+<div>
+	<a href="http://vk.com/artgamesofficial" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+</div>
+<div id="right_container" class="col col-md-9 col-sm-12">
+<p align="center"><img src="../images/blacksilverufa.png"></p>
+<div class="row">
+<div class="col col-md-12">                       
+</div>
+</div>
+<article class="row">
+<p align="center"><b><font size="6">«Bioshock infinite»</font></b><p> 
+</article>
+<article class="row">
+<p align="center"><b><font size="4"><a href="index.php?id=35">ВСЕ ПРОХОЖДЕНИЯ</a></font></b><p> 
+<p align="center"><b><font size="4"><a href="index.php?id=189">ВЕРНУТЬСЯ</a></font></b><p> 
+</article>
+<p align="center"><b><font size="5"><a href="#end">Вниз</a></font></b><p>
+<a name="start"></a>
+<article class="row">
+
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock infinite - Серия 1 [Лучший город в мире] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172385&hash=909795f95b313c38&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a4574579e21c/Bioshock%20Infinite%20%231%20-%20%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%20%D0%B2%20%D0%BC%D0%B8%D1%80%D0%B5.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock infinite - Серия 2 [Обратная сторона медали] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172386&hash=90dc0a009c265d59&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/c5d8e0f60e0e/Bioshock%20Infinite%20%232%20-%20%D0%9E%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%20%D0%BC%D0%B5%D0%B4%D0%B0%D0%BB%D0%B8.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock infinite - Серия 3 [Скованные одной цепью] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172387&hash=bf815c345749de31&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/315394f00bd7/Bioshock%20Infinite%20%233%20-%20%D0%A1%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9%20%D1%86%D0%B5%D0%BF%D1%8C%D1%8E.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock infinite - Серия 4 [Элизабет] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172388&hash=e68ad2d869637682&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/8a18cf59770c/Bioshock%20Infinite%20%234%20-%20%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock infinite - Серия 5 [Пляжный курорт в небе] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172389&hash=95a9b39106ade307&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/d7e39f534485/Bioshock%20Infinite%20%235%20-%20%D0%9F%D0%BB%D1%8F%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BA%D1%83%D1%80%D0%BE%D1%80%D1%82%20%D0%B2%20%D0%BD%D0%B5%D0%B1%D0%B5.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock infinite - Серия 6 [Старый вояка] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172390&hash=e1ea150acb5b8579&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/707a08fc4d76/Bioshock%20Infinite%20%236%20-%20%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9%20%D0%B2%D0%BE%D1%8F%D0%BA%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock infinite - Серия 7 [Мы не летим в Париж] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172391&hash=8318d2e3a6841eb3&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/5e9c707dc168/Bioshock%20Infinite%20%237%20-%20%D0%9C%D1%8B%20%D0%BD%D0%B5%20%D0%BB%D0%B5%D1%82%D0%B8%D0%BC%20%D0%B2%20%D0%9F%D0%B0%D1%80%D0%B8%D0%B6.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock infinite - Серия 8 [Воссоединение] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172392&hash=b71fe63a4942c366&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/44f3e28f276b/Bioshock%20Infinite%20%238%20-%20%D0%92%D0%BE%D1%81%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock infinite - Серия 9 [Здоровенная механическая горилла] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172393&hash=96457293797bff19&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a9eba89e2b3b/Bioshock%20Infinite%20%239%20-%20%D0%97%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%BE%D1%80%D0%B8%D0%BB%D0%BB%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock infinite - Серия 10 [Другая версия реальности] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172394&hash=ee766b3c488bbbe1&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/7450d25da78c/Bioshock%20Infinite%20%2310%20-%20%D0%94%D1%80%D1%83%D0%B3%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock infinite - Серия 11 [Я сыграю тебе на гитаре, Элизабет] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172396&hash=3ae242115b2f35c2&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/41815c8d559d/Bioshock%20Infinite%20%2311%20-%20%D0%AF%20%D1%81%D1%8B%D0%B3%D1%80%D0%B0%D1%8E%20%D1%82%D0%B5%D0%B1%D0%B5%20%D0%BD%D0%B0%20%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B5%2C%20%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock infinite - Серия 12 [Гражданская война] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172397&hash=d21462ab86830745&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/482586f7bb82/Bioshock%20Infinite%20%2312%20-%20%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock infinite - Серия 13 [Так вот ты какая, Дэйзи.] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172398&hash=394375ae03ac655a&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/0d33058ae9b6/Bioshock%20Infinite%20%2313%20-%20%D0%A2%D0%B0%D0%BA%20%D0%B2%D0%BE%D1%82%20%D1%82%D1%8B%20%D0%BA%D0%B0%D0%BA%D0%B0%D1%8F%2C%20%D0%94%D1%8D%D0%B9%D0%B7%D0%B8..mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock infinite - Серия 14 [Кто же вы такие, Лютзс] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172399&hash=f0b89e0b5d6fe894&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/e516b7ed36fa/Bioshock%20Infinite%20%2314%20-%20%D0%9A%D1%82%D0%BE%20%D0%B6%D0%B5%20%D0%B2%D1%8B%20%D1%82%D0%B0%D0%BA%D0%B8%D0%B5%2C%20%D0%9B%D1%8E%D1%82%D0%B7%D1%81.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock infinite - Серия 15 [Обожаю сэндбокс] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172400&hash=99c727339aa1ec2d&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/e527fb05e2d1/Bioshock%20Infinite%20%2315%20-%20%D0%9E%D0%B1%D0%BE%D0%B6%D0%B0%D1%8E%20%D1%81%D1%8D%D0%BD%D0%B4%D0%B1%D0%BE%D0%BA%D1%81.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock infinite - Серия 16 [Проблемы с мамой] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172403&hash=56102da3230e56fd&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/0c3122a24540/Bioshock%20Infinite%20%2316%20-%20%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B%20%D1%81%20%D0%BC%D0%B0%D0%BC%D0%BE%D0%B9.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock infinite - Серия 17 [Элизабет] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172404&hash=b762d0224095b0b5&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/1cd6a3aa7210/Bioshock%20Infinite%20%2317%20-%20%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock infinite - Серия 18 [Спасти Элизабет] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172405&hash=f3c742897865c81c&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/6b8355346ead/Bioshock%20Infinite%20%2318%20-%20%D0%A1%D0%BF%D0%B0%D1%81%D1%82%D0%B8%20%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock infinite - Серия 19 [Финал. Разрыв шаблона. припадок] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172406&hash=5a6e6016bcc44097&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/19858f805d39/Bioshock%20Infinite%20%2319%20-%20%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB.%20%D0%A0%D0%B0%D0%B7%D1%80%D1%8B%D0%B2%20%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0..mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+
+</article>
+<h2><a name="end"></h2>
+<p align="center"><b><font size="5"><a href="#start">Назад</a></font></b><p>
+</div>
+</div>
+<footer class="row credit">
+<div class="col col-md-12">
+<div id="templatemo_footer"><a href="http://vk.com/pqwpqwpqw"><font size="2" color="#fffffff">© 2014<br>Влад Астапов</font></a></div>
+</div>
+</footer>
+</div>		
+</div>
+<script src="javascript/query.js"></script>
+<script>window.jQuery || document.write('<script src="../javascript/slider.js">\x3C/script>')</script>
+<script defer src="../javascript/slider.js"></script>
+<script type="text/javascript">
+	$(function(){
+	SyntaxHighlighter.all();
+	});
+	$(window).load(function(){
+	$('.flexslider').flexslider({
+	animation: "slide",
+	start: function(slider){
+	$('body').removeClass('loading');
+	}
+	});
+	});
+</script>
+</body>
+<script type='text/javascript' src='../javascript/logging.js'></script>
+</html>

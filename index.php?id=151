@@ -1,0 +1,1173 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<title>ArtGames - Дело было вечером</title>
+<link href="../../css/loading.css" rel="stylesheet" type="text/css">
+<link href="../../css/style.css" rel="stylesheet" type="text/css">
+<link rel="../../stylesheet" href="slider.css" type="text/css" media="screen" />
+<script src="../../javascript/modern.js"></script>
+<link href="video-js.css" rel="stylesheet" type="text/css">
+<script src="javascript/video.js"></script>
+<script>
+videojs.options.flash.swf = "video-js.swf";
+</script>
+</head>
+<body class="art_games">
+<div id="main_container">
+<div class="container" id="home">
+<div class="row col-wrap">			 
+<div id="left_container" class="col col-md-3 col-sm-12">
+<div class="logo">
+<img src="images_art_games/artem.png">
+<ul class="nav">
+	<li><a href="index.php?id=148"><font color="f1e685">Главная страница</font></a></li>	
+	<li><a href="index.php?id=159"><font color="f1e685">Обновление серий</font></a></li>
+	<li><a href="http://vk.com/artgamesofficial" target="blank"><font color="f1e685">Группа Bконтакте</font></a></li>
+	<li><a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><font color="f1e685">Канал на Youtube</font></a></li>
+</ul>
+<img src="images_art_games/rubrics_art_games.png">
+<ul class="nav">
+	<li><a href="index.php?id=151"><font color="f1e685">Дело было вечером</font></a></li>	
+	<li><a href="index.php?id=152"><font color="f1e685">Трансляции</font></a></li>
+	<li><a href="index.php?id=157"><font color="f1e685">Прохождения</font></a></li>	
+	<li><a href="index.php?id=160"><font color="f1e685">Сказки на ночь</font></a></li>
+</ul>
+<br>
+<div>
+	<a href="http://vk.com/artgamesofficial" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+<img src="images/container/arthur.png">
+</div>
+<nav id="main_nav">
+<ul class="nav">
+	<li><a href="index.php?id=1">Главная страница</a></li>
+	<li><a href="index.php?id=2">Новости сайта</a></li>	
+	<li><a href="index.php?id=3">Обновление серий</a></li>
+	<li><a href="http://vk.com/official_group_by_blacksilver" target="blank">Группа Bконтакте</a></li>
+	<li><a href="http://www.youtube.com/user/BlackSilverUfa" target="blank">Канал на Youtube</a></li>
+	<li><a href="http://blacksilverufa.com/" target="blank">Форум Блэка</a></li>
+</ul>
+<ul class="nav">
+	<li><img src="images/container/rubrics.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=5">Инди хорроры</a></li>
+	<li><a href="index.php?id=6">Маленькие игры</a></li>
+	<li><a href="index.php?id=7"><font size="2">Инди игры и многосерийные хорроры</font></a></li>
+	<li><a href="index.php?id=8">Первый взгляд</a></li>
+	<li><a href="index.php?id=9">Пятничный подкаст</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/series.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><a href="index.php?id=11">"Серия игр Amnesia"</a></li>
+	<li><a href="index.php?id=189">"Серия игр Bioshock"</a></li>
+	<li><a href="index.php?id=192">"Серия игр Day Z"</a></li>
+	<li><a href="index.php?id=12">"Серия игр Dead space"</a></li>
+	<li><a href="index.php?id=23">"Серия игр Metal gear"</a></li>
+	<li><a href="index.php?id=14">"Серия игр Resident evil"</a></li>
+	<li><a href="index.php?id=13">"Серия игр SCP: Containment breach"</a></li>
+	<li><a href="index.php?id=15">"Серия игр Silent hill"</a></li>
+	<li><a href="index.php?id=193">"Серия игр Souls"</a></li>
+	<li><a href="index.php?id=16">"Серия игр The elder scrolls"</a></li>
+	<li><a href="index.php?id=31">"Серия игр The walking dead"</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/letsplay.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=35"><font size="3" color="999999">«Все прохождения»</font></a></li>
+	<li><a href="index.php?id=19"><font size="2">Black mesa & Stanley parable</font></a></li>
+	<li><a href="index.php?id=18"><font size="2">Call of cthulhu & Анабиоз: Сон разума</font></a></li>
+	<li><a href="index.php?id=21"><font size="2">Condemned: Criminal origins & Condemned 2</font></a></li>
+	<li><a href="index.php?id=29"><font size="2">Darkness within & Darkness within 2</font></a></li>
+	<li><a href="index.php?id=26"><font size="2">Dragons dogma & Тень колосса</font></a></li>
+	<li><a href="index.php?id=34"><font size="2">Halo: ODST & Halo:Reach</font></a></li>
+	<li><a href="index.php?id=22"><font size="2">I am alive & The last of us</font></a></li>
+	<li><a href="index.php?id=33"><font size="2">Journey & Dear Esther</font></a></li>
+	<li><a href="index.php?id=24"><font size="2">Left 4 dead & Left 4 dead 2</font></a></li>
+	<li><a href="index.php?id=201"><font size="2">Max Payne & Max payne 2</font></a></li>
+	<li><a href="index.php?id=27"><font size="2">Metro: 2033 & Metro: Last light</font></a></li>
+	<li><a href="index.php?id=25"><font size="2">Outlast & Siren: Blood curse</font></a></li>
+	<li><a href="index.php?id=30"><font size="2">Penumbra: Overture & Penumbra: Black plague</font></a></li>
+	<li><a href="index.php?id=20"><font size="2">Star trek & Starbound</font></a></li>
+	<li><a href="index.php?id=32"><font size="2">Злодеи республики  & Джедаи республики</font></a></li>
+</ul>
+</nav>
+<div>
+	<a href="http://vk.com/official_group_by_blacksilver" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+</div>
+<div id="right_container" class="col col-md-9 col-sm-12">
+<p align="center"><img src="images/art_games.png"></p>
+<div class="row">
+<div class="col col-md-12">                       
+</div>
+</div>
+<p align="center"><b><font size="5"><a href="#end">Вниз</a></font></b><p>
+<a name="start"></a>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="evening/XCOM.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/095b8aaeeadd/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%201%20%28The%20Bureau-%20XCOM%20Declassified%20-%201%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 1 [The Bureau- XCOM Declassified - 1] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/095b8aaeeadd/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%201%20%28The%20Bureau-%20XCOM%20Declassified%20-%201%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="evening/XCOM.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/8c7d596492ee/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%202%20%28The%20Bureau-%20XCOM%20Declassified%20-%202%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 2 [The Bureau- XCOM Declassified - 2] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/8c7d596492ee/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%202%20%28The%20Bureau-%20XCOM%20Declassified%20-%202%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="evening/XCOM.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/3edb474da483/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%203%20%28The%20Bureau-%20XCOM%20Declassified%20-%203%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 3 [The Bureau- XCOM Declassified - 3] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/3edb474da483/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%203%20%28The%20Bureau-%20XCOM%20Declassified%20-%203%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="evening/Blacklist.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/508a87dac451/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%204%20%28Splinter%20Cell-%20Blacklist%20-%201%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 4 [Splinter Cell- Blacklist - 1] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/508a87dac451/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%204%20%28Splinter%20Cell-%20Blacklist%20-%201%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="evening/Blacklist.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/db1f6ab6f098/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%205%20%28Splinter%20Cell-%20Blacklist%20-%202%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 5 [Splinter Cell- Blacklist - 2] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/db1f6ab6f098/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%205%20%28Splinter%20Cell-%20Blacklist%20-%202%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="evening/XCOM.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/50385f094af5/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%206%20%28The%20Bureau-%20XCOM%20Declassified%20-%204%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 6 [The Bureau- XCOM Declassified - 4] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/50385f094af5/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%206%20%28The%20Bureau-%20XCOM%20Declassified%20-%204%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/outlast.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/a1a0f576c8c2/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%207%20%28Outlast%20-%201%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 7 [Outlast - 1] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/a1a0f576c8c2/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%207%20%28Outlast%20-%201%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/outlast.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/f96e3a56b09b/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%208%20%28Outlast%20-%202%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 8 [Outlast - 2] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/f96e3a56b09b/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%208%20%28Outlast%20-%202%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/outlast.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/aa440aee2d2e/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%209%20%28Outlast%20-%203%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 9 [Outlast - 3] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/aa440aee2d2e/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%209%20%28Outlast%20-%203%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/outlast.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/99d6a02cf92a/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2010%20%28Outlast%20-%204%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 10 [Outlast - 4 Финал] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/99d6a02cf92a/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2010%20%28Outlast%20-%204%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/tales.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/8d43ae3895d9/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2011%20%28Tales%20Of%20Monkey%20Island%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 11 [Tales Of Monkey Island] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/8d43ae3895d9/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2011%20%28Tales%20Of%20Monkey%20Island%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/tail.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/48c6eb43e1a2/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2012%20%28Dust-%20An%20Elysian%20Tail%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 12 [Dust- An Elysian Tail] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/48c6eb43e1a2/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2012%20%28Dust-%20An%20Elysian%20Tail%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/heavy_rain_1.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/ab82ada261cf/Heavy%20Rain%231.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 13 [Heavy rain #1] <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/ab82ada261cf/Heavy%20Rain%231.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/heavy_rain_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/8352e8cef008/Heavy%20Rain%232.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 14 [Heavy rain #2-1] <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/8352e8cef008/Heavy%20Rain%232.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/heavy_rain_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/a80253b1597d/Heavy%20Rain%233.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 14 [Heavy rain #2-2] <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/a80253b1597d/Heavy%20Rain%233.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/heavy_rain_3.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/46b007fddaa8/Heavy%20Rain%234.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 15 [Heavy rain #3] <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/46b007fddaa8/Heavy%20Rain%234.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/heavy_rain_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/563ac2df23ed/Heavy%20Rain%235.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 16 [Heavy rain #4-1] <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/563ac2df23ed/Heavy%20Rain%235.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/heavy_rain_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/87e5984b738d/Heavy%20Rain%236.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 16 [Heavy rain #4-2] <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/87e5984b738d/Heavy%20Rain%236.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/heavy_rain_5.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/7a34b7ad0453/Heavy%20Rain%237%28%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 17 [Heavy rain #5, Финал] <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/7a34b7ad0453/Heavy%20Rain%237%28%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/last_of_us_1.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/97a8d0e8797b/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2018%20%28The%20Last%20Of%20Us%20-%201%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 18 [The Last Of Us - 1] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/97a8d0e8797b/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2018%20%28The%20Last%20Of%20Us%20-%201%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/last_of_us_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/733f0aa7b97f/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2019%20%28The%20Last%20Of%20Us%20-%202%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 19 [The Last Of Us - 2] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/733f0aa7b97f/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2019%20%28The%20Last%20Of%20Us%20-%202%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/last_of_us_3.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/f1678f2c82c2/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2020%20%28The%20Last%20Of%20Us%20-%203%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 20 [The Last Of Us - 3] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/f1678f2c82c2/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2020%20%28The%20Last%20Of%20Us%20-%203%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/last_of_us_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/040fe7b2b7ba/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2021%20%28The%20Last%20Of%20Us%20-%204%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 21 [The Last Of Us - 4] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/040fe7b2b7ba/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2021%20%28The%20Last%20Of%20Us%20-%204%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/last_of_us_5.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/fc625805903e/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2022%20%28The%20Last%20Of%20Us%20-%205%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 22 [The Last Of Us - 5] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/fc625805903e/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2022%20%28The%20Last%20Of%20Us%20-%205%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/last_of_us_6.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/ffe0adda221e/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2023%20%28The%20Last%20Of%20Us%20-%206%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 23 [The Last Of Us - 6] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/ffe0adda221e/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2023%20%28The%20Last%20Of%20Us%20-%206%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/last_of_us_7.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/04fb72cff1bd/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2024%20%28The%20Last%20Of%20Us%20-%207%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 24 [The Last Of Us - 7] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/04fb72cff1bd/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2024%20%28The%20Last%20Of%20Us%20-%207%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/beyond_1.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/b0a211bca447/Beyond%20Two%20Souls%231.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 25 [Beyond- Two Souls - 1] <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/b0a211bca447/Beyond%20Two%20Souls%231.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/beyond_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/088991f9a941/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2026%20%28Beyond-%20Two%20Souls%20-%202%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 26 [Beyond- Two Souls - 2] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/088991f9a941/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2026%20%28Beyond-%20Two%20Souls%20-%202%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/beyond_3.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/50f816cbfa58/Beyond%20Two%20Souls%233%28%D1%87%D0%B0%D1%81%D1%82%D1%8C1%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 27 [Beyond- Two Souls - 3-1] <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/50f816cbfa58/Beyond%20Two%20Souls%233%28%D1%87%D0%B0%D1%81%D1%82%D1%8C1%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/beyond_3.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/f9f82b0e0dde/Beyond%20Two%20Souls%233%28%D1%87%D0%B0%D1%81%D1%82%D1%8C%202%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 27 [Beyond- Two Souls - 3-2] <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/f9f82b0e0dde/Beyond%20Two%20Souls%233%28%D1%87%D0%B0%D1%81%D1%82%D1%8C%202%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/beyond_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/c99d700aeb98/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2028%20%28Beyond-%20Two%20Souls%20-%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 28 [Beyond- Two Souls - финал] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/c99d700aeb98/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2028%20%28Beyond-%20Two%20Souls%20-%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/last_of_us_8.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/1feb81546e12/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2029%20%28The%20Last%20Of%20Us%20-%208%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 29 [The Last Of Us - 8] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/1feb81546e12/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2029%20%28The%20Last%20Of%20Us%20-%208%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/last_of_us_9.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/f45e6e960ed9/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2030%20%28The%20Last%20Of%20Us%20-%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 30 [The Last Of Us - финал] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/f45e6e960ed9/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2030%20%28The%20Last%20Of%20Us%20-%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/farenheit_3.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/e9a8465a8f57/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2031%20%28Fahrenheit%20-%201%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 31 [Fahrenheit - 1] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/e9a8465a8f57/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2031%20%28Fahrenheit%20-%201%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/farenheit_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/2bf965c69b32/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2032%20%28Fahrenheit%20-%202%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 32 [Fahrenheit - 2] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/2bf965c69b32/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2032%20%28Fahrenheit%20-%202%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/farenheit_1.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/c753a8900bea/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2033%20%28Fahrenheit%20-%203%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 33 [Fahrenheit - 3] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/c753a8900bea/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2033%20%28Fahrenheit%20-%203%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/farenheit_2.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/b5f9cbcc34b8/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2034%20%28Fahrenheit%20-%204%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 34 [Fahrenheit - 4] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/b5f9cbcc34b8/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2034%20%28Fahrenheit%20-%204%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/farenheit_3.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/399dcb3a8563/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2035%20%28Fahrenheit%20-%205%20%D0%A4%D0%98%D0%9D%D0%90%D0%9B%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 35 [Fahrenheit - 5 ФИНАЛ] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/399dcb3a8563/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2035%20%28Fahrenheit%20-%205%20%D0%A4%D0%98%D0%9D%D0%90%D0%9B%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/painkiller.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/1216be15e9db/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2036%20%28Painkiller%20%D1%81%20%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%BE%D0%B9%20-%201%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 36 [Painkiller с Татьяной - 1] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/1216be15e9db/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2036%20%28Painkiller%20%D1%81%20%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%BE%D0%B9%20-%201%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/painkiller.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/f12271fa62f4/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2037%20%28Painkiller%20%D1%81%20%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%BE%D0%B9%20-%202%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 37 [Painkiller с Татьяной - 2] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/f12271fa62f4/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2037%20%28Painkiller%20%D1%81%20%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%BE%D0%B9%20-%202%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/call_of_duty_ghosts.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/89a266498395/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2038%20%28Call%20Of%20Duty-%20Ghosts%20-%201%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 38 [Call Of Duty- Ghosts - 1] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/89a266498395/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2038%20%28Call%20Of%20Duty-%20Ghosts%20-%201%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/painkiller.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/05355b63651c/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2039%20%28Painkiller%20%D1%81%20%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%BE%D0%B9%20-%203%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 39 [Painkiller с Татьяной - 3 финал] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/05355b63651c/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2039%20%28Painkiller%20%D1%81%20%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%BE%D0%B9%20-%203%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/call_of_duty_ghosts.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/b4c71281c485/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2040%20%28Call%20Of%20Duty-%20Ghosts%20-%202%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 40 [Call Of Duty- Ghosts - 2] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/b4c71281c485/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2040%20%28Call%20Of%20Duty-%20Ghosts%20-%202%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/call_of_duty_ghosts.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/e7b0f9de1d8a/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2041%20%28Call%20Of%20Duty-%20Ghosts%20-%203%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 41 [Call Of Duty- Ghosts - 3] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/e7b0f9de1d8a/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2041%20%28Call%20Of%20Duty-%20Ghosts%20-%203%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/call_of_duty_ghosts.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/084adea89264/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2042%20%28Call%20Of%20Duty-%20Ghosts%20-%20%D0%A4%D0%98%D0%9D%D0%90%D0%9B%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 42 [Call Of Duty- Ghosts - ФИНАЛ] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/084adea89264/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2042%20%28Call%20Of%20Duty-%20Ghosts%20-%20%D0%A4%D0%98%D0%9D%D0%90%D0%9B%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/the_wolf_among_us.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/a45b733de244/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2043%20%28The%20Wolf%20Among%20Us%20-%201%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 43 [The Wolf Among Us - 1] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/a45b733de244/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2043%20%28The%20Wolf%20Among%20Us%20-%201%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/the_wolf_among_us.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/7907726c8479/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2044%20%28The%20Wolf%20Among%20Us%20-%202%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 44 [The Wolf Among Us - 2] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/7907726c8479/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2044%20%28The%20Wolf%20Among%20Us%20-%202%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/deadfall_adventures.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/dfe0fd3717ad/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2046%20%28DeadFall%20adventures%20-%202%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 46 [DeadFall adventures - 2] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/dfe0fd3717ad/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2046%20%28DeadFall%20adventures%20-%202%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/deadfall_adventures.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/ad48c0a39679/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2047%20%28DeadFall%20adventures%20-%203%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 47 [DeadFall adventures - 3] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/ad48c0a39679/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2047%20%28DeadFall%20adventures%20-%203%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/deadfall_adventures.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/14114881b129/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2048%20%28DeadFall%20adventures%20-%204%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 48 [DeadFall adventures - 4] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/14114881b129/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2048%20%28DeadFall%20adventures%20-%204%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/deadfall_adventures.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/115ff7adb68b/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2049%20%28DeadFall%20adventures%20-%205%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 49 [DeadFall adventures - 5] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/115ff7adb68b/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2049%20%28DeadFall%20adventures%20-%205%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/deadfall_adventures.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/35e73582d50b/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2050%20%28DeadFall%20adventures%20-%20%D0%A4%D0%98%D0%9D%D0%90%D0%9B%29.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>'Дело было вечером...' - Выпуск 50 [DeadFall adventures - ФИНАЛ] <img src="quality/360.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/35e73582d50b/%27%D0%94%D0%B5%D0%BB%D0%BE%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC...%27%20-%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%2050%20%28DeadFall%20adventures%20-%20%D0%A4%D0%98%D0%9D%D0%90%D0%9B%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<h2><a name="end"></h2>
+<p align="center"><b><font size="5"><a href="#start">Назад</a></font></b><p>
+</div>
+</div>
+<footer class="row credit">
+<div class="col col-md-12">
+<div id="templatemo_footer"><a href="http://vk.com/pqwpqwpqw"><font size="2" color="#fffffff">© 2014<br>Влад Астапов</font></a></div>
+</div>
+</footer>
+</div>		
+</div>
+<script src="javascript/query.js"></script>
+<script>window.jQuery || document.write('<script src="javascript/slider.js">\x3C/script>')</script>
+<script defer src="javascript/slider.js"></script>
+<script type="text/javascript">
+	$(function(){
+	SyntaxHighlighter.all();
+	});
+	$(window).load(function(){
+	$('.flexslider').flexslider({
+	animation: "slide",
+	start: function(slider){
+	$('body').removeClass('loading');
+	}
+	});
+	});
+</script>
+</body>
+<script type='text/javascript' src='javascript/logging.js'></script>
+</html>

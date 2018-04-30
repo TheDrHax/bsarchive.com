@@ -1,0 +1,387 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<title>BlackSilverUfa - Resident evil 6 (с Джеком Шепардом)</title>
+<link href="../../css/loading.css" rel="stylesheet" type="text/css">
+<link href="../../css/style.css" rel="stylesheet" type="text/css">
+<link rel="../../stylesheet" href="slider.css" type="text/css" media="screen" />
+<script src="../../javascript/modern.js"></script>
+<link href="video-js.css" rel="stylesheet" type="text/css">
+<script src="javascript/video.js"></script>
+<script>
+videojs.options.flash.swf = "video-js.swf";
+</script>
+</head>
+<body class="resident_evil_6">
+<div id="main_container">
+<div class="container" id="home">
+<div class="row col-wrap">			 
+<div id="left_container" class="col col-md-3 col-sm-12">
+<div class="logo">
+<img src="images/container/arthur.png">
+</div>
+<nav id="main_nav">
+<ul class="nav">
+	<li><a href="index.php?id=1">Главная страница</a></li>
+	<li><a href="index.php?id=2">Новости сайта</a></li>	
+	<li><a href="index.php?id=3">Обновление серий</a></li>
+	<li><a href="http://vk.com/official_group_by_blacksilver" target="blank">Группа Bконтакте</a></li>
+	<li><a href="http://www.youtube.com/user/BlackSilverUfa" target="blank">Канал на Youtube</a></li>
+	<li><a href="http://blacksilverufa.com/" target="blank">Форум Блэка</a></li>
+</ul>
+<ul class="nav">
+	<li><img src="images/container/rubrics.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=5">Инди хорроры</a></li>
+	<li><a href="index.php?id=6">Маленькие игры</a></li>
+	<li><a href="index.php?id=7"><font size="2">Инди игры и многосерийные хорроры</font></a></li>
+	<li><a href="index.php?id=8">Первый взгляд</a></li>
+	<li><a href="index.php?id=9">Пятничный подкаст</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/series.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><a href="index.php?id=11">"Серия игр Amnesia"</a></li>
+	<li><a href="index.php?id=189">"Серия игр Bioshock"</a></li>
+	<li><a href="index.php?id=192">"Серия игр Day Z"</a></li>
+	<li><a href="index.php?id=12">"Серия игр Dead space"</a></li>
+	<li><a href="index.php?id=23">"Серия игр Metal gear"</a></li>
+	<li class="active"><a href="index.php?id=14">"Серия игр Resident evil"</a></li>
+	<li><a href="index.php?id=13">"Серия игр SCP: Containment breach"</a></li>
+	<li><a href="index.php?id=15">"Серия игр Silent hill"</a></li>
+	<li><a href="index.php?id=193">"Серия игр Souls"</a></li>
+	<li><a href="index.php?id=16">"Серия игр The elder scrolls"</a></li>
+	<li><a href="index.php?id=31">"Серия игр The walking dead"</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/letsplay.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=35"><font size="3" color="999999">«Все прохождения»</font></a></li>
+	<li><a href="index.php?id=19"><font size="2">Black mesa & Stanley parable</font></a></li>
+	<li><a href="index.php?id=18"><font size="2">Call of cthulhu & Анабиоз: Сон разума</font></a></li>
+	<li><a href="index.php?id=21"><font size="2">Condemned: Criminal origins & Condemned 2</font></a></li>
+	<li><a href="index.php?id=29"><font size="2">Darkness within & Darkness within 2</font></a></li>
+	<li><a href="index.php?id=26"><font size="2">Dragons dogma & Тень колосса</font></a></li>
+	<li><a href="index.php?id=34"><font size="2">Halo: ODST & Halo:Reach</font></a></li>
+	<li><a href="index.php?id=22"><font size="2">I am alive & The last of us</font></a></li>
+	<li><a href="index.php?id=33"><font size="2">Journey & Dear Esther</font></a></li>
+	<li><a href="index.php?id=24"><font size="2">Left 4 dead & Left 4 dead 2</font></a></li>
+	<li><a href="index.php?id=201"><font size="2">Max Payne & Max payne 2</font></a></li>
+	<li><a href="index.php?id=27"><font size="2">Metro: 2033 & Metro: Last light</font></a></li>
+	<li><a href="index.php?id=25"><font size="2">Outlast & Siren: Blood curse</font></a></li>
+	<li><a href="index.php?id=30"><font size="2">Penumbra: Overture & Penumbra: Black plague</font></a></li>
+	<li><a href="index.php?id=20"><font size="2">Star trek & Starbound</font></a></li>
+	<li><a href="index.php?id=32"><font size="2">Злодеи республики  & Джедаи республики</font></a></li>
+</ul>
+</nav>
+<div>
+	<a href="http://vk.com/official_group_by_blacksilver" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+<img src="images_art_games/artem.png">
+<ul class="nav">
+	<li><a href="index.php?id=148"><font color="f1e685">Главная страница</font></a></li>	
+	<li><a href="index.php?id=159"><font color="f1e685">Обновление серий</font></a></li>
+	<li><a href="http://vk.com/artgamesofficial" target="blank"><font color="f1e685">Группа Bконтакте</font></a></li>
+	<li><a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><font color="f1e685">Канал на Youtube</font></a></li>
+</ul>
+<img src="images_art_games/rubrics_art_games.png">
+<ul class="nav">
+	<li><a href="index.php?id=151"><font color="f1e685">Дело было вечером</font></a></li>	
+	<li><a href="index.php?id=152"><font color="f1e685">Трансляции</font></a></li>
+	<li><a href="index.php?id=157"><font color="f1e685">Прохождения</font></a></li>	
+	<li><a href="index.php?id=160"><font color="f1e685">Сказки на ночь</font></a></li>
+</ul>
+<br>
+<div>
+	<a href="http://vk.com/artgamesofficial" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+</div>
+<div id="right_container" class="col col-md-9 col-sm-12">
+<p align="center"><img src="../../images/blacksilverufa.png"></p>
+<div class="row">
+<div class="col col-md-12">                       
+</div>
+</div>
+<article class="row">
+<p align="center"><b><font size="6">«Resident Evil 6»</font></b><p> 
+</article>
+<article class="row">
+<p align="center"><b><font size="4"><a href="index.php?id=35">ВСЕ ПРОХОЖДЕНИЯ</a></font></b><p> 
+<p align="center"><b><font size="4"><a href="index.php?id=14">ВЕРНУТЬСЯ</a></font></b><p> 
+</article>
+<p align="center"><b><font size="5"><a href="#end">Вниз</a></font></b><p>
+<a name="start"></a>
+<article class="row">
+
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 1 [Пролог] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212745&hash=e080cb325da4e9b4&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/ade02398e1d9/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%201%20%5B%D0%9F%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Resident Evil 6 - Серия 2 [Все дело в тумане] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212746&hash=5c87e8b6e41b5a13&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a264a0e638e6/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%202%20%5B%D0%92%D1%81%D0%B5%20%D0%B4%D0%B5%D0%BB%D0%BE%20%D0%B2%20%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%B5%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 3 [Темный зев подземки] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212747&hash=28bb775fdf7f1820&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/893dfda8a139/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%203%20%5B%D0%A2%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B5%D0%B2%20%D0%BF%D0%BE%D0%B4%D0%B7%D0%B5%D0%BC%D0%BA%D0%B8%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Resident Evil 6 - Серия 4 [Ужасы нашего городка] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212748&hash=dc3775743c413fb4&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/0cc391b53d5e/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%204%20%5B%D0%A3%D0%B6%D0%B0%D1%81%D1%8B%20%D0%BD%D0%B0%D1%88%D0%B5%D0%B3%D0%BE%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BA%D0%B0%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 5 [Кладбище] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212749&hash=1a95f22ae4b15d3f&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/3d8b418abc5a/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%205%20%5B%D0%9A%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Resident Evil 6 - Серия 6 [Церковь] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212750&hash=2d95ac50b1a6e62d&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/d2c310af332f/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%206%20%5B%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 7 [Близкие люди] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212751&hash=ea7d00b0e5a81f9b&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/e78526b9fda7/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%207%20%5B%D0%91%D0%BB%D0%B8%D0%B7%D0%BA%D0%B8%D0%B5%20%D0%BB%D1%8E%D0%B4%D0%B8%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Resident Evil 6 - Серия 8 [В воде что-то есть] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212752&hash=1dd73c5ad3964e1b&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/8f2b3f73128d/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%208%20%5B%D0%92%20%D0%B2%D0%BE%D0%B4%D0%B5%20%D1%87%D1%82%D0%BE-%D1%82%D0%BE%20%D0%B5%D1%81%D1%82%D1%8C%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 9 [Добро пожаловать в Китай] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212753&hash=60ca9188a9434172&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo1.datacloudmail.ru/weblink/view/31f60af33df8/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%209%20%5B%D0%94%D0%BE%D0%B1%D1%80%D0%BE%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%B2%20%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Resident Evil 6 - Серия 10 [Симмонс] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212754&hash=deea3f8df37d2138&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo9.datacloudmail.ru/weblink/view/270e2caa1513/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2010%20%5B%D0%A1%D0%B8%D0%BC%D0%BC%D0%BE%D0%BD%D1%81%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 11 [Финал за Леона] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212755&hash=d51acbd07a76a9f7&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/4d2274e9f00d/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2011%20%5B%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%20%D0%B7%D0%B0%20%D0%9B%D0%B5%D0%BE%D0%BD%D0%B0%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 12 <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212756&hash=e3911ba607ae09ce&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a099ee102f5c/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2012.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Resident Evil 6 - Серия 13-1 <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212758&hash=33e067293c171ac8&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/df538d75983b/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2013%20%5B1-2%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<td>
+<h4>Resident Evil 6 - Серия 13-2 <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212759&hash=4b5e989ce24033aa&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/37ff6f886a58/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2013%20%5B2-2%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 14 <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212760&hash=e91b9d99351b63a8&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/fd697d5acfeb/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2014.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Resident Evil 6 - Серия 15 <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212762&hash=545341258eb775a2&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a5eba5f1ac18/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2015.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 16 <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212763&hash=77f0c9698f927bb8&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/ec700cbf7d48/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2016.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Resident Evil 6 - Серия 17 <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212764&hash=5e186fa0e8bafaa0&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/2ee06e83c13f/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2017.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 18 <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212765&hash=02de861dbd0b0d1a&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/635681163b8a/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2018.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Resident Evil 6 - Серия 19 [Финал за Криса] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212766&hash=713a17a7fa8f90d2&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/1e192678de59/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2019%20%5B%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%20%D0%B7%D0%B0%20%D0%9A%D1%80%D0%B8%D1%81%D0%B0%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 20 <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212767&hash=352ee3d6bca09331&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/b8e633ecbbe3/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2020.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 21-1 <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212769&hash=834d4ff93f17c5c2&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/4ea15512c0c3/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2021%20%5B1-2%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Resident Evil 6 - Серия 21-2 <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212771&hash=cd9f944eafebbf12&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/fd1d498ab855/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2021%20%5B2-2%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<td>
+<h4>Resident Evil 6 - Серия 22 <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212773&hash=ca6e9417590fbb39&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/73e88a5ffdd6/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2022.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 23 [Разделение] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212774&hash=338e2b979d480453&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/9184023376e3/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2023%20%5B%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Resident Evil 6 - Серия  24 [Скорость] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212775&hash=3afedeb18be31683&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/c8ba338d5af4/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2024%20%5B%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 25 [Битва у контейнеров] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212776&hash=eeb7784d1e9f4f04&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/11d280bb0fb2/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2025%20%5B%D0%91%D0%B8%D1%82%D0%B2%D0%B0%20%D1%83%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D0%BE%D0%B2%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Resident Evil 6 - Серия 26 [В плену] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212778&hash=315901cd04d14b06&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/f227baa4ed01/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2026%20%5B%D0%92%20%D0%BF%D0%BB%D0%B5%D0%BD%D1%83%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 27 [Финал за Джейка] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212779&hash=b89f4d6f59a948aa&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/482bb3e373f2/RE6%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2027%20%5B%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%20%D0%B7%D0%B0%20%D0%94%D0%B6%D0%B5%D0%B9%D0%BA%D0%B0%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Resident Evil 6 - Серия 28 [Aдa Вонг #1] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212780&hash=3e0fcf333528d86e&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/eda6d2854348/Resident%20Evil%206%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC-%20A%D0%B4a%20%D0%92%D0%BE%D0%BD%D0%B3%20%231.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 29 [Aдa Вонг #2] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212781&hash=0df067886dfdd2fb&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a54a5d129524/Resident%20Evil%206%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC-%20A%D0%B4a%20%D0%92%D0%BE%D0%BD%D0%B3%20%232.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Resident Evil 6 - Серия 30 [Aдa Вонг #3] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212782&hash=95316c014fbed974&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/d3671f3e3871/Resident%20Evil%206%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC-%20A%D0%B4a%20%D0%92%D0%BE%D0%BD%D0%B3%20%233.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 31 [Aдa Вонг #4] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212783&hash=675c8831dc9f28fb&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/c4e25e3e10cb/Resident%20Evil%206%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC-%20A%D0%B4a%20%D0%92%D0%BE%D0%BD%D0%B3%20%234.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Resident Evil 6 - Серия 32 [Aдa Вонг #5] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212784&hash=3ea3328c347895fb&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/daa136a78b98/Resident%20Evil%206%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC-%20A%D0%B4a%20%D0%92%D0%BE%D0%BD%D0%B3%20%235.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Resident Evil 6 - Серия 33 [Aдa Вонг #6 Финал] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168212785&hash=ee1cc2fec987145b&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/bce9ecb51546/Resident%20Evil%206%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D1%83%20%D1%81%20%D0%A8%D0%B5%D0%BF%D0%B0%D1%80%D0%B4%D0%BE%D0%BC-%20A%D0%B4a%20%D0%92%D0%BE%D0%BD%D0%B3%20%236%20%5B%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+
+</article>
+<h2><a name="end"></h2>
+<p align="center"><b><font size="5"><a href="#start">Назад</a></font></b><p>
+</div>
+</div>
+<footer class="row credit">
+<div class="col col-md-12">
+<div id="templatemo_footer"><a href="http://vk.com/pqwpqwpqw"><font size="2" color="#fffffff">© 2014<br>Влад Астапов</font></a></div>
+</div>
+</footer>
+</div>		
+</div>
+<script src="javascript/query.js"></script>
+<script>window.jQuery || document.write('<script src="../javascript/slider.js">\x3C/script>')</script>
+<script defer src="../javascript/slider.js"></script>
+<script type="text/javascript">
+	$(function(){
+	SyntaxHighlighter.all();
+	});
+	$(window).load(function(){
+	$('.flexslider').flexslider({
+	animation: "slide",
+	start: function(slider){
+	$('body').removeClass('loading');
+	}
+	});
+	});
+</script>
+</body>
+<script type='text/javascript' src='../javascript/logging.js'></script>
+</html>

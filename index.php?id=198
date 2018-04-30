@@ -1,0 +1,417 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<title>BlackSilverUfa - Doom 3</title>
+<link href="css/loading.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="slider.css" type="text/css" media="screen" />
+<script src="javascript/modern.js"></script>
+<link href="video-js.css" rel="stylesheet" type="text/css">
+<script src="javascript/video.js"></script>
+<script>
+videojs.options.flash.swf = "video-js.swf";
+</script>
+</head>
+<body class="doom_3">
+<div id="crysis_3">
+<div class="container" id="home">
+<div class="row col-wrap">			 
+<div id="left_container" class="col col-md-3 col-sm-12">
+<div class="logo">
+<img src="images/container/arthur.png">
+</div>
+<nav id="main_nav">
+<ul class="nav">
+	<li><a href="index.php?id=1">Главная страница</a></li>
+	<li><a href="index.php?id=2">Новости сайта</a></li>	
+	<li><a href="index.php?id=3">Обновление серий</a></li>
+	<li><a href="http://vk.com/official_group_by_blacksilver" target="blank">Группа Bконтакте</a></li>
+	<li><a href="http://www.youtube.com/user/BlackSilverUfa" target="blank">Канал на Youtube</a></li>
+	<li><a href="http://blacksilverufa.com/" target="blank">Форум Блэка</a></li>
+</ul>
+<ul class="nav">
+	<li><img src="images/container/rubrics.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=5">Инди хорроры</a></li>
+	<li><a href="index.php?id=6">Маленькие игры</a></li>
+	<li><a href="index.php?id=7"><font size="2">Инди игры и многосерийные хорроры</font></a></li>
+	<li><a href="index.php?id=8">Первый взгляд</a></li>
+	<li><a href="index.php?id=9">Пятничный подкаст</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/series.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><a href="index.php?id=11">"Серия игр Amnesia"</a></li>
+	<li><a href="index.php?id=189">"Серия игр Bioshock"</a></li>
+	<li><a href="index.php?id=192">"Серия игр Day Z"</a></li>
+	<li><a href="index.php?id=12">"Серия игр Dead space"</a></li>
+	<li><a href="index.php?id=23">"Серия игр Metal gear"</a></li>
+	<li><a href="index.php?id=14">"Серия игр Resident evil"</a></li>
+	<li><a href="index.php?id=13">"Серия игр SCP: Containment breach"</a></li>
+	<li><a href="index.php?id=15">"Серия игр Silent hill"</a></li>
+	<li><a href="index.php?id=193">"Серия игр Souls"</a></li>
+	<li><a href="index.php?id=16">"Серия игр The elder scrolls"</a></li>
+	<li><a href="index.php?id=31">"Серия игр The walking dead"</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/letsplay.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li class="active"><a href="index.php?id=35"><font size="3" color="999999">«Все прохождения»</font></a></li>
+	<li><a href="index.php?id=19"><font size="2">Black mesa & Stanley parable</font></a></li>
+	<li><a href="index.php?id=18"><font size="2">Call of cthulhu & Анабиоз: Сон разума</font></a></li>
+	<li><a href="index.php?id=21"><font size="2">Condemned: Criminal origins & Condemned 2</font></a></li>
+	<li><a href="index.php?id=29"><font size="2">Darkness within & Darkness within 2</font></a></li>
+	<li><a href="index.php?id=26"><font size="2">Dragons dogma & Тень колосса</font></a></li>
+	<li><a href="index.php?id=34"><font size="2">Halo: ODST & Halo:Reach</font></a></li>
+	<li><a href="index.php?id=22"><font size="2">I am alive & The last of us</font></a></li>
+	<li><a href="index.php?id=33"><font size="2">Journey & Dear Esther</font></a></li>
+	<li><a href="index.php?id=24"><font size="2">Left 4 dead & Left 4 dead 2</font></a></li>
+	<li><a href="index.php?id=201"><font size="2">Max Payne & Max payne 2</font></a></li>
+	<li><a href="index.php?id=27"><font size="2">Metro: 2033 & Metro: Last light</font></a></li>
+	<li><a href="index.php?id=25"><font size="2">Outlast & Siren: Blood curse</font></a></li>
+	<li><a href="index.php?id=30"><font size="2">Penumbra: Overture & Penumbra: Black plague</font></a></li>
+	<li><a href="index.php?id=20"><font size="2">Star trek & Starbound</font></a></li>
+	<li><a href="index.php?id=32"><font size="2">Злодеи республики  & Джедаи республики</font></a></li>
+</ul>
+</nav>
+<div>
+	<a href="http://vk.com/official_group_by_blacksilver" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+<img src="images_art_games/artem.png">
+<ul class="nav">
+	<li><a href="index.php?id=148"><font color="f1e685">Главная страница</font></a></li>	
+	<li><a href="index.php?id=159"><font color="f1e685">Обновление серий</font></a></li>
+	<li><a href="http://vk.com/artgamesofficial" target="blank"><font color="f1e685">Группа Bконтакте</font></a></li>
+	<li><a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><font color="f1e685">Канал на Youtube</font></a></li>
+</ul>
+<img src="images_art_games/rubrics_art_games.png">
+<ul class="nav">
+	<li><a href="index.php?id=151"><font color="f1e685">Дело было вечером</font></a></li>	
+	<li><a href="index.php?id=152"><font color="f1e685">Трансляции</font></a></li>
+	<li><a href="index.php?id=157"><font color="f1e685">Прохождения</font></a></li>	
+	<li><a href="index.php?id=160"><font color="f1e685">Сказки на ночь</font></a></li>
+</ul>
+<br>
+<div>
+	<a href="http://vk.com/artgamesofficial" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+</div>
+<div id="right_container" class="col col-md-9 col-sm-12">
+<p align="center"><img src="images/blacksilverufa.png"></p>
+<div class="row">
+</div>
+<article class="row">
+<p align="center"><b><font size="6">«Doom 3: BFG Edition»</font></b><p> 
+</article>
+<article class="row">
+<p align="center"><b><font size="4"><a href="index.php?id=35">ВСЕ ПРОХОЖДЕНИЯ</a></font></b><p> 
+</article>
+<p align="center"><b><font size="5"><a href="#end">Вниз</a></font></b><p>
+<a name="start"></a>
+
+<article class="row">
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+
+<h4>Doom 3: BFG Edition - Серия 1 [Марс сити, та еще дыра.] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383844&hash=205ca227fb8f5872&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/8d8a0561696a/Doom%203%20%231%20%5B%D0%9C%D0%B0%D1%80%D1%81%20%D1%81%D0%B8%D1%82%D0%B8%2C%20%D1%82%D0%B0%20%D0%B5%D1%89%D0%B5%20%D0%B4%D1%8B%D1%80%D0%B0.%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+
+<h4>Doom 3: BFG Edition - Серия 2 [Безумие] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383845&hash=79933f2810114f85&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/bcf5582cfa4d/Doom%203%20%232%20%5B%D0%91%D0%B5%D0%B7%D1%83%D0%BC%D0%B8%D0%B5%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+
+<h4>Doom 3: BFG Edition - Серия 3 [Прорыв к штабу] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383846&hash=34cea269266fd4b7&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/6ac3125da08a/Doom%203%20%233%20%5B%D0%9F%D1%80%D0%BE%D1%80%D1%8B%D0%B2%20%D0%BA%20%D1%88%D1%82%D0%B0%D0%B1%D1%83%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+
+<h4>Doom 3: BFG Edition - Серия 4 [Комплекс Альфа] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383847&hash=1deb1c82876430a0&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/17a8cb575e79/Doom%203%20%234%20%5B%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%D0%90%D0%BB%D1%8C%D1%84%D0%B0%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+
+<h4>Doom 3: BFG Edition - Серия 5 [Крики из темноты] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383848&hash=f0e72adf8743b540&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/d21ec6bb874e/Doom%203%20%235%20%5B%D0%9A%D1%80%D0%B8%D0%BA%D0%B8%20%D0%B8%D0%B7%20%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D1%82%D1%8B%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+
+<h4>Doom 3: BFG Edition - Серия 6 [У них две головы!!! Две! Головы!!] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383849&hash=cb4758391aa79574&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/3ffefc874b51/Doom%203%20%236%20%5B%D0%A3%20%D0%BD%D0%B8%D1%85%20%D0%B4%D0%B2%D0%B5%20%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%21%21%21%20%D0%94%D0%B2%D0%B5%21%20%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%21%21%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+
+<h4>Doom 3: BFG Edition - Серия 7 [Пауки! Ненавижу!] <img src="quality/480.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168418093&hash=dc92eb07dcdeacec&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/fc206ccd4f43/Doom%203%20%237%20%5B%D0%9F%D0%B0%D1%83%D0%BA%D0%B8%21%20%D0%9D%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B6%D1%83%21%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+
+<h4>Doom 3: BFG Edition - Серия 8 [Очередная подначка в конце_)] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168418094&hash=e8aab8c499a51e4d&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/d08eaac903f2/Doom%203%20%238%20-%20%D0%9E%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BE%D0%B4%D0%BD%D0%B0%D1%87%D0%BA%D0%B0%20%D0%B2%20%D0%BA%D0%BE%D0%BD%D1%86%D0%B5_%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+
+<h4>Doom 3: BFG Edition - Серия 9 [Квилаг, какими судьбами] <img src="quality/480.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383850&hash=e4a2ea0ea4014716&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/8fcebc3e7978/Doom%203%20%239%20%5B%D0%9A%D0%B2%D0%B8%D0%BB%D0%B0%D0%B3%2C%20%D0%BA%D0%B0%D0%BA%D0%B8%D0%BC%D0%B8%20%D1%81%D1%83%D0%B4%D1%8C%D0%B1%D0%B0%D0%BC%D0%B8%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+
+<h4>Doom 3: BFG Edition - Серия 10 [Проблемы с реактором, привет из Чужих] <img src="quality/480.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383851&hash=d12aee04ac34c366&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/1df1c28ffbb6/Doom%203%20%2310%20%5B%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B%20%D1%81%20%D1%80%D0%B5%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%BC%2C%20%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%20%D0%B8%D0%B7%20%D0%A7%D1%83%D0%B6%D0%B8%D1%85%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+
+<h4>Doom 3: BFG Edition - Серия 11 [Решаем проблемы. Бензопилой] <img src="quality/480.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383852&hash=72c7b8271ddcbb4e&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/e6f52dd5e770/Doom%203%20%2311%20%5B%D0%A0%D0%B5%D1%88%D0%B0%D0%B5%D0%BC%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B.%20%D0%91%D0%B5%D0%BD%D0%B7%D0%BE%D0%BF%D0%B8%D0%BB%D0%BE%D0%B9.%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+
+<h4>Doom 3: BFG Edition - Серия 12 [Облом со связью] <img src="quality/480.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383853&hash=001f81332f266bb8&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/98025a2f1d78/Doom%203%20%2312%20%5B%D0%9E%D0%B1%D0%BB%D0%BE%D0%BC%20%D1%81%D0%BE%20%D1%81%D0%B2%D1%8F%D0%B7%D1%8C%D1%8E%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+
+<h4>Doom 3: BFG Edition - Серия 13 (1-2) <img src="quality/480.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383855&hash=4775ace259bae85c&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/360545d271b4/Doom%203%20%2313%20%281-2%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+
+<h4>Doom 3: BFG Edition - Серия 13 (2-2) <img src="quality/480.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383856&hash=c3a850f90b8298d9&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/5bc62cace64d/Doom%203%20%2313%20%282-2%29.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+
+<h4>Doom 3: BFG Edition - Серия 14 [Токсины] <img src="quality/480.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383857&hash=31efe75cb892614c&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/bee223b7bbe4/Doom%203%20%2314%20%5B%D0%A2%D0%BE%D0%BA%D1%81%D0%B8%D0%BD%D1%8B%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+
+<h4>Doom 3: BFG Edition - Серия 15 [Дети - цветы жизни] <img src="quality/480.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383858&hash=91a5e2fbf4a7416f&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/a8582d217e22/Doom%203%20%2315%20%5B%D0%94%D0%B5%D1%82%D0%B8%20-%20%D1%86%D0%B2%D0%B5%D1%82%D1%8B%20%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+
+<h4>Doom 3: BFG Edition - Серия 16 [Рельсовый шутер] <img src="quality/480.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383859&hash=ea71c4c6e4a3cc40&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/719250849d79/Doom%203%20%2316%20%5B%D0%A0%D0%B5%D0%BB%D1%8C%D1%81%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%88%D1%83%D1%82%D0%B5%D1%80%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+
+<h4>Doom 3: BFG Edition - Серия 17 [Дельта-сектор] <img src="quality/480.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383860&hash=0e338332e8ff997e&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/f1f76b114abc/Doom%203%20%2317%20%5B%D0%94%D0%B5%D0%BB%D1%8C%D1%82%D0%B0-%D1%81%D0%B5%D0%BA%D1%82%D0%BE%D1%80%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+
+<h4>Doom 3: BFG Edition - Серия 18 [Огромная ктулхуобразная штука] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383861&hash=7b9dd3a1528cde2e&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/1eb4eed98851/Doom%203%20%2318%20%5B%D0%9E%D0%B3%D1%80%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F%20%D0%BA%D1%82%D1%83%D0%BB%D1%85%D1%83%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D0%B0%D1%8F%20%D1%88%D1%82%D1%83%D0%BA%D0%B0%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+
+<h4>Doom 3: BFG Edition - Серия 19 [Шепот из темноты] <img src="quality/480.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383862&hash=1853f7072d5b2f16&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/1d2efed509c1/Doom%203%20%2319%20%5B%D0%A8%D0%B5%D0%BF%D0%BE%D1%82%20%D0%B8%D0%B7%20%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D1%82%D1%8B%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+
+<h4>Doom 3: BFG Edition - Серия 20 [Пост охраны] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383863&hash=9ecc74ea287266b1&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/85a5b84b53a4/Doom%203%20%2320%20%5B%D0%9F%D0%BE%D1%81%D1%82%20%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%8B%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+
+<h4>Doom 3: BFG Edition - Серия 21 [По следам Бертругера] <img src="quality/480.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383864&hash=786d8f4d34ca1536&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/af586e58ac09/Doom%203%20%2321%20%5B%D0%9F%D0%BE%20%D1%81%D0%BB%D0%B5%D0%B4%D0%B0%D0%BC%20%D0%91%D0%B5%D1%80%D1%82%D1%80%D1%83%D0%B3%D0%B5%D1%80%D0%B0%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+
+<h4>Doom 3: BFG Edition - Серия 22 [Шкафчик 666] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383865&hash=fa8a64301cfaa05d&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/aff2eb91b8f0/Doom%203%20%2322%20%5B%D0%A8%D0%BA%D0%B0%D1%84%D1%87%D0%B8%D0%BA%20666%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+
+<h4>Doom 3: BFG Edition - Серия 23 [Кишки на стенах] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383867&hash=a9341a93f34795a0&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/4f956727f814/Doom%203%20%2323%20%5B%D0%9A%D0%B8%D1%88%D0%BA%D0%B8%20%D0%BD%D0%B0%20%D1%81%D1%82%D0%B5%D0%BD%D0%B0%D1%85%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+
+<h4>Doom 3: BFG Edition - Серия 24 [Прямиком в Ад] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383868&hash=148d2ad75f8cfde8&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/39a106fb9d21/Doom%203%20%2324%20%5B%D0%9F%D1%80%D1%8F%D0%BC%D0%B8%D0%BA%D0%BE%D0%BC%20%D0%B2%20%D0%90%D0%B4%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+
+<h4>Doom 3: BFG Edition - Серия 25 [Куб Душ] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383869&hash=4210d6f6872e3621&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/e74845b43053/Doom%203%20%2325%20%5B%D0%9A%D1%83%D0%B1%20%D0%94%D1%83%D1%88%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+
+<h4>Doom 3: BFG Edition - Серия 26 [Свонн был прав] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383870&hash=629450bcc0979301&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/3a465898dfbf/Doom%203%20%2326%20%5B%D0%A1%D0%B2%D0%BE%D0%BD%D0%BD%20%D0%B1%D1%8B%D0%BB%20%D0%BF%D1%80%D0%B0%D0%B2%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+
+<h4>Doom 3: BFG Edition - Серия 27 [Сержант, покажись!] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383871&hash=18855df9c0a86435&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/4d7fb308eba0/Doom%203%20%2327%20%5B%D0%A1%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D1%82%2C%20%D0%BF%D0%BE%D0%BA%D0%B0%D0%B6%D0%B8%D1%81%D1%8C%21%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+
+<h4>Doom 3: BFG Edition - Серия 28 [Куб душ - это ответ] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383872&hash=f7d7980c38bb2065&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/1d8ecd5dc862/Doom%203%20%2328%20%5B%D0%9A%D1%83%D0%B1%20%D0%B4%D1%83%D1%88%20-%20%D1%8D%D1%82%D0%BE%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+
+<h4>Doom 3: BFG Edition - Серия 29 [Спуск] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383873&hash=25be3564e667e817&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/08c1682c98df/Doom%203%20%2329%20%5B%D0%A1%D0%BF%D1%83%D1%81%D0%BA%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+
+<h4>Doom 3: BFG Edition - Серия 30 [Пещеры] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383874&hash=b823da77089f6933&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/13c10bb7e2f3/Doom%203%20%2330%20%5B%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D1%8B%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Doom 3: BFG Edition - Серия 31 [Финал] <img src="quality/720.png" width="40"></h4>
+
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168383875&hash=66b517150a36cfe5&hd=1" width="854" height="480" frameborder="0" ></iframe>
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/4da79f61c73c/Doom%203%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2031%20%5B%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+</article>
+
+<h2><a name="end"></h2>
+<p align="center"><b><font size="5"><a href="#start">Назад</a></font></b><p>
+</div>
+</div>
+<footer class="row credit">
+<div class="col col-md-12">
+<div id="templatemo_footer"><a href="http://vk.com/pqwpqwpqw"><font size="2" color="#fffffff">© 2014<br>Влад Астапов</font></a></div>
+</div>
+</footer>
+</div>		
+</div>
+<script src="javascript/query.js"></script>
+<script>window.jQuery || document.write('<script src="javascript/slider.js">\x3C/script>')</script>
+<script defer src="javascript/slider.js"></script>
+<script type="text/javascript">
+	$(function(){
+	SyntaxHighlighter.all();
+	});
+	$(window).load(function(){
+	$('.flexslider').flexslider({
+	animation: "slide",
+	start: function(slider){
+	$('body').removeClass('loading');
+	}
+	});
+	});
+</script>
+</body>
+<script type='text/javascript' src='javascript/logging.js'></script>
+</html>

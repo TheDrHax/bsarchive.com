@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Scada'), local('Scada-Regular'), url(http://themes.googleusercontent.com/static/fonts/scada/v2/F5Y0Urxz0lcNByUbLZLu9g.woff) format('woff');
+}
+@font-face {
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Scada Bold'), local('Scada-Bold'), url(http://themes.googleusercontent.com/static/fonts/scada/v2/xbAq6vOsHBrm_q_F1QIYY_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}

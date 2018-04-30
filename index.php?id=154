@@ -1,0 +1,563 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<title>ArtGames - Resident evil 4</title>
+<link href="../../css/loading.css" rel="stylesheet" type="text/css">
+<link href="../../css/style.css" rel="stylesheet" type="text/css">
+<link rel="../../stylesheet" href="slider.css" type="text/css" media="screen" />
+<script src="../../javascript/modern.js"></script>
+<link href="video-js.css" rel="stylesheet" type="text/css">
+<script src="javascript/video.js"></script>
+<script>
+videojs.options.flash.swf = "video-js.swf";
+</script>
+</head>
+<body class="art_games">
+<div id="main_container">
+<div class="container" id="home">
+<div class="row col-wrap">			 
+<div id="left_container" class="col col-md-3 col-sm-12">
+<div class="logo">
+<img src="images_art_games/artem.png">
+<ul class="nav">
+	<li><a href="index.php?id=148"><font color="f1e685">Главная страница</font></a></li>	
+	<li><a href="index.php?id=159"><font color="f1e685">Обновление серий</font></a></li>
+	<li><a href="http://vk.com/artgamesofficial" target="blank"><font color="f1e685">Группа Bконтакте</font></a></li>
+	<li><a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><font color="f1e685">Канал на Youtube</font></a></li>
+</ul>
+<img src="images_art_games/rubrics_art_games.png">
+<ul class="nav">
+	<li><a href="index.php?id=151"><font color="f1e685">Дело было вечером</font></a></li>	
+	<li><a href="index.php?id=152"><font color="f1e685">Трансляции</font></a></li>
+	<li class="active"><a href="index.php?id=157"><font color="f1e685">Прохождения</font></a></li>	
+	<li><a href="index.php?id=160"><font color="f1e685">Сказки на ночь</font></a></li>
+</ul>
+<br>
+<div>
+	<a href="http://vk.com/artgamesofficial" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+<img src="images/container/arthur.png">
+</div>
+<nav id="main_nav">
+<ul class="nav">
+	<li><a href="index.php?id=1">Главная страница</a></li>
+	<li><a href="index.php?id=2">Новости сайта</a></li>	
+	<li><a href="index.php?id=3">Обновление серий</a></li>
+	<li><a href="http://vk.com/official_group_by_blacksilver" target="blank">Группа Bконтакте</a></li>
+	<li><a href="http://www.youtube.com/user/BlackSilverUfa" target="blank">Канал на Youtube</a></li>
+	<li><a href="http://blacksilverufa.com/" target="blank">Форум Блэка</a></li>
+</ul>
+<ul class="nav">
+	<li><img src="images/container/rubrics.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=5">Инди хорроры</a></li>
+	<li><a href="index.php?id=6">Маленькие игры</a></li>
+	<li><a href="index.php?id=7"><font size="2">Инди игры и многосерийные хорроры</font></a></li>
+	<li><a href="index.php?id=8">Первый взгляд</a></li>
+	<li><a href="index.php?id=9">Пятничный подкаст</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/series.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><a href="index.php?id=11">"Серия игр Amnesia"</a></li>
+	<li><a href="index.php?id=189">"Серия игр Bioshock"</a></li>
+	<li><a href="index.php?id=192">"Серия игр Day Z"</a></li>
+	<li><a href="index.php?id=12">"Серия игр Dead space"</a></li>
+	<li><a href="index.php?id=23">"Серия игр Metal gear"</a></li>
+	<li><a href="index.php?id=14">"Серия игр Resident evil"</a></li>
+	<li><a href="index.php?id=13">"Серия игр SCP: Containment breach"</a></li>
+	<li><a href="index.php?id=15">"Серия игр Silent hill"</a></li>
+	<li><a href="index.php?id=193">"Серия игр Souls"</a></li>
+	<li><a href="index.php?id=16">"Серия игр The elder scrolls"</a></li>
+	<li><a href="index.php?id=31">"Серия игр The walking dead"</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/letsplay.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=35"><font size="3" color="999999">«Все прохождения»</font></a></li>
+	<li><a href="index.php?id=19"><font size="2">Black mesa & Stanley parable</font></a></li>
+	<li><a href="index.php?id=18"><font size="2">Call of cthulhu & Анабиоз: Сон разума</font></a></li>
+	<li><a href="index.php?id=21"><font size="2">Condemned: Criminal origins & Condemned 2</font></a></li>
+	<li><a href="index.php?id=29"><font size="2">Darkness within & Darkness within 2</font></a></li>
+	<li><a href="index.php?id=26"><font size="2">Dragons dogma & Тень колосса</font></a></li>
+	<li><a href="index.php?id=34"><font size="2">Halo: ODST & Halo:Reach</font></a></li>
+	<li><a href="index.php?id=22"><font size="2">I am alive & The last of us</font></a></li>
+	<li><a href="index.php?id=33"><font size="2">Journey & Dear Esther</font></a></li>
+	<li><a href="index.php?id=24"><font size="2">Left 4 dead & Left 4 dead 2</font></a></li>
+	<li><a href="index.php?id=201"><font size="2">Max Payne & Max payne 2</font></a></li>
+	<li><a href="index.php?id=27"><font size="2">Metro: 2033 & Metro: Last light</font></a></li>
+	<li><a href="index.php?id=25"><font size="2">Outlast & Siren: Blood curse</font></a></li>
+	<li><a href="index.php?id=30"><font size="2">Penumbra: Overture & Penumbra: Black plague</font></a></li>
+	<li><a href="index.php?id=20"><font size="2">Star trek & Starbound</font></a></li>
+	<li><a href="index.php?id=32"><font size="2">Злодеи республики  & Джедаи республики</font></a></li>
+</ul>
+</nav>
+<div>
+	<a href="http://vk.com/official_group_by_blacksilver" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+</div>
+<div id="right_container" class="col col-md-9 col-sm-12">
+<p align="center"><img src="images/art_games.png"></p>
+<div class="row">
+<div class="col col-md-12">                       
+</div>
+</div>
+<article class="row">
+<p align="center"><b><font size="6">«Resident Evil 4»</font></b><p> 
+</article>
+<article class="row">
+<p align="center"><b><font size="4"><a href="index.php?id=157">ВЕРНУТЬСЯ</a></font></b><p> 
+</article>
+<p align="center"><b><font size="5"><a href="#end">Вниз</a></font></b><p>
+<a name="start"></a>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/f0f416c15fd1/Resident%20Evil%204%20HD%20-%20%231.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 1 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/f0f416c15fd1/Resident%20Evil%204%20HD%20-%20%231.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/a3d9f3a1cafa/Resident%20Evil%204%20HD%20-%20%232.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 2 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/a3d9f3a1cafa/Resident%20Evil%204%20HD%20-%20%232.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/877c7eafedbe/Resident%20Evil%204%20HD%20-%20%233.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 3 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/877c7eafedbe/Resident%20Evil%204%20HD%20-%20%233.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/2ab8bc854d63/Resident%20Evil%204%20HD%20-%20%234.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 4 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/2ab8bc854d63/Resident%20Evil%204%20HD%20-%20%234.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/4b8d88d5b3a1/Resident%20Evil%204%20HD%20-%20%235.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 5 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/4b8d88d5b3a1/Resident%20Evil%204%20HD%20-%20%235.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/35877a6a4a48/Resident%20Evil%204%20HD%20-%20%236.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 6 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/35877a6a4a48/Resident%20Evil%204%20HD%20-%20%236.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/4c90a093e2f6/Resident%20Evil%204%20HD%20-%20%237.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 7 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/4c90a093e2f6/Resident%20Evil%204%20HD%20-%20%237.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/d72f526a7c6e/Resident%20Evil%204%20HD%20-%20%238.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 8 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/d72f526a7c6e/Resident%20Evil%204%20HD%20-%20%238.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/d07a93bb1055/Resident%20Evil%204%20HD%20-%20%239.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 9 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/d07a93bb1055/Resident%20Evil%204%20HD%20-%20%239.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/c227cd00fb7c/Resident%20Evil%204%20HD%20-%20%2310.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 10 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/c227cd00fb7c/Resident%20Evil%204%20HD%20-%20%2310.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/eb088eca3c08/Resident%20Evil%204%20HD%20-%20%2311.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 11 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/eb088eca3c08/Resident%20Evil%204%20HD%20-%20%2311.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/4538df31a78b/Resident%20Evil%204%20HD%20-%20%2312.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 12 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/4538df31a78b/Resident%20Evil%204%20HD%20-%20%2312.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/fc777d5a152b/Resident%20Evil%204%20HD%20-%20%2313.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 13 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/fc777d5a152b/Resident%20Evil%204%20HD%20-%20%2313.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/760291618dc9/Resident%20Evil%204%20HD%20-%20%2314.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 14 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/760291618dc9/Resident%20Evil%204%20HD%20-%20%2314.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/5e8229791121/Resident%20Evil%204%20HD%20-%20%2315.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 15 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/5e8229791121/Resident%20Evil%204%20HD%20-%20%2315.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/09a6a2316e6d/Resident%20Evil%204%20HD%20-%20%2316.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 16 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/09a6a2316e6d/Resident%20Evil%204%20HD%20-%20%2316.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/37c242b44efb/Resident%20Evil%204%20HD%20-%20%2317.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 17 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/37c242b44efb/Resident%20Evil%204%20HD%20-%20%2317.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/c167b576f56c/Resident%20Evil%204%20HD%20-%20%2318.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 18 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/c167b576f56c/Resident%20Evil%204%20HD%20-%20%2318.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/2d7f49f2d551/Resident%20Evil%204%20HD%20-%20%2319.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 19 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/2d7f49f2d551/Resident%20Evil%204%20HD%20-%20%2319.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/f04f37f1e380/Resident%20Evil%204%20HD%20-%20%2320.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 20 <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/f04f37f1e380/Resident%20Evil%204%20HD%20-%20%2320.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images_art_games/resident_evil_4.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/e292c80e78bc/Resident%20Evil%204%20HD%20-%20%2321%20%D0%A4%D0%98%D0%9D%D0%90%D0%9B.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 21 [Финал] <img src="quality/720.png" width="50"></h3> 
+<p>Игровой канал Артёма:<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"> http://www.youtube.com/user/ArtGamesLP</a><br>
+
+Группа Вконтакте: <a href="http://vk.com/artgamesofficial" target="blank"> http://vk.com/artgamesofficial</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/e292c80e78bc/Resident%20Evil%204%20HD%20-%20%2321%20%D0%A4%D0%98%D0%9D%D0%90%D0%9B.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<h2><a name="end"></h2>
+<p align="center"><b><font size="5"><a href="#start">Назад</a></font></b><p>
+</div>
+</div>
+<footer class="row credit">
+<div class="col col-md-12">
+<div id="templatemo_footer"><a href="http://vk.com/pqwpqwpqw"><font size="2" color="#fffffff">© 2014<br>Влад Астапов</font></a></div>
+</div>
+</footer>
+</div>		
+</div>
+<script src="javascript/query.js"></script>
+<script>window.jQuery || document.write('<script src="javascript/slider.js">\x3C/script>')</script>
+<script defer src="javascript/slider.js"></script>
+<script type="text/javascript">
+	$(function(){
+	SyntaxHighlighter.all();
+	});
+	$(window).load(function(){
+	$('.flexslider').flexslider({
+	animation: "slide",
+	start: function(slider){
+	$('body').removeClass('loading');
+	}
+	});
+	});
+</script>
+</body>
+<script type='text/javascript' src='javascript/logging.js'></script>
+</html>

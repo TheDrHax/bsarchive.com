@@ -1,0 +1,107 @@
+<html>
+<head>
+	<title>Игровой архив Блэка - Killzone: Shadow fall - Серия 11 - Рейджевый Хелган</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="initial-scale=1, user-scalable=no"> 
+	<link href='http://fonts.googleapis.com/css?family=Scada:400,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="/css/reset.css">
+	<link rel="stylesheet" type="text/css" href="/css/style.css">
+	<script src="/javascript/jquery.js"></script>
+	<script type="text/javascript" src="//vk.com/js/api/openapi.js?116"></script>
+	<script type="text/javascript">
+	  VK.init({apiId: 4863229, onlyWidgets: true});
+	</script>
+</head>
+<body>
+	<a style="position: absolute; margin-top: -250px;" id="top"></a>
+ 
+<a onClick="window.history.back();" id="back-t"><div id="back-t-block"></div></a><a href="#top" id="scroll-t"><div id="scroll-t-block"></div></a>
+	<div class="page-wrapper">
+
+		<div class="background">
+			<img src="/images/backgrounds/killzone-shadow-fall.jpg">
+		</div>
+		<header>
+			<section>
+				<div class="logotype"><a href="http://bsarchive.com"><img src="/images/logotype.png" alt="Игровой архив Блэка" title="Игровой архив Блэка"></a></div>
+				<div class="logotype-i"><a href="http://bsarchive.com"><img src="/images/logotype-i.png" alt="Игровой архив Блэка" title="Игровой архив Блэка"></a></div>
+				<div class="navigation">
+					<ul>
+						<li class="m-none"><a href="http://bsarchive.com">Поиск</a></li>
+						<li><a href="http://bsarchive.com/news">Новости</a></li><li><a href="http://bsarchive.com/tags">Теги</a></li>
+						<li class="curent"><a href="http://bsarchive.com/letsplays">Прохождения</a></li>
+					</ul>
+				</div>
+			</section>
+		</header>	
+		<main>
+
+			<section>
+				<div class="video">
+					<iframe allowfullscreen src="http://vk.com/video_ext.php?oid=249850522&id=168470014&hash=8cdd4a6c4756b455&hd=1" frameborder="0"></iframe>
+					<div class="description">
+<p class="title">
+<a href="http://bsarchive.com/letsplay/killzone-shadow-fall/10" alt="Предыдущая серия" title="Предыдущая серия"><font color="black">&larr;</font></a> Серия 11 - Рейджевый Хелган 
+<a href="http://bsarchive.com/letsplay/killzone-shadow-fall/12" alt="Следующая серия" title="Следующая серия"><font color="black">&rarr;</font></a>
+</p>
+<p class="views-l">Просмотров: <b>556</b></p></div>
+					<div class="tags"><a href="http://bsarchive.com/tag/shooter">#Шутер</a>
+					</div>
+					<div class="download"><a href="https://cloud.mail.ru/public/b2f9dcea4754/Killzone%20-%20%D0%92%20%D0%BF%D0%BB%D0%B5%D0%BD%D1%83%20%D0%A1%D1%83%D0%BC%D1%80%D0%B0%D0%BA%D0%B0%20%2311%20%5B%D0%A0%D0%B5%D0%B9%D0%B4%D0%B6%D0%B5%D0%B2%D1%8B%D0%B9%20%D0%A5%D0%B5%D0%BB%D0%B3%D0%B0%D0%BD%5D.mp4" target="blank">Скачать серию &darr;</a></div>
+					<div class="comments">					<div id="vk_comments"></div>
+				<script type="text/javascript">
+					VK.Widgets.Comments("vk_comments", {limit: 20, attach: "*"});
+				</script></div>
+				</div>
+			</section>
+		</main>
+		<div class="page-buffer"></div>
+	</div>
+	<div class="page-footer">
+		<footer>
+			<section>
+				<div class="copyright">
+					© 2014-2016, Игровой архив Блэка
+				</div>
+				<div class="about">
+					<a href="http://bsarchive.com/about">О сайте</a>
+				</div>	
+			</section>
+		</footer>
+	</div>
+	<script>
+		$(document).ready(function()
+		{$('a[href*=#]').bind("click", function(e)
+		{var anchor = $(this);
+		$('html, body').stop().animate(
+		{scrollTop: $(anchor.attr('href')).offset().top}, 500);
+		e.preventDefault();});return false;});
+	</script>
+	<script>
+		$(window).scroll(function()
+		{if ($(this).scrollTop() < 100)
+		{$('#back-t').css({'display': 'block'});}
+		if ($(this).scrollTop() > 100)
+		{$('#back-t').css({'display': 'none'});}});	
+	</script>
+	<script>
+		$(window).scroll(function()
+		{if ($(this).scrollTop() < 100)
+		{$('#scroll-t').css({'display': 'none'});}
+		if ($(this).scrollTop() > 100)
+		{$('#scroll-t').css({'display': 'block'});}});	
+	</script>
+	<script>
+		function search(string)
+		{var xmlhttp;
+		if(window.XMLHttpRequest)
+		{xmlhttp = new XMLHttpRequest();}
+		else{xmlhttp = new ActiveXObject("XMLHTTP");}
+		xmlhttp.onreadystatechange = function()
+		{if(xmlhttp.readyState == 4 && xmlhttp.status == 200)
+		{document.getElementById("search").innerHTML = xmlhttp.responseText;}}
+		xmlhttp.open("GET", "search.php?s="+string, true);
+		xmlhttp.send(null);}
+	</script>
+</body>
+</html> 

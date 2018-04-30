@@ -1,0 +1,194 @@
+<head>
+<meta charset="utf-8">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<title>BlackSilverUfa - Новости архива</title>
+<link href="css/loading.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="slider.css" type="text/css" media="screen" />
+<script src="javascript/modern.js"></script>
+</head>
+<body class="bsarchive">
+<div id="main_container">
+<div class="container" id="home">
+<div class="row col-wrap">			 
+<div id="left_container" class="col col-md-3 col-sm-12">
+<div class="logo">
+<img src="images/container/arthur.png">
+</div>
+<nav id="main_nav">
+<ul class="nav">
+	<li><a href="index.php?id=1">Главная страница</a></li>
+	<li class="active"><a href="index.php?id=2">Новости сайта</a></li>	
+	<li><a href="index.php?id=3">Обновление серий</a></li>
+	<li><a href="http://vk.com/official_group_by_blacksilver" target="blank">Группа Bконтакте</a></li>
+	<li><a href="http://www.youtube.com/user/BlackSilverUfa" target="blank">Канал на Youtube</a></li>
+	<li><a href="http://blacksilverufa.com/" target="blank">Форум Блэка</a></li>
+</ul>
+<ul class="nav">
+	<li><img src="images/container/rubrics.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=5">Инди хорроры</a></li>
+	<li><a href="index.php?id=6">Маленькие игры</a></li>
+	<li><a href="index.php?id=7"><font size="2">Инди игры и многосерийные хорроры</font></a></li>
+	<li><a href="index.php?id=8">Первый взгляд</a></li>
+	<li><a href="index.php?id=9">Пятничный подкаст</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/series.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><a href="index.php?id=11">"Серия игр Amnesia"</a></li>
+	<li><a href="index.php?id=189">"Серия игр Bioshock"</a></li>
+	<li><a href="index.php?id=192">"Серия игр Day Z"</a></li>
+	<li><a href="index.php?id=12">"Серия игр Dead space"</a></li>
+	<li><a href="index.php?id=23">"Серия игр Metal gear"</a></li>
+	<li><a href="index.php?id=14">"Серия игр Resident evil"</a></li>
+	<li><a href="index.php?id=13">"Серия игр SCP: Containment breach"</a></li>
+	<li><a href="index.php?id=15">"Серия игр Silent hill"</a></li>
+	<li><a href="index.php?id=193">"Серия игр Souls"</a></li>
+	<li><a href="index.php?id=16">"Серия игр The elder scrolls"</a></li>
+	<li><a href="index.php?id=31">"Серия игр The walking dead"</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/letsplay.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=35"><font size="3" color="999999">«Все прохождения»</font></a></li>
+	<li><a href="index.php?id=19"><font size="2">Black mesa & Stanley parable</font></a></li>
+	<li><a href="index.php?id=18"><font size="2">Call of cthulhu & Анабиоз: Сон разума</font></a></li>
+	<li><a href="index.php?id=21"><font size="2">Condemned: Criminal origins & Condemned 2</font></a></li>
+	<li><a href="index.php?id=29"><font size="2">Darkness within & Darkness within 2</font></a></li>
+	<li><a href="index.php?id=26"><font size="2">Dragons dogma & Тень колосса</font></a></li>
+	<li><a href="index.php?id=34"><font size="2">Halo: ODST & Halo:Reach</font></a></li>
+	<li><a href="index.php?id=22"><font size="2">I am alive & The last of us</font></a></li>
+	<li><a href="index.php?id=33"><font size="2">Journey & Dear Esther</font></a></li>
+	<li><a href="index.php?id=24"><font size="2">Left 4 dead & Left 4 dead 2</font></a></li>
+	<li><a href="index.php?id=201"><font size="2">Max Payne & Max payne 2</font></a></li>
+	<li><a href="index.php?id=27"><font size="2">Metro: 2033 & Metro: Last light</font></a></li>
+	<li><a href="index.php?id=25"><font size="2">Outlast & Siren: Blood curse</font></a></li>
+	<li><a href="index.php?id=30"><font size="2">Penumbra: Overture & Penumbra: Black plague</font></a></li>
+	<li><a href="index.php?id=20"><font size="2">Star trek & Starbound</font></a></li>
+	<li><a href="index.php?id=32"><font size="2">Злодеи республики  & Джедаи республики</font></a></li>
+</ul>
+</nav>
+<div>
+	<a href="http://vk.com/official_group_by_blacksilver" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+<img src="images_art_games/artem.png">
+<ul class="nav">
+	<li><a href="index.php?id=148"><font color="f1e685">Главная страница</font></a></li>	
+	<li><a href="index.php?id=159"><font color="f1e685">Обновление серий</font></a></li>
+	<li><a href="http://vk.com/artgamesofficial" target="blank"><font color="f1e685">Группа Bконтакте</font></a></li>
+	<li><a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><font color="f1e685">Канал на Youtube</font></a></li>
+</ul>
+<img src="images_art_games/rubrics_art_games.png">
+<ul class="nav">
+	<li><a href="index.php?id=151"><font color="f1e685">Дело было вечером</font></a></li>	
+	<li><a href="index.php?id=152"><font color="f1e685">Трансляции</font></a></li>
+	<li><a href="index.php?id=157"><font color="f1e685">Прохождения</font></a></li>	
+	<li><a href="index.php?id=160"><font color="f1e685">Сказки на ночь</font></a></li>
+</ul>
+<br>
+<div>
+	<a href="http://vk.com/artgamesofficial" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+</div>
+<div id="right_container" class="col col-md-9 col-sm-12">
+<p align="center"><img src="images/news.png" width="250"></p>
+<div class="row">
+<div class="col col-md-12">                       
+</div>
+</div>
+<article class="row">
+<div class="col col-md-12">
+<article class="row">
+<p align="center"><b><font size="4"><a href="index.php?id=2">ВЕРНУТЬСЯ</a></font></b><p> 
+</article>
+<p><font size="4">
+Здравствуйте уважаемые посетители видео-архива BSarchive.com!<br>
+<br>
+1го июля состоится переход на новый дизайн!<br>
+<br>
+Такое решение было принято после многочисленных просьб о изменении внешнего вида сайта и создании более удобного представление видео.<br>
+<br>
+Сайт функционирует уже практически два месяца и за это время ко мне поступало очень много пожеланий, вопросов, предложений и т.п.<br>
+Очень многое из того что мне писали - я принял во внимание и поэтому новый дизайн сайта был сделан на ваших пожеланиях.<br>
+<br>
+Не так давно я создавал пост в группе, о том нравится ли вам концепт-арт будущего дизайна, где многие выразили одобрение по поводу его изменения, поэтому я понял, что это действительно необходимо.<br>
+Изначально, я создавал сайт один и исключительно на желании сделать маленький и уютный сайт, где люди могут смотреть видео и найдут все те прохождения, которые были удалены.<br>
+Со временем, появилось много задумок, идей (как моих, так и других людей) которые хотелось реализовать, но из за неудобной концепции дизайна это было сделать невозможно.<br>
+Теперь-же, все ваши пожелания, критика и советы смогут наконец осуществиться!<br>
+<br>
+Команда архива теперь состоит из нескольких людей, поэтому делить возможности для реализации стало гораздо проще и удобнее.<br>
+Мы очень старались следовать всем вашим советам, поэтому надеемся, что вам придется по душе будущий дизайн сайта.<br></p> 
+<br>
+<b><p>Изначальный концепт арт нового дизайна для сайта:</b><br>
+<br>
+<img src="images/wCp65vzPkFk.jpg" width="500px"><br>
+<br>
+<img src="images/tZxVEIg7ndM.jpg" width="500px"><br>
+<br>
+<img src="images/Jb4fEjqcrfk.jpg" width="500px"><br>
+<br>
+<img src="images/0LvQvJVVeuY.jpg" width="500px"><br>
+<br>
+<b><p>Финальный новый дизайн для сайта:</b><br>
+<br>
+<img src="images/1.jpg" width="500px"><br>
+<br>
+<img src="images/2.jpg" width="500px"><br>
+<br>
+<img src="images/3.jpg" width="500px"><br>
+<br>
+<img src="images/4.jpg" width="500px"><br>
+<br>
+<img src="images/5.jpg" width="500px"><br>
+<br>
+<img src="images/6.jpg" width="500px"><br>
+<br>
+<img src="images/7.jpg" width="500px"><br>
+<br>
+<p><font size="4"><b>Функционал, который будет доступный для нового дизайна:</b><br>
+<br>
+- Возможность следить за текущим главным прохождением на канале на главной странице.<br>
+- Возможность поиска прохождений, хорроров, первых взглядов, подкастов и других рубрик.<br>
+- Возможность просмотра и скачивание видео (однако на данный момент через контакт и облако).<br>
+- Регистрация на сайт.<br>
+<br>
+Выше приведена лишь малая часть того, что будет доступно.<br>
+<br>
+Мы очень постарались сделать сайт максимально удобным и доступным даже для самых непонятных людей, которые смогут найти всё что им нужно за два клика.<br>
+Следите за обновлениями и новостями, а так-же приходите 1го июля на сайт www.bsarchive.com , чтобы оценить и протестировать новый дизайн!<br>
+<br>
+
+
+
+
+</div>
+</article>
+</div>
+</div>
+<footer class="row credit">
+<div class="col col-md-12">
+<div id="templatemo_footer"><a href="http://vk.com/pqwpqwpqw"><font size="2" color="#fffffff">© 2014<br>Влад Астапов</font></a></div>
+</div>
+</footer>
+</div>		
+</div>
+<script src="javascript/query.js"></script>
+<script>window.jQuery || document.write('<script src="javascript/slider.js">\x3C/script>')</script>
+<script defer src="javascript/slider.js"></script>
+<script type="text/javascript">
+	$(function(){
+	SyntaxHighlighter.all();
+	});
+	$(window).load(function(){
+	$('.flexslider').flexslider({
+	animation: "slide",
+	start: function(slider){
+	$('body').removeClass('loading');
+	}
+	});
+	});
+</script>
+</body>
+<script type='text/javascript' src='javascript/logging.js'></script>
+</html>

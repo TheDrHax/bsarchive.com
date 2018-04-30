@@ -1,0 +1,344 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<title>BlackSilverUfa - Cry of fear</title>
+<link href="../css/loading.css" rel="stylesheet" type="text/css">
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<link rel="../stylesheet" href="slider.css" type="text/css" media="screen" />
+<script src="../javascript/modern.js"></script>
+<link href="video-js.css" rel="stylesheet" type="text/css">
+<script src="javascript/video.js"></script>
+<script>
+videojs.options.flash.swf = "video-js.swf";
+</script>
+</head>
+<body class="lets_plays_cry_of_fear">
+<div id="main_container">
+<div class="container" id="home">
+<div class="row col-wrap">			 
+<div id="left_container" class="col col-md-3 col-sm-12">
+<div class="logo">
+<img src="images/container/arthur.png">
+</div>
+<nav id="main_nav">
+<ul class="nav">
+	<li><a href="index.php?id=1">Главная страница</a></li>
+	<li><a href="index.php?id=2">Новости сайта</a></li>	
+	<li><a href="index.php?id=3">Обновление серий</a></li>
+	<li><a href="http://vk.com/official_group_by_blacksilver" target="blank">Группа Bконтакте</a></li>
+	<li><a href="http://www.youtube.com/user/BlackSilverUfa" target="blank">Канал на Youtube</a></li>
+	<li><a href="http://blacksilverufa.com/" target="blank">Форум Блэка</a></li>
+</ul>
+<ul class="nav">
+	<li><img src="images/container/rubrics.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=5">Инди хорроры</a></li>
+	<li><a href="index.php?id=6">Маленькие игры</a></li>
+	<li><a href="index.php?id=7"><font size="2">Инди игры и многосерийные хорроры</font></a></li>
+	<li><a href="index.php?id=8">Первый взгляд</a></li>
+	<li><a href="index.php?id=9">Пятничный подкаст</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/series.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><a href="index.php?id=11">"Серия игр Amnesia"</a></li>
+	<li><a href="index.php?id=189">"Серия игр Bioshock"</a></li>
+	<li><a href="index.php?id=192">"Серия игр Day Z"</a></li>
+	<li><a href="index.php?id=12">"Серия игр Dead space"</a></li>
+	<li><a href="index.php?id=23">"Серия игр Metal gear"</a></li>
+	<li><a href="index.php?id=14">"Серия игр Resident evil"</a></li>
+	<li><a href="index.php?id=13">"Серия игр SCP: Containment breach"</a></li>
+	<li><a href="index.php?id=15">"Серия игр Silent hill"</a></li>
+	<li><a href="index.php?id=193">"Серия игр Souls"</a></li>
+	<li><a href="index.php?id=16">"Серия игр The elder scrolls"</a></li>
+	<li><a href="index.php?id=31">"Серия игр The walking dead"</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/letsplay.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li class="active"><a href="index.php?id=35"><font size="3" color="999999">«Все прохождения»</font></a></li>
+	<li><a href="index.php?id=19"><font size="2">Black mesa & Stanley parable</font></a></li>
+	<li><a href="index.php?id=18"><font size="2">Call of cthulhu & Анабиоз: Сон разума</font></a></li>
+	<li><a href="index.php?id=21"><font size="2">Condemned: Criminal origins & Condemned 2</font></a></li>
+	<li><a href="index.php?id=29"><font size="2">Darkness within & Darkness within 2</font></a></li>
+	<li><a href="index.php?id=26"><font size="2">Dragons dogma & Тень колосса</font></a></li>
+	<li><a href="index.php?id=34"><font size="2">Halo: ODST & Halo:Reach</font></a></li>
+	<li><a href="index.php?id=22"><font size="2">I am alive & The last of us</font></a></li>
+	<li><a href="index.php?id=33"><font size="2">Journey & Dear Esther</font></a></li>
+	<li><a href="index.php?id=24"><font size="2">Left 4 dead & Left 4 dead 2</font></a></li>
+	<li><a href="index.php?id=201"><font size="2">Max Payne & Max payne 2</font></a></li>
+	<li><a href="index.php?id=27"><font size="2">Metro: 2033 & Metro: Last light</font></a></li>
+	<li><a href="index.php?id=25"><font size="2">Outlast & Siren: Blood curse</font></a></li>
+	<li><a href="index.php?id=30"><font size="2">Penumbra: Overture & Penumbra: Black plague</font></a></li>
+	<li><a href="index.php?id=20"><font size="2">Star trek & Starbound</font></a></li>
+	<li><a href="index.php?id=32"><font size="2">Злодеи республики  & Джедаи республики</font></a></li>
+</ul>
+</nav>
+<div>
+	<a href="http://vk.com/official_group_by_blacksilver" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+<img src="images_art_games/artem.png">
+<ul class="nav">
+	<li><a href="index.php?id=148"><font color="f1e685">Главная страница</font></a></li>	
+	<li><a href="index.php?id=159"><font color="f1e685">Обновление серий</font></a></li>
+	<li><a href="http://vk.com/artgamesofficial" target="blank"><font color="f1e685">Группа Bконтакте</font></a></li>
+	<li><a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><font color="f1e685">Канал на Youtube</font></a></li>
+</ul>
+<img src="images_art_games/rubrics_art_games.png">
+<ul class="nav">
+	<li><a href="index.php?id=151"><font color="f1e685">Дело было вечером</font></a></li>	
+	<li><a href="index.php?id=152"><font color="f1e685">Трансляции</font></a></li>
+	<li><a href="index.php?id=157"><font color="f1e685">Прохождения</font></a></li>	
+	<li><a href="index.php?id=160"><font color="f1e685">Сказки на ночь</font></a></li>
+</ul>
+<br>
+<div>
+	<a href="http://vk.com/artgamesofficial" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+</div>
+<div id="right_container" class="col col-md-9 col-sm-12">
+<p align="center"><img src="../images/blacksilverufa.png"></p>
+<div class="row">
+<div class="col col-md-12">                       
+</div>
+</div>
+<article class="row">
+<p align="center"><b><font size="6">«Cry of fear»</font></b><p> 
+</article>
+<article class="row">
+<p align="center"><b><font size="4"><a href="index.php?id=35">ВСЕ ПРОХОЖДЕНИЯ</a></font></b><p> 
+</article>
+<p align="center"><b><font size="5"><a href="#end">Вниз</a></font></b><p>
+<a name="start"></a>
+<article class="row">
+
+
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Cry of fear - Серия 1 [Один во тьме] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240588&hash=b05e8aaa016d5716&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/b005977d5cf5/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%201%20%5B%D0%9E%D0%B4%D0%B8%D0%BD%20%D0%B2%D0%BE%20%D1%82%D1%8C%D0%BC%D0%B5%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Cry of fear - Серия 2 [Гостеприимныи дом] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240590&hash=1a3454de370e9a36&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/3a082e098758/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%202%20%5B%D0%93%D0%BE%D1%81%D1%82%D0%B5%D0%BF%D1%80%D0%B8%D0%B8%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%BE%D0%BC%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Cry of fear - Серия 3 [Эта игра меня доконает] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240591&hash=50fcec26b22391dd&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/c2d55ab4f470/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%203%20%5B%D0%AD%D1%82%D0%B0%20%D0%B8%D0%B3%D1%80%D0%B0%20%D0%BC%D0%B5%D0%BD%D1%8F%20%D0%B4%D0%BE%D0%BA%D0%BE%D0%BD%D0%B0%D0%B5%D1%82%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Cry of fear - Серия 4 [Новыи? друг с пилои?] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240593&hash=1ad675ddb86d44d2&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/92b7216e0b8f/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%204%20%5B%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B4%D1%80%D1%83%D0%B3%20%D1%81%20%D0%BF%D0%B8%D0%BB%D0%BE%D0%B9%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Cry of fear - Серия 5 [Канализация] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240594&hash=5507428f280ffafc&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a11607abf5a6/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%205%20%5B%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Cry of fear - Серия 6 [Канализация 2] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240596&hash=6b7f4564ede3f842&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/d80c3c261d90/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%206%20%5B%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%202%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Cry of fear - Серия 7 [Дружок с булавои?] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240597&hash=e2633ab06d0616ea&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/c47b34625291/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%207%20%5B%D0%94%D1%80%D1%83%D0%B6%D0%BE%D0%BA%20%D1%81%20%D0%B1%D1%83%D0%BB%D0%B0%D0%B2%D0%BE%D0%B9%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Cry of fear - Серия 8 [Парк] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240598&hash=6fa1a2f2f0bdd5c0&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/29bc99033198/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%208%20%5B%D0%9F%D0%B0%D1%80%D0%BA%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Cry of fear - Серия 9 [Софи] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240599&hash=cc946f1fecbd976c&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/eae173e6ef4a/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%209%20%5B%D0%A1%D0%BE%D1%84%D0%B8%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Cry of fear - Серия 10 [Улицы Стокгольма] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240600&hash=7f23cc229bd62ff1&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/30dbac335c54/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2010%20%5B%D0%A3%D0%BB%D0%B8%D1%86%D1%8B%20%D0%A1%D1%82%D0%BE%D0%BA%D0%B3%D0%BE%D0%BB%D1%8C%D0%BC%D0%B0%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Cry of fear - Серия 11 [Школа] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240601&hash=07d2807fd217c4f3&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/64e97cd9282a/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2011%20%5B%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Cry of fear - Серия 12 [Оно преследует меня!!!] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240602&hash=a088eb931ff69e55&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/0f391389b594/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2012%20%5B%D0%9E%D0%BD%D0%BE%20%D0%BF%D1%80%D0%B5%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D0%B5%D1%82%20%D0%BC%D0%B5%D0%BD%D1%8F%21%21%21%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Cry of fear - Серия 13 [Возвращение в ад] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240604&hash=71a18d634f859a43&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/1276b0873024/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2013%20%5B%D0%92%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B0%D0%B4%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Cry of fear - Серия 14 [В ту самую квартиру] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240605&hash=985585caf855bb8c&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/af61811a3a12/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2014%20%5B%D0%92%20%D1%82%D1%83%20%D1%81%D0%B0%D0%BC%D1%83%D1%8E%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%83%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Cry of fear - Серия 15 [Рутина] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240608&hash=7bf27d0fdd6643b9&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/b48a146e9da4/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2015%20%5B%D0%A0%D1%83%D1%82%D0%B8%D0%BD%D0%B0%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Cry of fear - Серия 16 [Куда я попал!] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240611&hash=5954f27a2aed74b0&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/1c3aaedd4bec/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2016%20%5B%D0%9A%D1%83%D0%B4%D0%B0%20%D1%8F%20%D0%BF%D0%BE%D0%BF%D0%B0%D0%BB%21%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Cry of fear - Серия 17 [Едем домои?!] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240612&hash=2528d551e6baf952&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/8a7813a5e819/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2017%20%5B%D0%95%D0%B4%D0%B5%D0%BC%20%D0%B4%D0%BE%D0%BC%D0%BE%D0%B9%21%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Cry of fear - Серия 18 [Лес] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240613&hash=766a6e462f2e0e5c&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/351a3b7cb204/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2018%20%5B%D0%9B%D0%B5%D1%81%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Cry of fear - Серия 19 [Мы в психушке!] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240614&hash=8997b4a2066f7fdd&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/b449c067aa57/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2019%20%5B%D0%9C%D1%8B%20%D0%B2%20%D0%BF%D1%81%D0%B8%D1%85%D1%83%D1%88%D0%BA%D0%B5%21%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Cry of fear - Серия 20 [Доктор Никто] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240615&hash=ecc8fafd6413ab61&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/e9b723e67126/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2020%20%5B%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80%20%D0%9D%D0%B8%D0%BA%D1%82%D0%BE%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Cry of fear - Серия 21 [Слишком много воды] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240616&hash=224470ac03c3af0f&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/2caacb2fa088/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2021%20%5B%D0%A1%D0%BB%D0%B8%D1%88%D0%BA%D0%BE%D0%BC%20%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B2%D0%BE%D0%B4%D1%8B%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Cry of fear - Серия 22 [Возвращение домой, финал] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240618&hash=0c35263279b50f9a&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/2e1f39eee13b/Cry%20of%20Fear%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2022%20%5B%D0%92%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BE%D0%BC%D0%BE%D0%B9%5D%20%D0%A4%D0%98%D0%9D%D0%90%D0%9B.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Cry of fear - Серия 23 [Community Collab #1 - Откуда столько мяса] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240795&hash=5e23cbf8d1ad5caf&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/b00a341c68c8/Cry%20of%20Fear%20Community%20Collab%201%20-%20%D0%9E%D1%82%D0%BA%D1%83%D0%B4%D0%B0%20%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D0%BC%D1%8F%D1%81%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Cry of fear - Серия 24 [Community Collab #2 -Доктор, это нормально] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240797&hash=a15d0ae2e4f00361&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/7774efaef7a6/Cry%20of%20Fear%20Community%20Collab%202%20-%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80%2C%20%D1%8D%D1%82%D0%BE%20%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Cry of fear - Серия 25 [Community Collab #3 - Я ухожу] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240798&hash=edacd9ca85117b3f&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/c4ab32905e2f/Cry%20of%20Fear%20Community%20Collab%203%20-%20%D0%AF%20%D1%83%D1%85%D0%BE%D0%B6%D1%83.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Cry of fear - Серия 26 [Memories #1 Насладись безумием, Саимон!] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240786&hash=45bf4fa93626d689&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/735712b894aa/Cry%20of%20Fear%20Memories%201%20%5B%D0%9D%D0%B0%D1%81%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D1%8C%20%D0%B1%D0%B5%D0%B7%D1%83%D0%BC%D0%B8%D0%B5%D0%BC%2C%20%D0%A1%D0%B0%D0%B9%D0%BC%D0%BE%D0%BD%21%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Cry of fear - Серия 27 [Memories #2 Бардак в голове] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240788&hash=f6336398a79f299b&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/dc3ea17b525c/Cry%20of%20Fear%20Memories%202%20%5B%D0%91%D0%B0%D1%80%D0%B4%D0%B0%D0%BA%20%D0%B2%20%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B5%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Cry of fear - Серия 28 [Memories #3 Он из золота!] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240790&hash=3099b49d028ce238&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/fa3626c98f0e/Cry%20of%20Fear%20Memories%203%20%5B%D0%9E%D0%BD%20%D0%B8%D0%B7%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%21%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Cry of fear - Серия 29 [Memories #4 От плохого к хорошему] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240791&hash=a96c96ffbcf29e4d&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/ee924d2dc762/Cry%20of%20Fear%20Memories%204%20%5B%D0%9E%D1%82%20%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B3%D0%BE%20%D0%BA%20%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%BC%D1%83%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Cry of fear - Серия 30 [Memories #5 Боязнь монстров] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168240792&hash=4748cc9699cef533&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/be0225e27094/Cry%20of%20Fear%20Memories%205%20%5B%D0%91%D0%BE%D1%8F%D0%B7%D0%BD%D1%8C%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+
+
+</article>
+<h2><a name="end"></h2>
+<p align="center"><b><font size="5"><a href="#start">Назад</a></font></b><p>
+</div>
+</div>
+<footer class="row credit">
+<div class="col col-md-12">
+<div id="templatemo_footer"><a href="http://vk.com/pqwpqwpqw"><font size="2" color="#fffffff">© 2014<br>Влад Астапов</font></a></div>
+</div>
+</footer>
+</div>		
+</div>
+<script src="javascript/query.js"></script>
+<script>window.jQuery || document.write('<script src="../javascript/slider.js">\x3C/script>')</script>
+<script defer src="../javascript/slider.js"></script>
+<script type="text/javascript">
+	$(function(){
+	SyntaxHighlighter.all();
+	});
+	$(window).load(function(){
+	$('.flexslider').flexslider({
+	animation: "slide",
+	start: function(slider){
+	$('body').removeClass('loading');
+	}
+	});
+	});
+</script>
+</body>
+<script type='text/javascript' src='../javascript/logging.js'></script>
+</html>

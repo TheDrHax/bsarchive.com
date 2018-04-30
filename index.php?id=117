@@ -1,0 +1,294 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<title>BlackSilverUfa - Bioshock</title>
+<link href="../css/loading.css" rel="stylesheet" type="text/css">
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<link rel="../stylesheet" href="slider.css" type="text/css" media="screen" />
+<script src="../javascript/modern.js"></script>
+<link href="video-js.css" rel="stylesheet" type="text/css">
+<script src="javascript/video.js"></script>
+<script>
+videojs.options.flash.swf = "video-js.swf";
+</script>
+</head>
+<body class="bioshock">
+<div id="main_container">
+<div class="container" id="home">
+<div class="row col-wrap">			 
+<div id="left_container" class="col col-md-3 col-sm-12">
+<div class="logo">
+<img src="images/container/arthur.png">
+</div>
+<nav id="main_nav">
+<ul class="nav">
+	<li><a href="index.php?id=1">Главная страница</a></li>
+	<li><a href="index.php?id=2">Новости сайта</a></li>	
+	<li><a href="index.php?id=3">Обновление серий</a></li>
+	<li><a href="http://vk.com/official_group_by_blacksilver" target="blank">Группа Bконтакте</a></li>
+	<li><a href="http://www.youtube.com/user/BlackSilverUfa" target="blank">Канал на Youtube</a></li>
+	<li><a href="http://blacksilverufa.com/" target="blank">Форум Блэка</a></li>
+</ul>
+<ul class="nav">
+	<li><img src="images/container/rubrics.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=5">Инди хорроры</a></li>
+	<li><a href="index.php?id=6">Маленькие игры</a></li>
+	<li><a href="index.php?id=7"><font size="2">Инди игры и многосерийные хорроры</font></a></li>
+	<li><a href="index.php?id=8">Первый взгляд</a></li>
+	<li><a href="index.php?id=9">Пятничный подкаст</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/series.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><a href="index.php?id=11">"Серия игр Amnesia"</a></li>
+	<li class="active"><a href="index.php?id=189">"Серия игр Bioshock"</a></li>
+	<li><a href="index.php?id=192">"Серия игр Day Z"</a></li>
+	<li><a href="index.php?id=12">"Серия игр Dead space"</a></li>
+	<li><a href="index.php?id=23">"Серия игр Metal gear"</a></li>
+	<li><a href="index.php?id=14">"Серия игр Resident evil"</a></li>
+	<li><a href="index.php?id=13">"Серия игр SCP: Containment breach"</a></li>
+	<li><a href="index.php?id=15">"Серия игр Silent hill"</a></li>
+	<li><a href="index.php?id=193">"Серия игр Souls"</a></li>
+	<li><a href="index.php?id=16">"Серия игр The elder scrolls"</a></li>
+	<li><a href="index.php?id=31">"Серия игр The walking dead"</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/letsplay.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=35"><font size="3" color="999999">«Все прохождения»</font></a></li>
+	<li><a href="index.php?id=19"><font size="2">Black mesa & Stanley parable</font></a></li>
+	<li><a href="index.php?id=18"><font size="2">Call of cthulhu & Анабиоз: Сон разума</font></a></li>
+	<li><a href="index.php?id=21"><font size="2">Condemned: Criminal origins & Condemned 2</font></a></li>
+	<li><a href="index.php?id=29"><font size="2">Darkness within & Darkness within 2</font></a></li>
+	<li><a href="index.php?id=26"><font size="2">Dragons dogma & Тень колосса</font></a></li>
+	<li><a href="index.php?id=34"><font size="2">Halo: ODST & Halo:Reach</font></a></li>
+	<li><a href="index.php?id=22"><font size="2">I am alive & The last of us</font></a></li>
+	<li><a href="index.php?id=33"><font size="2">Journey & Dear Esther</font></a></li>
+	<li><a href="index.php?id=24"><font size="2">Left 4 dead & Left 4 dead 2</font></a></li>
+	<li><a href="index.php?id=201"><font size="2">Max Payne & Max payne 2</font></a></li>
+	<li><a href="index.php?id=27"><font size="2">Metro: 2033 & Metro: Last light</font></a></li>
+	<li><a href="index.php?id=25"><font size="2">Outlast & Siren: Blood curse</font></a></li>
+	<li><a href="index.php?id=30"><font size="2">Penumbra: Overture & Penumbra: Black plague</font></a></li>
+	<li><a href="index.php?id=20"><font size="2">Star trek & Starbound</font></a></li>
+	<li><a href="index.php?id=32"><font size="2">Злодеи республики  & Джедаи республики</font></a></li>
+</ul>
+</nav>
+<div>
+	<a href="http://vk.com/official_group_by_blacksilver" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+<img src="images_art_games/artem.png">
+<ul class="nav">
+	<li><a href="index.php?id=148"><font color="f1e685">Главная страница</font></a></li>	
+	<li><a href="index.php?id=159"><font color="f1e685">Обновление серий</font></a></li>
+	<li><a href="http://vk.com/artgamesofficial" target="blank"><font color="f1e685">Группа Bконтакте</font></a></li>
+	<li><a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><font color="f1e685">Канал на Youtube</font></a></li>
+</ul>
+<img src="images_art_games/rubrics_art_games.png">
+<ul class="nav">
+	<li><a href="index.php?id=151"><font color="f1e685">Дело было вечером</font></a></li>	
+	<li><a href="index.php?id=152"><font color="f1e685">Трансляции</font></a></li>
+	<li><a href="index.php?id=157"><font color="f1e685">Прохождения</font></a></li>	
+	<li><a href="index.php?id=160"><font color="f1e685">Сказки на ночь</font></a></li>
+</ul>
+<br>
+<div>
+	<a href="http://vk.com/artgamesofficial" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+</div>
+<div id="right_container" class="col col-md-9 col-sm-12">
+<p align="center"><img src="../images/blacksilverufa.png"></p>
+<div class="row">
+<div class="col col-md-12">                       
+</div>
+</div>
+<article class="row">
+<p align="center"><b><font size="6">Bioshock</font></b><p> 
+</article>
+<article class="row">
+<p align="center"><b><font size="4"><a href="index.php?id=35">ВСЕ ПРОХОЖДЕНИЯ</a></font></b><p> 
+<p align="center"><b><font size="4"><a href="index.php?id=189">ВЕРНУТЬСЯ</a></font></b><p> 
+</article>
+<p align="center"><b><font size="5"><a href="#end">Вниз</a></font></b><p>
+<a name="start"></a>
+
+<article class="row">
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock - Серия 1 [Возвращение к истокам] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172414&hash=13fdc7c2c6fdf93a&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/fe8db22eab9a/%5BBioshock%20%231%5D%20%D0%92%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%B8%D1%81%D1%82%D0%BE%D0%BA%D0%B0%D0%BC.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock - Серия 2 [Убийственная медицина] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172415&hash=e9eb65867574f48a&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/c56c908e1f87/%5BBioshock%20%232%5D%20%D0%A3%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock - Серия 3 [Стейнман убивает] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172417&hash=6aad1e6ef3024b2c&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/ff8e76b79f2a/%5BBioshock%20%233%5D%20%D0%A1%D1%82%D0%B5%D0%B9%D0%BD%D0%BC%D0%B0%D0%BD%20%D1%83%D0%B1%D0%B8%D0%B2%D0%B0%D0%B5%D1%82.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock - Серия 4 [Убить Большого Папу] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172418&hash=cb58b78cedb60e18&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a0433ca4a030/%5BBioshock%20%234%5D%20%D0%A3%D0%B1%D0%B8%D1%82%D1%8C%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B3%D0%BE%20%D0%9F%D0%B0%D0%BF%D1%83.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock - Серия 5 [Устроим фотосессию] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172419&hash=64beb30f291158a4&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/f3ba88fbc046/%5BBioshock%20%235%5D%20%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B8%D0%BC%20%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8E.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock - Серия 6 [Что произошло с Машенькой] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172420&hash=24cc345367781f44&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/4708222a0b58/%5BBioshock%20%236%5D%20%D0%A7%D1%82%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BE%D1%88%D0%BB%D0%BE%20%D1%81%20%D0%9C%D0%B0%D1%88%D0%B5%D0%BD%D1%8C%D0%BA%D0%BE%D0%B9.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock - Серия 7 [Уплываем отсюда!] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172421&hash=768b782b9f26cd76&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/d1fb76f30e55/%5BBioshock%20%237%5D%20%D0%A3%D0%BF%D0%BB%D1%8B%D0%B2%D0%B0%D0%B5%D0%BC%20%D0%BE%D1%82%D1%81%D1%8E%D0%B4%D0%B0%21.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock - Серия 8 [Дом с привидениями] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172422&hash=e3dbd809d834032a&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/d3339baaedaa/%5BBioshock%20%238%5D%20%D0%94%D0%BE%D0%BC%20%D1%81%20%D0%BF%D1%80%D0%B8%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock - Серия 9 [Сектанты. Ненавижу сектантов!] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172423&hash=a0a3e019fe3a26a1&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a25364344992/%5BBioshock%20%239%5D%20%D0%A1%D0%B5%D0%BA%D1%82%D0%B0%D0%BD%D1%82%D1%8B.%20%D0%9D%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B6%D1%83%20%D1%81%D0%B5%D0%BA%D1%82%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%21.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock - Серия 10 [Задохнулась на рабочем месте] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172424&hash=cfff2b09a3bc5abb&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/fb7b5790ff8c/%5BBioshock%20%2310%5D%20%D0%97%D0%B0%D0%B4%D0%BE%D1%85%D0%BD%D1%83%D0%BB%D0%B0%D1%81%D1%8C%20%D0%BD%D0%B0%20%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%BC%20%D0%BC%D0%B5%D1%81%D1%82%D0%B5.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock - Серия 11 [Лазарь] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172425&hash=80611898ce227611&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/b7585fd67c78/%5BBioshock%20%2311%5D%20%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D1%8C.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock - Серия 12 [Страх и ненависть] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172426&hash=45a4c1f3c9b2ff32&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/9c169474719c/%5BBioshock%20%2312%5D%20%D0%A1%D1%82%D1%80%D0%B0%D1%85%20%D0%B8%20%D0%BD%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D1%81%D1%82%D1%8C.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock - Серия 13 [Слишком много манекенов!!!] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172427&hash=3c6eb9a7c821324f&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/34310ead96ba/%5BBioshock%20%2313%5D%20%D0%A1%D0%BB%D0%B8%D1%88%D0%BA%D0%BE%D0%BC%20%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B0%D0%BD%D0%B5%D0%BA%D0%B5%D0%BD%D0%BE%D0%B2%21%21%21.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock - Серия 14 [Фотосессия на три персоны] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172428&hash=14246a4a1170d900&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a01d76b42c97/%5BBioshock%20%2314%5D%20%D0%A4%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F%20%D0%BD%D0%B0%20%D1%82%D1%80%D0%B8%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D1%8B.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock - Серия 15 [Массакр под Щелкунчик Чайковского] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172430&hash=7344be290f3e73c8&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/1510f2a574bc/%5BBioshock%20%2315%5D%20%D0%9C%D0%B0%D1%81%D1%81%D0%B0%D0%BA%D1%80%20%D0%BF%D0%BE%D0%B4%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA%20%D0%A7%D0%B0%D0%B9%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock - Серия 16 [Ядро Гефеста] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172433&hash=ae50a2ace112ad9f&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/4b2eae0ee6a3/%5BBioshock%20%2316%5D%20%D0%AF%D0%B4%D1%80%D0%BE%20%D0%93%D0%B5%D1%84%D0%B5%D1%81%D1%82%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock - Серия 17 [Эндрю Райн] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172434&hash=c7b4fbd74d76d912&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/06a1960d5312/%5BBioshock%20%2317%5D%20%D0%AD%D0%BD%D0%B4%D1%80%D1%8E%20%D0%A0%D0%B0%D0%B9%D0%BD.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock - Серия 18 [Мое сердце остановилось] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172435&hash=be5849972ebcb21c&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/acd8085ced1c/%5BBioshock%20%2318%5D%20%D0%9C%D0%BE%D0%B5%20%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B5%20%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D0%BB%D0%BE%D1%81%D1%8C.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock - Серия 19 [Плазмидный припадок] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172436&hash=76e95f5d240682d6&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/d76b29d9aebc/%5BBioshock%20%2319%5D%20%D0%9F%D0%BB%D0%B0%D0%B7%D0%BC%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%B8%D0%BF%D0%B0%D0%B4%D0%BE%D0%BA.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock - Серия 20 [Приют Фонтейна] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172437&hash=8ba83148a7757657&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/d5e72b954021/%5BBioshock%20%2320%5D%20%D0%9F%D1%80%D0%B8%D1%8E%D1%82%20%D0%A4%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Bioshock - Серия 21 [Найти костюм Большого папочки] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172438&hash=d199bb7c5e4ad7e4&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/33a8c6e4fb46/%5BBioshock%20%2321%5D%20%D0%9D%D0%B0%D0%B9%D1%82%D0%B8%20%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%B0%D0%BF%D0%BE%D1%87%D0%BA%D0%B8.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Bioshock - Серия 22 [Финал. Фонтейн, я иду] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168172439&hash=4ad006aeea8ea548&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/ef7f29d14c1e/%5BBioshock%20%2322%2C%20%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%5D%20%D0%A4%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%2C%20%D1%8F%20%D0%B8%D0%B4%D1%83.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+
+</article>
+<h2><a name="end"></h2>
+<p align="center"><b><font size="5"><a href="#start">Назад</a></font></b><p>
+</div>
+</div>
+<footer class="row credit">
+<div class="col col-md-12">
+<div id="templatemo_footer"><a href="http://vk.com/pqwpqwpqw"><font size="2" color="#fffffff">© 2014<br>Влад Астапов</font></a></div>
+</div>
+</footer>
+</div>		
+</div>
+<script src="javascript/query.js"></script>
+<script>window.jQuery || document.write('<script src="../javascript/slider.js">\x3C/script>')</script>
+<script defer src="../javascript/slider.js"></script>
+<script type="text/javascript">
+	$(function(){
+	SyntaxHighlighter.all();
+	});
+	$(window).load(function(){
+	$('.flexslider').flexslider({
+	animation: "slide",
+	start: function(slider){
+	$('body').removeClass('loading');
+	}
+	});
+	});
+</script>
+</body>
+<script type='text/javascript' src='../javascript/logging.js'></script>
+</html>

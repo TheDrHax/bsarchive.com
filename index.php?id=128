@@ -1,0 +1,268 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<title>BlackSilverUfa - Злодеи старой Республики</title>
+<link href="../css/loading.css" rel="stylesheet" type="text/css">
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<link rel="../stylesheet" href="slider.css" type="text/css" media="screen" />
+<script src="../javascript/modern.js"></script>
+<link href="video-js.css" rel="stylesheet" type="text/css">
+<script src="javascript/video.js"></script>
+<script>
+videojs.options.flash.swf = "video-js.swf";
+</script>
+</head>
+<body class="lets_plays_swtor_dark">
+<div id="main_container">
+<div class="container" id="home">
+<div class="row col-wrap">			 
+<div id="left_container" class="col col-md-3 col-sm-12">
+<div class="logo">
+<img src="images/container/arthur.png">
+</div>
+<nav id="main_nav">
+<ul class="nav">
+	<li><a href="index.php?id=1">Главная страница</a></li>
+	<li><a href="index.php?id=2">Новости сайта</a></li>	
+	<li><a href="index.php?id=3">Обновление серий</a></li>
+	<li><a href="http://vk.com/official_group_by_blacksilver" target="blank">Группа Bконтакте</a></li>
+	<li><a href="http://www.youtube.com/user/BlackSilverUfa" target="blank">Канал на Youtube</a></li>
+	<li><a href="http://blacksilverufa.com/" target="blank">Форум Блэка</a></li>
+</ul>
+<ul class="nav">
+	<li><img src="images/container/rubrics.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=5">Инди хорроры</a></li>
+	<li><a href="index.php?id=6">Маленькие игры</a></li>
+	<li><a href="index.php?id=7"><font size="2">Инди игры и многосерийные хорроры</font></a></li>
+	<li><a href="index.php?id=8">Первый взгляд</a></li>
+	<li><a href="index.php?id=9">Пятничный подкаст</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/series.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><a href="index.php?id=11">"Серия игр Amnesia"</a></li>
+	<li><a href="index.php?id=189">"Серия игр Bioshock"</a></li>
+	<li><a href="index.php?id=192">"Серия игр Day Z"</a></li>
+	<li><a href="index.php?id=12">"Серия игр Dead space"</a></li>
+	<li><a href="index.php?id=23">"Серия игр Metal gear"</a></li>
+	<li><a href="index.php?id=14">"Серия игр Resident evil"</a></li>
+	<li><a href="index.php?id=13">"Серия игр SCP: Containment breach"</a></li>
+	<li><a href="index.php?id=15">"Серия игр Silent hill"</a></li>
+	<li><a href="index.php?id=193">"Серия игр Souls"</a></li>
+	<li><a href="index.php?id=16">"Серия игр The elder scrolls"</a></li>
+	<li><a href="index.php?id=31">"Серия игр The walking dead"</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/letsplay.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=35"><font size="3" color="999999">«Все прохождения»</font></a></li>
+	<li><a href="index.php?id=19"><font size="2">Black mesa & Stanley parable</font></a></li>
+	<li><a href="index.php?id=18"><font size="2">Call of cthulhu & Анабиоз: Сон разума</font></a></li>
+	<li><a href="index.php?id=21"><font size="2">Condemned: Criminal origins & Condemned 2</font></a></li>
+	<li><a href="index.php?id=29"><font size="2">Darkness within & Darkness within 2</font></a></li>
+	<li><a href="index.php?id=26"><font size="2">Dragons dogma & Тень колосса</font></a></li>
+	<li><a href="index.php?id=34"><font size="2">Halo: ODST & Halo:Reach</font></a></li>
+	<li><a href="index.php?id=22"><font size="2">I am alive & The last of us</font></a></li>
+	<li><a href="index.php?id=33"><font size="2">Journey & Dear Esther</font></a></li>
+	<li><a href="index.php?id=24"><font size="2">Left 4 dead & Left 4 dead 2</font></a></li>
+	<li><a href="index.php?id=201"><font size="2">Max Payne & Max payne 2</font></a></li>
+	<li><a href="index.php?id=27"><font size="2">Metro: 2033 & Metro: Last light</font></a></li>
+	<li><a href="index.php?id=25"><font size="2">Outlast & Siren: Blood curse</font></a></li>
+	<li><a href="index.php?id=30"><font size="2">Penumbra: Overture & Penumbra: Black plague</font></a></li>
+	<li><a href="index.php?id=20"><font size="2">Star trek & Starbound</font></a></li>
+	<li class="active"><a href="index.php?id=32"><font size="2">Злодеи республики  & Джедаи республики</font></a></li>
+</ul>
+</nav>
+<div>
+	<a href="http://vk.com/official_group_by_blacksilver" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+<img src="images_art_games/artem.png">
+<ul class="nav">
+	<li><a href="index.php?id=148"><font color="f1e685">Главная страница</font></a></li>	
+	<li><a href="index.php?id=159"><font color="f1e685">Обновление серий</font></a></li>
+	<li><a href="http://vk.com/artgamesofficial" target="blank"><font color="f1e685">Группа Bконтакте</font></a></li>
+	<li><a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><font color="f1e685">Канал на Youtube</font></a></li>
+</ul>
+<img src="images_art_games/rubrics_art_games.png">
+<ul class="nav">
+	<li><a href="index.php?id=151"><font color="f1e685">Дело было вечером</font></a></li>	
+	<li><a href="index.php?id=152"><font color="f1e685">Трансляции</font></a></li>
+	<li><a href="index.php?id=157"><font color="f1e685">Прохождения</font></a></li>	
+	<li><a href="index.php?id=160"><font color="f1e685">Сказки на ночь</font></a></li>
+</ul>
+<br>
+<div>
+	<a href="http://vk.com/artgamesofficial" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+</div>
+<div id="right_container" class="col col-md-9 col-sm-12">
+<p align="center"><img src="../images/blacksilverufa.png"></p>
+<div class="row">
+<div class="col col-md-12">                       
+</div>
+</div>
+<article class="row">
+<p align="center"><b><font size="6">«Злодеи старой Республики»</font></b><p> 
+</article>
+<article class="row">
+<p align="center"><b><font size="4"><a href="index.php?id=35">ВСЕ ПРОХОЖДЕНИЯ</a></font></b><p> 
+<p align="center"><b><font size="4"><a href="index.php?id=32">ВЕРНУТЬСЯ</a></font></b><p> 
+</article>
+<p align="center"><b><font size="5"><a href="#end">Вниз</a></font></b><p>
+<a name="start"></a>
+<article class="row">
+
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>SWTOR: Злодеи старой Республики - Серия 1 [Четыре негодяя] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220947&hash=bf4546498c0faed9&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a19675d6bb90/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%231%20-%20%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B5%20%D0%BD%D0%B5%D0%B3%D0%BE%D0%B4%D1%8F%D1%8F%20.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>SWTOR: Злодеи старой Республики - Серия 2 [Коррибан, испытание силы] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220949&hash=71006af45bb07d00&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/c94cf4b1e6d7/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%232%20-%20%D0%9A%D0%BE%D1%80%D1%80%D0%B8%D0%B1%D0%B0%D0%BD%2C%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20%D1%81%D0%B8%D0%BB%D0%BE%D0%B9%20.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>SWTOR: Злодеи старой Республики - Серия 3 [Фантастическая четвёрка] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220950&hash=32f08c895f0b744b&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/ded9d22900e7/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%233%20-%20%D0%A4%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>SWTOR: Злодеи старой Республики - Серия 4 [Секреты Тулак Орды] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220952&hash=0a8817d940422d01&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/c532b7e3c237/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%234%20-%20%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D1%8B%20%D0%A2%D1%83%D0%BB%D0%B0%D0%BA%20%D0%9E%D1%80%D0%B4%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>SWTOR: Злодеи старой Республики - Серия 5 [Обучение продолжается!] <img src="quality/360.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220953&hash=56bfcf076d0f1382&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/4d1c8acd4dbf/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%235%20-%20%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B0%D0%B5%D1%82%D1%81%D1%8F%21.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>SWTOR: Злодеи старой Республики - Серия 6 [Световые мечи!] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220955&hash=1ce0fded4f9b542d&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/c5df15d52b2b/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%236%20-%20%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%87%D0%B8%21%20.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>SWTOR: Злодеи старой Республики - Серия 7 [Покидая Коррибан] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220956&hash=6e6d4d742209cd14&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/9c059f366de6/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%237%20-%20%D0%9F%D0%BE%D0%BA%D0%B8%D0%B4%D0%B0%D1%8F%20%D0%9A%D0%BE%D1%80%D1%80%D0%B8%D0%B1%D0%B0%D0%BD.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>SWTOR: Злодеи старой Республики - Серия 8 [ПопКоп в деле] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220957&hash=dad9df2271113f83&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/176918148e96/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%238%20-%20%D0%9F%D0%BE%D0%BF%D0%9A%D0%BE%D0%BF%20%D0%B2%20%D0%B4%D0%B5%D0%BB%D0%B5.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>SWTOR: Злодеи старой Республики - Серия 9 [Прибытие на Дромунд Каас] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220958&hash=e9e9a91b1abbcef7&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/4d457aadfe0e/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%239%20-%20%D0%9F%D1%80%D0%B8%D0%B1%D1%8B%D1%82%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%94%D1%80%D0%BE%D0%BC%D1%83%D0%BD%D0%B4%20%D0%9A%D0%B0%D0%B0%D1%81.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>SWTOR: Злодеи старой Республики - Серия 10 [Негостеприимная планета] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220959&hash=b04b16a52d80ec48&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/b6801cff5aec/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%2310%20-%20%D0%9D%D0%B5%D0%B3%D0%BE%D1%81%D1%82%D0%B5%D0%BF%D1%80%D0%B8%D0%B8%D0%BC%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%20.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>SWTOR: Злодеи старой Республики - Серия 11 [Новое начальство] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220960&hash=04e5662ead7361c1&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/4dd3af6d3405/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%2311%20-%20%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>SWTOR: Злодеи старой Республики - Серия 12 <img src="quality/480.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220970&hash=0c30a6a9ce6f22a1&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/9f19824f9de6/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%2312%20-%20%D0%9C%D1%8F%D1%82%D0%B5%D0%B6%D0%BD%D1%8B%D0%B5%20%D1%80%D0%B0%D0%B1%D1%8B%20.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>SWTOR: Злодеи старой Республики - Серия 13 <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220975&hash=726620ac20e993f4&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/161eac4151cc/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%2314%20-%20%D0%9F%D0%BE%D0%BF%D0%BA%D0%BE%D0%BF%20-%20%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%20%D0%BF%D0%B8%D0%BA%D0%B0%D0%BF%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>SWTOR: Злодеи старой Республики - Серия 14 [ПопКоп мастер пикапа] <img src="quality/360.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220976&hash=62cca4a07e80af7e&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/161eac4151cc/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%2314%20-%20%D0%9F%D0%BE%D0%BF%D0%BA%D0%BE%D0%BF%20-%20%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%20%D0%BF%D0%B8%D0%BA%D0%B0%D0%BF%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>SWTOR: Злодеи старой Республики - Серия 15 [Прикодя ситов в бешенство] <img src="quality/360.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220977&hash=7520cbb10c12206c&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+<a href="https://cloclo11.datacloudmail.ru/weblink/view/155e54a1327f/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%2315%20-%20%D0%9F%D1%80%D0%B8%D0%B2%D0%BE%D0%B4%D1%8F%20%D1%81%D0%B8%D1%82%D0%BE%D0%B2%20%D0%B2%20%D0%B1%D0%B5%D1%88%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D0%BE.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>SWTOR: Злодеи старой Республики - Серия 16 [Главное интеллект] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220978&hash=f5ae4356ce0d93fc&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/f2d13b40cf9d/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%2316%20-%20%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5%20-%20%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%21%20.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>SWTOR: Злодеи старой Республики - Серия 17 [Выключить детонаторы] <img src="quality/480.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220979&hash=5cbba2aa7309c4df&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/8e09657b2f09/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%2317%20-%20%D0%92%D1%8B%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D1%82%D1%8C%20%D0%B4%D0%B5%D1%82%D0%BE%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D1%8B.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>SWTOR: Злодеи старой Республики - Серия 18 [Реваниты] <img src="quality/360.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168220980&hash=5569c9270a287d9b&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/f2aad97e3473/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%20%2318%20-%20%D0%A0%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%82%D1%8B.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+
+</article>
+<h2><a name="end"></h2>
+<p align="center"><b><font size="5"><a href="#start">Назад</a></font></b><p>
+</div>
+</div>
+<footer class="row credit">
+<div class="col col-md-12">
+<div id="templatemo_footer"><a href="http://vk.com/pqwpqwpqw"><font size="2" color="#fffffff">© 2014<br>Влад Астапов</font></a></div>
+</div>
+</footer>
+</div>		
+</div>
+<script src="javascript/query.js"></script>
+<script>window.jQuery || document.write('<script src="../javascript/slider.js">\x3C/script>')</script>
+<script defer src="../javascript/slider.js"></script>
+<script type="text/javascript">
+	$(function(){
+	SyntaxHighlighter.all();
+	});
+	$(window).load(function(){
+	$('.flexslider').flexslider({
+	animation: "slide",
+	start: function(slider){
+	$('body').removeClass('loading');
+	}
+	});
+	});
+</script>
+</body>
+<script type='text/javascript' src='../javascript/logging.js'></script>
+</html>

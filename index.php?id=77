@@ -1,0 +1,344 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<title>BlackSilverUfa - Dead space 3</title>
+<link href="../../css/loading.css" rel="stylesheet" type="text/css">
+<link href="../../css/style.css" rel="stylesheet" type="text/css">
+<link rel="../../stylesheet" href="slider.css" type="text/css" media="screen" />
+<script src="../../javascript/modern.js"></script>
+<link href="video-js.css" rel="stylesheet" type="text/css">
+<script src="javascript/video.js"></script>
+<script>
+videojs.options.flash.swf = "video-js.swf";
+</script>
+</head>
+<body class="lets_plays_dead_space_3">
+<div id="main_container">
+<div class="container" id="home">
+<div class="row col-wrap">			 
+<div id="left_container" class="col col-md-3 col-sm-12">
+<div class="logo">
+<img src="images/container/arthur.png">
+</div>
+<nav id="main_nav">
+<ul class="nav">
+	<li><a href="index.php?id=1">Главная страница</a></li>
+	<li><a href="index.php?id=2">Новости сайта</a></li>	
+	<li><a href="index.php?id=3">Обновление серий</a></li>
+	<li><a href="http://vk.com/official_group_by_blacksilver" target="blank">Группа Bконтакте</a></li>
+	<li><a href="http://www.youtube.com/user/BlackSilverUfa" target="blank">Канал на Youtube</a></li>
+	<li><a href="http://blacksilverufa.com/" target="blank">Форум Блэка</a></li>
+</ul>
+<ul class="nav">
+	<li><img src="images/container/rubrics.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=5">Инди хорроры</a></li>
+	<li><a href="index.php?id=6">Маленькие игры</a></li>
+	<li><a href="index.php?id=7"><font size="2">Инди игры и многосерийные хорроры</font></a></li>
+	<li><a href="index.php?id=8">Первый взгляд</a></li>
+	<li><a href="index.php?id=9">Пятничный подкаст</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/series.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><a href="index.php?id=11">"Серия игр Amnesia"</a></li>
+	<li><a href="index.php?id=189">"Серия игр Bioshock"</a></li>
+	<li><a href="index.php?id=192">"Серия игр Day Z"</a></li>
+	<li class="active"><a href="index.php?id=12">"Серия игр Dead space"</a></li>
+	<li><a href="index.php?id=23">"Серия игр Metal gear"</a></li>
+	<li><a href="index.php?id=14">"Серия игр Resident evil"</a></li>
+	<li><a href="index.php?id=13">"Серия игр SCP: Containment breach"</a></li>
+	<li><a href="index.php?id=15">"Серия игр Silent hill"</a></li>
+	<li><a href="index.php?id=193">"Серия игр Souls"</a></li>
+	<li><a href="index.php?id=16">"Серия игр The elder scrolls"</a></li>
+	<li><a href="index.php?id=31">"Серия игр The walking dead"</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/letsplay.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=35"><font size="3" color="999999">«Все прохождения»</font></a></li>
+	<li><a href="index.php?id=19"><font size="2">Black mesa & Stanley parable</font></a></li>
+	<li><a href="index.php?id=18"><font size="2">Call of cthulhu & Анабиоз: Сон разума</font></a></li>
+	<li><a href="index.php?id=21"><font size="2">Condemned: Criminal origins & Condemned 2</font></a></li>
+	<li><a href="index.php?id=29"><font size="2">Darkness within & Darkness within 2</font></a></li>
+	<li><a href="index.php?id=26"><font size="2">Dragons dogma & Тень колосса</font></a></li>
+	<li><a href="index.php?id=34"><font size="2">Halo: ODST & Halo:Reach</font></a></li>
+	<li><a href="index.php?id=22"><font size="2">I am alive & The last of us</font></a></li>
+	<li><a href="index.php?id=33"><font size="2">Journey & Dear Esther</font></a></li>
+	<li><a href="index.php?id=24"><font size="2">Left 4 dead & Left 4 dead 2</font></a></li>
+	<li><a href="index.php?id=201"><font size="2">Max Payne & Max payne 2</font></a></li>
+	<li><a href="index.php?id=27"><font size="2">Metro: 2033 & Metro: Last light</font></a></li>
+	<li><a href="index.php?id=25"><font size="2">Outlast & Siren: Blood curse</font></a></li>
+	<li><a href="index.php?id=30"><font size="2">Penumbra: Overture & Penumbra: Black plague</font></a></li>
+	<li><a href="index.php?id=20"><font size="2">Star trek & Starbound</font></a></li>
+	<li><a href="index.php?id=32"><font size="2">Злодеи республики  & Джедаи республики</font></a></li>
+</ul>
+</nav>
+<div>
+	<a href="http://vk.com/official_group_by_blacksilver" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+<img src="images_art_games/artem.png">
+<ul class="nav">
+	<li><a href="index.php?id=148"><font color="f1e685">Главная страница</font></a></li>	
+	<li><a href="index.php?id=159"><font color="f1e685">Обновление серий</font></a></li>
+	<li><a href="http://vk.com/artgamesofficial" target="blank"><font color="f1e685">Группа Bконтакте</font></a></li>
+	<li><a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><font color="f1e685">Канал на Youtube</font></a></li>
+</ul>
+<img src="images_art_games/rubrics_art_games.png">
+<ul class="nav">
+	<li><a href="index.php?id=151"><font color="f1e685">Дело было вечером</font></a></li>	
+	<li><a href="index.php?id=152"><font color="f1e685">Трансляции</font></a></li>
+	<li><a href="index.php?id=157"><font color="f1e685">Прохождения</font></a></li>	
+	<li><a href="index.php?id=160"><font color="f1e685">Сказки на ночь</font></a></li>
+</ul>
+<br>
+<div>
+	<a href="http://vk.com/artgamesofficial" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+</div>
+<div id="right_container" class="col col-md-9 col-sm-12">
+<p align="center"><img src="../../images/blacksilverufa.png"></p>
+<div class="row">
+<div class="col col-md-12">                       
+</div>
+</div>
+<article class="row">
+<p align="center"><b><font size="6">«Dead space 3»</font></b><p> 
+</article>
+<article class="row">
+<p align="center"><b><font size="4"><a href="index.php?id=35">ВСЕ ПРОХОЖДЕНИЯ</a></font></b><p> 
+<p align="center"><b><font size="4"><a href="index.php?id=12">ВЕРНУТЬСЯ</a></font></b><p> 
+</article>
+<p align="center"><b><font size="5"><a href="#end">Вниз</a></font></b><p>
+<a name="start"></a>
+<article class="row">
+
+
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dead space 3 - Серия 1 [Луна 2514. Дыра еще та] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223430&hash=548934c31a5a4a68&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/ca194a938a7e/%231%20-%20%D0%9B%D1%83%D0%BD%D0%B0%202514.%20%D0%94%D1%8B%D1%80%D0%B0%20%D0%B5%D1%89%D0%B5%20%D1%82%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dead space 3 - Серия 2 [Прыжок в пустоту] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223431&hash=146fe03bb834f334&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/53854516d29a/%232%20-%20%D0%9F%D1%80%D1%8B%D0%B6%D0%BE%D0%BA%20%D0%B2%20%D0%BF%D1%83%D1%81%D1%82%D0%BE%D1%82%D1%83.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dead space 3 - Серия 3 [Ржавчина и кровь] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223432&hash=f1b212a4d46c1d7b&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/d67ce49d404f/%233%20-%20%D0%A0%D0%B6%D0%B0%D0%B2%D1%87%D0%B8%D0%BD%D0%B0%20%D0%B8%20%D0%BA%D1%80%D0%BE%D0%B2%D1%8C.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dead space 3 - Серия 4 [Каюта адмирала] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223433&hash=8946db2c29e6d787&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/843ce4815132/%234%20-%20%D0%9A%D0%B0%D1%8E%D1%82%D0%B0%20%D0%B0%D0%B4%D0%BC%D0%B8%D1%80%D0%B0%D0%BB%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dead space 3 - Серия 5 [C.M.S. Брусилов] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223434&hash=ebe5b18b212d1cc6&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/0bdfadd9d2b7/%235%20-%20C.M.S.%20%D0%91%D1%80%D1%83%D1%81%D0%B8%D0%BB%D0%BE%D0%B2.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dead space 3 - Серия 6 [C.M.S. Грили] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223435&hash=88763a9f0cea89be&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/fc4bacdca67f/%236%20-%20C.M.S.%20%D0%93%D1%80%D0%B8%D0%BB%D0%B8.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dead space 3 - Серия 7 [Корабль любви] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223436&hash=0c64c9710ea26f7c&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/9cd0adfecef4/%237%20-%20%D0%9A%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C%20%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dead space 3 - Серия 8 [Регенерирующие твари] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223437&hash=3ec4409858684ba8&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/81c7c33fb220/%238%20-%20%D0%A0%D0%B5%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B5%20%D1%82%D0%B2%D0%B0%D1%80%D0%B8.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dead space 3 - Серия 9 [Полоса препятствий] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223439&hash=738a8a42aacf3712&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a7f8d69bc203/%239%20-%20%D0%9F%D0%BE%D0%BB%D0%BE%D1%81%D0%B0%20%D0%BF%D1%80%D0%B5%D0%BF%D1%8F%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B9.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dead space 3 - Серия 10 [Их слишком много!] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223441&hash=a106429845072019&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/d6d5c3d4c0b2/%2310%20-%20%D0%98%D1%85%20%D1%81%D0%BB%D0%B8%D1%88%D0%BA%D0%BE%D0%BC%20%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%26%2333%3B.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dead space 3 - Серия 11 [Я посажу это корыто!] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223444&hash=2fd61e6c0d806484&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/20ba38101155/%2311%20-%20%D0%AF%20%D0%BF%D0%BE%D1%81%D0%B0%D0%B6%D1%83%20%D1%8D%D1%82%D0%BE%20%D0%BA%D0%BE%D1%80%D1%8B%D1%82%D0%BE%26%2333%3B.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dead space 3 - Серия 12 [Я замерзаю, шлем заело] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223445&hash=2831766d09ea281a&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/6fb9f5d84b67/%2312%20-%20%D0%AF%20%D0%B7%D0%B0%D0%BC%D0%B5%D1%80%D0%B7%D0%B0%D1%8E%2C%20%D1%88%D0%BB%D0%B5%D0%BC%20%D0%B7%D0%B0%D0%B5%D0%BB%D0%BE.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dead space 3 - Серия 13 [Выключи это!] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223446&hash=4079564d8cfe40dc&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a331d25cbadd/%2313%20-%20%D0%92%D1%8B%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%20%D1%8D%D1%82%D0%BE%26%2333%3B.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dead space 3 - Серия 14 [Вооружен до зубов] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223447&hash=1837a0230c69148e&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/0cd072bc5d39/%2314%20-%20%D0%92%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%20%D0%B4%D0%BE%20%D0%B7%D1%83%D0%B1%D0%BE%D0%B2.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dead space 3 - Серия 15 [Нужно найти эту Машину] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223448&hash=b5617d0458fb1853&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/19fcf48e7cd4/%2315%20-%20%D0%9D%D1%83%D0%B6%D0%BD%D0%BE%20%D0%BD%D0%B0%D0%B9%D1%82%D0%B8%20%D1%8D%D1%82%D1%83%20%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D1%83.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dead space 3 - Серия 16 [Бур, ты пьян] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223449&hash=56ffeb1ffc6c17ce&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/52b8bcd09bf5/%2316%20-%20%D0%91%D1%83%D1%80%2C%20%D1%82%D1%8B%20%D0%BF%D1%8C%D1%8F%D0%BD.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dead space 3 - Серия 17 [Карвер сходит с ума] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223450&hash=606da4f8c6eb94a0&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/f2ec55c071ba/%2317%20-%20%D0%9A%D0%B0%D1%80%D0%B2%D0%B5%D1%80%20%D1%81%D1%85%D0%BE%D0%B4%D0%B8%D1%82%20%D1%81%20%D1%83%D0%BC%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dead space 3 - Серия 18 [Цыплята вернулись] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223451&hash=b84564bdc8c8c10b&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/27a14924b9a9/%2318%20-%20%D0%A6%D1%8B%D0%BF%D0%BB%D1%8F%D1%82%D0%B0%20%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D0%BB%D0%B8%D1%81%D1%8C.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dead space 3 - Серия 19 [Арсенал] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223452&hash=f12719c7cfa41bf3&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/2b922492d74c/%2319%20-%20%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B0%D0%BB.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dead space 3 - Серия 20 [В нутро монстра] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223453&hash=0126d60ca8b048a3&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/581b2ba12a4f/%2320%20-%20%D0%92%20%D0%BD%D1%83%D1%82%D1%80%D0%BE%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dead space 3 - Серия 21 [Подъем к новым проблемам] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223454&hash=f1d84e83738d5d4a&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/e4adeb00e1ab/%2321%20-%20%D0%9F%D0%BE%D0%B4%D1%8A%D0%B5%D0%BC%20%D0%BA%20%D0%BD%D0%BE%D0%B2%D1%8B%D0%BC%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0%D0%BC.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dead space 3 - Серия 22 [Комплекс КССК] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223455&hash=17343aac49cd9b1d&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/ee4f9596989d/%2322%20-%20%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%D0%9A%D0%A1%D0%A1%D0%9A.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dead space 3 - Серия 23 [Вспоминая очевидное] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223457&hash=48cbb901c2ad988b&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/ae5232176e55/%2323%20-%20%D0%92%D1%81%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D1%8F%20%D0%BE%D1%87%D0%B5%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D0%B5.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dead space 3 - Серия 24 [Фримен такой Фримен] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223458&hash=523bd8fbaaebb693&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/06809d53540d/%2324%20-%20%D0%A4%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B9%20%D0%A4%D1%80%D0%B8%D0%BC%D0%B5%D0%BD.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dead space 3 - Серия 25 [Карвер, ты опять?] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223460&hash=1bda25dd63231129&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/4e87ee61c164/%2325%20-%20%D0%9A%D0%B0%D1%80%D0%B2%D0%B5%D1%80%2C%20%D1%82%D1%8B%20%D0%BE%D0%BF%D1%8F%D1%82%D1%8C%26%2333%3B.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dead space 3 - Серия 26 [Потеря потерь] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223461&hash=f244a6f3c6c50bf0&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/e7e14ed910c9/%2326%20-%20%D0%9F%D0%BE%D1%82%D0%B5%D1%80%D1%8F%20%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D1%8C.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dead space 3 - Серия 27 [Строго вниз] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223462&hash=4b8a52806af85fda&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/61c7acdf9786/%2327%20-%20%D0%A1%D1%82%D1%80%D0%BE%D0%B3%D0%BE%20%D0%B2%D0%BD%D0%B8%D0%B7.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dead space 3 - Серия 28 [Я знаю их язык!] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223463&hash=39f5bca204c3eec6&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/9c7f138466f7/%2328%20-%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D1%8E%20%D0%B8%D1%85%20%D1%8F%D0%B7%D1%8B%D0%BA%26%2333%3B.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dead space 3 - Серия 29 [У финишной черты] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223464&hash=42dc9df4117ccc1a&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/e9cc38a778db/%2329%20-%20%D0%A3%20%D1%84%D0%B8%D0%BD%D0%B8%D1%88%D0%BD%D0%BE%D0%B9%20%D1%87%D0%B5%D1%80%D1%82%D1%8B.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dead space 3 - Серия 30 [Конец истории... Или нет] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168223465&hash=9d09b8642ae7b68f&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a2b540345199/%2330%20-%20%D0%9A%D0%BE%D0%BD%D0%B5%D1%86%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8...%20%D0%98%D0%BB%D0%B8%20%D0%BD%D0%B5%D1%82.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+
+</article>
+<h2><a name="end"></h2>
+<p align="center"><b><font size="5"><a href="#start">Назад</a></font></b><p>
+</div>
+</div>
+<footer class="row credit">
+<div class="col col-md-12">
+<div id="templatemo_footer"><a href="http://vk.com/pqwpqwpqw"><font size="2" color="#fffffff">© 2014<br>Влад Астапов</font></a></div>
+</div>
+</footer>
+</div>		
+</div>
+<script src="javascript/query.js"></script>
+<script>window.jQuery || document.write('<script src="../../javascript/slider.js">\x3C/script>')</script>
+<script defer src="../javascript/slider.js"></script>
+<script type="text/javascript">
+	$(function(){
+	SyntaxHighlighter.all();
+	});
+	$(window).load(function(){
+	$('.flexslider').flexslider({
+	animation: "slide",
+	start: function(slider){
+	$('body').removeClass('loading');
+	}
+	});
+	});
+</script>
+</body>
+<script type='text/javascript' src='../../javascript/logging.js'></script>
+</html>

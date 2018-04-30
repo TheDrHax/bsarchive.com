@@ -1,0 +1,549 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<title>BlackSilverUfa - Dark souls</title>
+<link href="../css/loading.css" rel="stylesheet" type="text/css">
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<link rel="../stylesheet" href="slider.css" type="text/css" media="screen" />
+<script src="../javascript/modern.js"></script>
+<link href="video-js.css" rel="stylesheet" type="text/css">
+<script src="javascript/video.js"></script>
+<script>
+videojs.options.flash.swf = "video-js.swf";
+</script>
+</head>
+<body class="dark_souls">
+<div id="main_container">
+<div class="container" id="home">
+<div class="row col-wrap">			 
+<div id="left_container" class="col col-md-3 col-sm-12">
+<div class="logo">
+<img src="images/container/arthur.png">
+</div>
+<nav id="main_nav">
+<ul class="nav">
+	<li><a href="index.php?id=1">Главная страница</a></li>
+	<li><a href="index.php?id=2">Новости сайта</a></li>	
+	<li><a href="index.php?id=3">Обновление серий</a></li>
+	<li><a href="http://vk.com/official_group_by_blacksilver" target="blank">Группа Bконтакте</a></li>
+	<li><a href="http://www.youtube.com/user/BlackSilverUfa" target="blank">Канал на Youtube</a></li>
+	<li><a href="http://blacksilverufa.com/" target="blank">Форум Блэка</a></li>
+</ul>
+<ul class="nav">
+	<li><img src="images/container/rubrics.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=5">Инди хорроры</a></li>
+	<li><a href="index.php?id=6">Маленькие игры</a></li>
+	<li><a href="index.php?id=7"><font size="2">Инди игры и многосерийные хорроры</font></a></li>
+	<li><a href="index.php?id=8">Первый взгляд</a></li>
+	<li><a href="index.php?id=9">Пятничный подкаст</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/series.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><a href="index.php?id=11">"Серия игр Amnesia"</a></li>
+	<li><a href="index.php?id=189">"Серия игр Bioshock"</a></li>
+	<li><a href="index.php?id=192">"Серия игр Day Z"</a></li>
+	<li><a href="index.php?id=12">"Серия игр Dead space"</a></li>
+	<li><a href="index.php?id=23">"Серия игр Metal gear"</a></li>
+	<li><a href="index.php?id=14">"Серия игр Resident evil"</a></li>
+	<li><a href="index.php?id=13">"Серия игр SCP: Containment breach"</a></li>
+	<li><a href="index.php?id=15">"Серия игр Silent hill"</a></li>
+	<li class="active"><a href="index.php?id=193">"Серия игр Souls"</a></li>
+	<li><a href="index.php?id=16">"Серия игр The elder scrolls"</a></li>
+	<li><a href="index.php?id=31">"Серия игр The walking dead"</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/letsplay.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=35"><font size="3" color="999999">«Все прохождения»</font></a></li>
+	<li><a href="index.php?id=19"><font size="2">Black mesa & Stanley parable</font></a></li>
+	<li><a href="index.php?id=18"><font size="2">Call of cthulhu & Анабиоз: Сон разума</font></a></li>
+	<li><a href="index.php?id=21"><font size="2">Condemned: Criminal origins & Condemned 2</font></a></li>
+	<li><a href="index.php?id=29"><font size="2">Darkness within & Darkness within 2</font></a></li>
+	<li><a href="index.php?id=26"><font size="2">Dragons dogma & Тень колосса</font></a></li>
+	<li><a href="index.php?id=34"><font size="2">Halo: ODST & Halo:Reach</font></a></li>
+	<li><a href="index.php?id=22"><font size="2">I am alive & The last of us</font></a></li>
+	<li><a href="index.php?id=33"><font size="2">Journey & Dear Esther</font></a></li>
+	<li><a href="index.php?id=24"><font size="2">Left 4 dead & Left 4 dead 2</font></a></li>
+	<li><a href="index.php?id=201"><font size="2">Max Payne & Max payne 2</font></a></li>
+	<li><a href="index.php?id=27"><font size="2">Metro: 2033 & Metro: Last light</font></a></li>
+	<li><a href="index.php?id=25"><font size="2">Outlast & Siren: Blood curse</font></a></li>
+	<li><a href="index.php?id=30"><font size="2">Penumbra: Overture & Penumbra: Black plague</font></a></li>
+	<li><a href="index.php?id=20"><font size="2">Star trek & Starbound</font></a></li>
+	<li><a href="index.php?id=32"><font size="2">Злодеи республики  & Джедаи республики</font></a></li>
+</ul>
+</nav>
+<div>
+	<a href="http://vk.com/official_group_by_blacksilver" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+<img src="images_art_games/artem.png">
+<ul class="nav">
+	<li><a href="index.php?id=148"><font color="f1e685">Главная страница</font></a></li>	
+	<li><a href="index.php?id=159"><font color="f1e685">Обновление серий</font></a></li>
+	<li><a href="http://vk.com/artgamesofficial" target="blank"><font color="f1e685">Группа Bконтакте</font></a></li>
+	<li><a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><font color="f1e685">Канал на Youtube</font></a></li>
+</ul>
+<img src="images_art_games/rubrics_art_games.png">
+<ul class="nav">
+	<li><a href="index.php?id=151"><font color="f1e685">Дело было вечером</font></a></li>	
+	<li><a href="index.php?id=152"><font color="f1e685">Трансляции</font></a></li>
+	<li><a href="index.php?id=157"><font color="f1e685">Прохождения</font></a></li>	
+	<li><a href="index.php?id=160"><font color="f1e685">Сказки на ночь</font></a></li>
+</ul>
+<br>
+<div>
+	<a href="http://vk.com/artgamesofficial" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+</div>
+<div id="right_container" class="col col-md-9 col-sm-12">
+<p align="center"><img src="../images/blacksilverufa.png"></p>
+<div class="row">
+<div class="col col-md-12">                       
+</div>
+</div>
+<article class="row">
+<p align="center"><b><font size="6">«Dark souls»</font></b><p> 
+</article>
+<article class="row">
+<p align="center"><b><font size="4"><a href="index.php?id=35">ВСЕ ПРОХОЖДЕНИЯ</a></font></b><p> 
+<p align="center"><b><font size="4"><a href="index.php?id=193">ВЕРНУТЬСЯ</a></font></b><p> 
+</article>
+<p align="center"><b><font size="5"><a href="#end">Вниз</a></font></b><p>
+<a name="start"></a>
+<article class="row">
+
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>PopCop на отдыхе <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175822&hash=7995102593f5b552&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/9beb630a36d8/Dark%20Souls%20-%20PopCop%20%D0%BD%D0%B0%20%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B5.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 1 [Прибытие в замок] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175823&hash=69fd39eff9de732e&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/2a4e7b5375f7/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%201%20%5B%D0%9F%D1%80%D0%B8%D0%B1%D1%8B%D1%82%D0%B8%D0%B5%20%D0%B2%20%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 2 [Осваиваемся в Undead Burg] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175825&hash=a30f82d20129bcb9&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/ed2ff09d1329/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%202%20%5B%D0%9E%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D1%81%D1%8F%20%D0%B2%20Undead%20Burg%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 3 [Огромный Страшный Рыцарь] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175826&hash=3fa7f07d256d4a9f&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/f13bec00d43f/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%203%20%5B%D0%9E%D0%B3%D1%80%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%A1%D1%82%D1%80%D0%B0%D1%88%D0%BD%D1%8B%D0%B9%20%D0%A0%D1%8B%D1%86%D0%B0%D1%80%D1%8C%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 4 [Taurus Demon] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175827&hash=701f0fb324f1144f&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/08e7426915f4/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%204%20%5BTaurus%20Demon%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 5 [Задница вепря )] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175828&hash=1935694a786bb075&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/170bfb4f30ff/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%205%20%5B%D0%97%D0%B0%D0%B4%D0%BD%D0%B8%D1%86%D0%B0%20%D0%B2%D0%B5%D0%BF%D1%80%D1%8F%20%29%20%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 6 [Еще один злобный фантом] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175829&hash=bba0ba5cd3e98f97&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/056c6c689d1f/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%206%20%5B%D0%95%D1%89%D0%B5%20%D0%BE%D0%B4%D0%B8%D0%BD%20%D0%B7%D0%BB%D0%BE%D0%B1%D0%BD%D1%8B%D0%B9%20%D1%84%D0%B0%D0%BD%D1%82%D0%BE%D0%BC%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 7 [К собору] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175830&hash=84059de095bd4de1&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/6c464d2e082a/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%207%20%5B%D0%9A%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%D1%83%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 8 [Собор] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175832&hash=54e609b6c91e8a4b&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/04a6d3660217/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%208%20%5B%D0%A1%D0%BE%D0%B1%D0%BE%D1%80%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 9 [Bell Gargoyle] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175833&hash=d9c762c62ac620b4&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/2ec45a8d0cd5/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%209%20%5BBell%20Gargoyle%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 10 [Спуск к нижним улочкам] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175835&hash=d3609b70fe9f5031&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a49eda1c4b73/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2010%20%5B%D0%A1%D0%BF%D1%83%D1%81%D0%BA%20%D0%BA%20%D0%BD%D0%B8%D0%B6%D0%BD%D0%B8%D0%BC%20%D1%83%D0%BB%D0%BE%D1%87%D0%BA%D0%B0%D0%BC%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 11 [Capra Demon] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175836&hash=03aab17a70ad6b82&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/1e5ec2192686/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2011%20%5BCapra%20Demon%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 12 [Повар спрашивает повара...] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175837&hash=bc6f8119b80f33f6&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/1f70bea5a5f4/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2012%20%5B%D0%9F%D0%BE%D0%B2%D0%B0%D1%80%20%D1%81%D0%BF%D1%80%D0%B0%D1%88%D0%B8%D0%B2%D0%B0%D0%B5%D1%82%20%D0%BF%D0%BE%D0%B2%D0%B0%D1%80%D0%B0...%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 13 [Канализация] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175838&hash=d40756e3e7a3b7fa&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/80967266b808/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2013%20%5B%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 14 [Gaping Dragon] последняя из предзаписанных <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175839&hash=c3f9733c81034fe6&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/ae58b5ad7523/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2014%20%5BGaping%20Dragon%5D%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B5%D0%B4%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 15 [Путь в Blighttown] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175840&hash=2a58ac8c9f0ac35e&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/0ae207b8cfc5/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2015%20%5B%D0%9F%D1%83%D1%82%D1%8C%20%D0%B2%20Blighttown%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 16 [Прыжок в колодец] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175841&hash=5abf4fbfcc419c9c&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/95d6413d9dcb/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2016%20%5B%D0%9F%D1%80%D1%8B%D0%B6%D0%BE%D0%BA%20%D0%B2%20%D0%BA%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D1%86%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 17 [Комары и пиявки] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175842&hash=6a06ad4c24de9f4a&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/45d50520b2a6/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2017%20%5B%D0%9A%D0%BE%D0%BC%D0%B0%D1%80%D1%8B%20%D0%B8%20%D0%BF%D0%B8%D1%8F%D0%B2%D0%BA%D0%B8%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 18 [Паучье гнездо] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175843&hash=add0f7fa481577f7&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/c201bccddadd/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2018%20%5B%D0%9F%D0%B0%D1%83%D1%87%D1%8C%D0%B5%20%D0%B3%D0%BD%D0%B5%D0%B7%D0%B4%D0%BE%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 19 [Drake Sword] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175844&hash=6681265e55e1aa61&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/786ac55198cf/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2019%20%5BDrake%20Sword%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 20 [Первый визит в лес] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175845&hash=6515177e1e820755&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/5d7695297c6b/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2020%20%5B%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%B2%D0%B8%D0%B7%D0%B8%D1%82%20%D0%B2%20%D0%BB%D0%B5%D1%81%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 21 [Встреча с Гидрой] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175848&hash=fdbe9f0be7b5f2e4&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/dd1ed938b81d/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2021%20%5B%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0%20%D1%81%20%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%B9%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 22 [Заканчиваем с Квелааг. Много боли.] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175850&hash=b6142b4eabf862d0&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/2ff3db9d8af9/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2022%20%5B%D0%97%D0%B0%D0%BA%D0%B0%D0%BD%D1%87%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%20%D1%81%20%D0%9A%D0%B2%D0%B5%D0%BB%D0%B0%D0%B0%D0%B3.%20%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B1%D0%BE%D0%BB%D0%B8.%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 23 [Кладбище и катакомбы] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175851&hash=2ae46f3c432fb0c4&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/6f6d186e16c5/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2023%20%5B%D0%9A%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5%20%D0%B8%20%D0%BA%D0%B0%D1%82%D0%B0%D0%BA%D0%BE%D0%BC%D0%B1%D1%8B%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 24 [Undead Asylum] Небольшие тех. проблемы <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175853&hash=41a9c43ffbc86a54&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/14c87573b0eb/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2024%20%5BUndead%20Asylum%5D%20%D0%9D%D0%B5%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5%20%D1%82%D0%B5%D1%85.%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 25 [Первый визит в Sen's Fortress] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175854&hash=8850308f484fd9fb&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/44a204360a2a/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2025%20%5B%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%B2%D0%B8%D0%B7%D0%B8%D1%82%20%D0%B2%20Sen%27s%20Fortress%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 26 [Покупаем Crest of Artorias] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175855&hash=89d20df62cabdf91&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/6a2ac72e3f02/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2026%20%5B%D0%9F%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D0%B5%D0%BC%20Crest%20of%20Artorias%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 27 [Специальная, вне расписания] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175856&hash=07b28ff92fe23bbd&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/0c7b4e66ebca/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2027%20%5B%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%2C%20%D0%B2%D0%BD%D0%B5%20%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 28 [Moonlight Butterfly] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175857&hash=4cb2217dccd4a96a&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/1911b5725177/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2028%20%5BMoonlight%20Butterfly%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 29 [Гидра уже не торт] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175858&hash=c4790297520db74f&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/b87788a506db/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2029%20%5B%D0%93%D0%B8%D0%B4%D1%80%D0%B0%20%D1%83%D0%B6%D0%B5%20%D0%BD%D0%B5%20%D1%82%D0%BE%D1%80%D1%82%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 30 [Fire Keeper Souls] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175859&hash=d5fa651548966584&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/80538a2c9f07/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2030%20%5BFire%20Keeper%20Souls%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 31 [Ceaseless Discharge] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175860&hash=fb6a44cb125acdb9&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/6570874f2311/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2031%20%5BCeaseless%20Discharge%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 32 [В Sen's Fortress] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175862&hash=ac4dcfe55b4966a6&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/829b08372d4f/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2032%20%5B%D0%92%20Sen%27s%20Fortress%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 33 [Sen's Fortress продолжает убивать] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175863&hash=53b9cbcdd63e73d3&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/84490a36ba63/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2033%20%5BSen%27s%20Fortress%20%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B0%D0%B5%D1%82%20%D1%83%D0%B1%D0%B8%D0%B2%D0%B0%D1%82%D1%8C%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 34 [Iron Golem] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175864&hash=a754d643c92c85b0&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/ad90c2c22b10/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2034%20%5BIron%20Golem%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 35 [Осваиваемся в Anor Londo] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175866&hash=772e2c852c99fb95&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/b0cf39d376d3/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2035%20%5B%D0%9E%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D1%81%D1%8F%20%D0%B2%20Anor%20Londo%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 36 [Нарисованный мир] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175867&hash=534d04c68ee916c5&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/d1e07f703782/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2036%20%5B%D0%9D%D0%B0%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B8%D1%80%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 37 [Нарисованный мир. Разведка боем.] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175869&hash=6f8a18e5903efa1c&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a76004075751/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2037%20%5B%D0%9D%D0%B0%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B8%D1%80.%20%D0%A0%D0%B0%D0%B7%D0%B2%D0%B5%D0%B4%D0%BA%D0%B0%20%D0%B1%D0%BE%D0%B5%D0%BC.%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 38 [Crossbreed Priscilla] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175870&hash=2a8d1d340b4b7efa&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/eacb97cf69b1/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2038%20%5BCrossbreed%20Priscilla%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 39 [Havel's Ring] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175871&hash=82b182d31742d13a&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/8160c8b67d4e/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2039%20%5BHavel%27s%20Ring%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 40 [Great Grey Wolf Sif] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175872&hash=1d8606f407a796ea&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/7ef7237e2b07/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2040%20%5BGreat%20Grey%20Wolf%20Sif%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 41 [Фантомы наседают] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175873&hash=850023e84a9f3d01&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/780c4f6d66bd/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2041%20%5B%D0%A4%D0%B0%D0%BD%D1%82%D0%BE%D0%BC%D1%8B%20%D0%BD%D0%B0%D1%81%D0%B5%D0%B4%D0%B0%D1%8E%D1%82%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 42 [Замок Анор Лондо] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175874&hash=aae095076616020e&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/80e44594a0d7/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2042%20%5B%D0%97%D0%B0%D0%BC%D0%BE%D0%BA%20%D0%90%D0%BD%D0%BE%D1%80%20%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 43 [Ornstein_Smough] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175875&hash=7e19ef8e6a2fec87&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/66c22cb3f58c/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2043%20%5BOrnstein_Smough%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 44 [Фантомы уже не торт] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175877&hash=c909398f2d0cd94b&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/93e41e2cdb61/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2044%20%5B%D0%A4%D0%B0%D0%BD%D1%82%D0%BE%D0%BC%D1%8B%20%D1%83%D0%B6%D0%B5%20%D0%BD%D0%B5%20%D1%82%D0%BE%D1%80%D1%82%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 45 [Глубже в катакомбы] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168176114&hash=450c8071498eacbc&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/93f8af527065/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2045%20%5B%D0%93%D0%BB%D1%83%D0%B1%D0%B6%D0%B5%20%D0%B2%20%D0%BA%D0%B0%D1%82%D0%B0%D0%BA%D0%BE%D0%BC%D0%B1%D1%8B%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 46 [Pinwheel] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175879&hash=64d26024f8e78e07&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/860ee8e8cee3/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2046%20%5BPinwheel%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 47 [Глубже во тьму] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175880&hash=fa62f257f0a8b9e9&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/ab36244c902d/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2047%20%5B%D0%93%D0%BB%D1%83%D0%B1%D0%B6%D0%B5%20%D0%B2%D0%BE%20%D1%82%D1%8C%D0%BC%D1%83%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 48 [Gravelord Nito] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175882&hash=80540ee1c1eda5fd&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/e79a1ca861a5/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2048%20%5BGravelord%20Nito%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 49 [New Londo Ruins. Осваиваемся] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175883&hash=48f7d13787ded239&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/1fc38666a36c/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2049%20%5BNew%20Londo%20Ruins.%20%D0%9E%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D1%81%D1%8F%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 50 [New Londo Ruins. Самое дно] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175884&hash=f2f2c3ed1e410366&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/3729b8b4173b/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2050%20%5BNew%20Londo%20Ruins.%20%D0%A1%D0%B0%D0%BC%D0%BE%D0%B5%20%D0%B4%D0%BD%D0%BE%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 51 [Спуск к Ash Lake] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175885&hash=209e088defe44f0b&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/fed710f5deb1/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2051%20%5B%D0%A1%D0%BF%D1%83%D1%81%D0%BA%20%D0%BA%20Ash%20Lake%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 52 [Кабаны!!!] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175886&hash=2b021f607d2e85d0&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a08d1b0566eb/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2052%20%5B%D0%9A%D0%B0%D0%B1%D0%B0%D0%BD%D1%8B%21%21%21%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 53 [Тюрьма] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175887&hash=32eedea388280756&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/b00b6897fc18/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2053%20%5B%D0%A2%D1%8E%D1%80%D1%8C%D0%BC%D0%B0%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 54 [Зачистка] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175888&hash=67d5b49a7572b8cf&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/193925e9c359/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2054%20%5B%D0%97%D0%B0%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 55 [Кристальная пещера] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175891&hash=90a6bbd5a0774389&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/52008962debe/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2055%20%5B%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 56 [Seath the Scaleless] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175892&hash=02de17bb4059dc90&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/fb9ea1ba16e9/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2056%20%5BSeath%20the%20Scaleless%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 57 [Dark Sun Gwyndolin] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175893&hash=2d526d4b791aac72&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/7420dd2d359f/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2057%20%5BDark%20Sun%20Gwyndolin%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 58 [Слишком много лавы] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175894&hash=6b6731e9e08b0e19&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/7628002f9a27/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2058%20%5B%D0%A1%D0%BB%D0%B8%D1%88%D0%BA%D0%BE%D0%BC%20%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BB%D0%B0%D0%B2%D1%8B%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Dark souls - Серия 59 [Bed of Chaos] <img src="quality/720.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175896&hash=f21c61458e90721b&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/5af6373bc3e0/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2059%20%5BBed%20of%20Chaos%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Dark souls - Серия 60 [Финал] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168175897&hash=94007e48d79c08da&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/de038bccf87c/Dark%20Souls%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2060%20%5B%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+
+</article>
+<h2><a name="end"></h2>
+<p align="center"><b><font size="5"><a href="#start">Назад</a></font></b><p>
+</div>
+</div>
+<footer class="row credit">
+<div class="col col-md-12">
+<div id="templatemo_footer"><a href="http://vk.com/pqwpqwpqw"><font size="2" color="#fffffff">© 2014<br>Влад Астапов</font></a></div>
+</div>
+</footer>
+</div>		
+</div>
+<script src="javascript/query.js"></script>
+<script>window.jQuery || document.write('<script src="../javascript/slider.js">\x3C/script>')</script>
+<script defer src="../javascript/slider.js"></script>
+<script type="text/javascript">
+	$(function(){
+	SyntaxHighlighter.all();
+	});
+	$(window).load(function(){
+	$('.flexslider').flexslider({
+	animation: "slide",
+	start: function(slider){
+	$('body').removeClass('loading');
+	}
+	});
+	});
+</script>
+</body>
+<script type='text/javascript' src='../javascript/logging.js'></script>
+</html>

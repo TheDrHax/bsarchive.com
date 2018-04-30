@@ -1,0 +1,306 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<title>BlackSilverUfa - Silent hill Downpour</title>
+<link href="../../css/loading.css" rel="stylesheet" type="text/css">
+<link href="../../css/style.css" rel="stylesheet" type="text/css">
+<link rel="../../stylesheet" href="slider.css" type="text/css" media="screen" />
+<script src="../../javascript/modern.js"></script>
+<link href="video-js.css" rel="stylesheet" type="text/css">
+<script src="javascript/video.js"></script>
+<script>
+videojs.options.flash.swf = "video-js.swf";
+</script>
+</head>
+<body class="silent_hill_downpour">
+<div id="main_container">
+<div class="container" id="home">
+<div class="row col-wrap">			 
+<div id="left_container" class="col col-md-3 col-sm-12">
+<div class="logo">
+<img src="images/container/arthur.png">
+</div>
+<nav id="main_nav">
+<ul class="nav">
+	<li><a href="index.php?id=1">Главная страница</a></li>
+	<li><a href="index.php?id=2">Новости сайта</a></li>	
+	<li><a href="index.php?id=3">Обновление серий</a></li>
+	<li><a href="http://vk.com/official_group_by_blacksilver" target="blank">Группа Bконтакте</a></li>
+	<li><a href="http://www.youtube.com/user/BlackSilverUfa" target="blank">Канал на Youtube</a></li>
+	<li><a href="http://blacksilverufa.com/" target="blank">Форум Блэка</a></li>
+</ul>
+<ul class="nav">
+	<li><img src="images/container/rubrics.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=5">Инди хорроры</a></li>
+	<li><a href="index.php?id=6">Маленькие игры</a></li>
+	<li><a href="index.php?id=7"><font size="2">Инди игры и многосерийные хорроры</font></a></li>
+	<li><a href="index.php?id=8">Первый взгляд</a></li>
+	<li><a href="index.php?id=9">Пятничный подкаст</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/series.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><a href="index.php?id=11">"Серия игр Amnesia"</a></li>
+	<li><a href="index.php?id=189">"Серия игр Bioshock"</a></li>
+	<li><a href="index.php?id=192">"Серия игр Day Z"</a></li>
+	<li><a href="index.php?id=12">"Серия игр Dead space"</a></li>
+	<li><a href="index.php?id=23">"Серия игр Metal gear"</a></li>
+	<li><a href="index.php?id=14">"Серия игр Resident evil"</a></li>
+	<li><a href="index.php?id=13">"Серия игр SCP: Containment breach"</a></li>
+	<li class="active"><a href="index.php?id=15">"Серия игр Silent hill"</a></li>
+	<li><a href="index.php?id=193">"Серия игр Souls"</a></li>
+	<li><a href="index.php?id=16">"Серия игр The elder scrolls"</a></li>
+	<li><a href="index.php?id=31">"Серия игр The walking dead"</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/letsplay.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=35"><font size="3" color="999999">«Все прохождения»</font></a></li>
+	<li><a href="index.php?id=19"><font size="2">Black mesa & Stanley parable</font></a></li>
+	<li><a href="index.php?id=18"><font size="2">Call of cthulhu & Анабиоз: Сон разума</font></a></li>
+	<li><a href="index.php?id=21"><font size="2">Condemned: Criminal origins & Condemned 2</font></a></li>
+	<li><a href="index.php?id=29"><font size="2">Darkness within & Darkness within 2</font></a></li>
+	<li><a href="index.php?id=26"><font size="2">Dragons dogma & Тень колосса</font></a></li>
+	<li><a href="index.php?id=34"><font size="2">Halo: ODST & Halo:Reach</font></a></li>
+	<li><a href="index.php?id=22"><font size="2">I am alive & The last of us</font></a></li>
+	<li><a href="index.php?id=33"><font size="2">Journey & Dear Esther</font></a></li>
+	<li><a href="index.php?id=24"><font size="2">Left 4 dead & Left 4 dead 2</font></a></li>
+	<li><a href="index.php?id=201"><font size="2">Max Payne & Max payne 2</font></a></li>
+	<li><a href="index.php?id=27"><font size="2">Metro: 2033 & Metro: Last light</font></a></li>
+	<li><a href="index.php?id=25"><font size="2">Outlast & Siren: Blood curse</font></a></li>
+	<li><a href="index.php?id=30"><font size="2">Penumbra: Overture & Penumbra: Black plague</font></a></li>
+	<li><a href="index.php?id=20"><font size="2">Star trek & Starbound</font></a></li>
+	<li><a href="index.php?id=32"><font size="2">Злодеи республики  & Джедаи республики</font></a></li>
+</ul>
+</nav>
+<div>
+	<a href="http://vk.com/official_group_by_blacksilver" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+<img src="images_art_games/artem.png">
+<ul class="nav">
+	<li><a href="index.php?id=148"><font color="f1e685">Главная страница</font></a></li>	
+	<li><a href="index.php?id=159"><font color="f1e685">Обновление серий</font></a></li>
+	<li><a href="http://vk.com/artgamesofficial" target="blank"><font color="f1e685">Группа Bконтакте</font></a></li>
+	<li><a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><font color="f1e685">Канал на Youtube</font></a></li>
+</ul>
+<img src="images_art_games/rubrics_art_games.png">
+<ul class="nav">
+	<li><a href="index.php?id=151"><font color="f1e685">Дело было вечером</font></a></li>	
+	<li><a href="index.php?id=152"><font color="f1e685">Трансляции</font></a></li>
+	<li><a href="index.php?id=157"><font color="f1e685">Прохождения</font></a></li>	
+	<li><a href="index.php?id=160"><font color="f1e685">Сказки на ночь</font></a></li>
+</ul>
+<br>
+<div>
+	<a href="http://vk.com/artgamesofficial" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+</div>
+<div id="right_container" class="col col-md-9 col-sm-12">
+<p align="center"><img src="../../images/blacksilverufa.png"></p>
+<div class="row">
+<div class="col col-md-12">                       
+</div>
+</div>
+<article class="row">
+<p align="center"><b><font size="6">«Silent hill Downpour»</font></b><p> 
+</article>
+<article class="row">
+<p align="center"><b><font size="4"><a href="index.php?id=35">ВСЕ ПРОХОЖДЕНИЯ</a></font></b><p> 
+<p align="center"><b><font size="4"><a href="index.php?id=15">ВЕРНУТЬСЯ</a></font></b><p> 
+</article>
+<p align="center"><b><font size="5"><a href="#end">Вниз</a></font></b><p>
+<a name="start"></a>
+<article class="row">
+
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Silent hill: Downpour - Серия 1 [Вступление] <img src="quality/360.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192409&hash=2a8057a3edb49269&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/74454bbf8b44/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%201%20%5B%D0%92%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Silent hill: Downpour - Серия 2 [Оно преследует меня!] <img src="quality/360.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192432&hash=e0fcc5a50dc6939a&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/ae9513e26986/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%202%20%5B%D0%9E%D0%BD%D0%BE%20%D0%BF%D1%80%D0%B5%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D0%B5%D1%82%20%D0%BC%D0%B5%D0%BD%D1%8F%21%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Silent hill: Downpour - Серия 3 [Devils Pit] <img src="quality/360.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192452&hash=02d4d01606f1b684&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/2a43c6e22a8f/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%203%20%5BDevils%20Pit%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Silent hill: Downpour - Серия 4 [Один во тьме] <img src="quality/360.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192481&hash=b6949ea9dcaf32b3&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/fd19e4bd53c2/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%204%20%5B%D0%9E%D0%B4%D0%B8%D0%BD%20%D0%B2%D0%BE%20%D1%82%D1%8C%D0%BC%D0%B5%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Silent hill: Downpour - Серия 5 [Добро пожаловать в Сайлент Хилл] <img src="quality/360.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192506&hash=f7fd40aaf2276140&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/8c2120f65e31/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%205%20%5B%D0%94%D0%BE%D0%B1%D1%80%D0%BE%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%B2%20%D0%A1%D0%B0%D0%B9%D0%BB%D0%B5%D0%BD%D1%82%20%D0%A5%D0%B8%D0%BB%D0%BB%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Silent hill: Downpour - Серия 6 [Заброшенные апартаменты] <img src="quality/360.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192530&hash=19ddd760d8e6434f&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/f568f92eafb5/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%206%20%5B%D0%97%D0%B0%D0%B1%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B0%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Silent hill: Downpour - Серия 7 [Мэрия] <img src="quality/360.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192553&hash=651b6d9e344a9370&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/a3a06fe8d489/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%207%20%5B%D0%9C%D1%8D%D1%80%D0%B8%D1%8F%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Silent hill: Downpour - Серия 8 [МАНЕКЕНЫ!!!!] <img src="quality/360.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192586&hash=17dff0f28d3b3e5b&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/9538d8c10b12/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%208%20%5B%D0%9C%D0%90%D0%9D%D0%95%D0%9A%D0%95%D0%9D%D0%AB%21%21%21%21%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Silent hill: Downpour - Серия 9 [DJ Ricks] <img src="quality/360.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192600&hash=16ad33d9732be6d8&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/ebcad8729ab1/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%209%20%5BDJ%20Ricks%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Silent hill: Downpour - Серия 10 [Мёрфи в странном месте] <img src="quality/480.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192613&hash=0aa7d808e0273b60&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/ba8430fb611b/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2010%20%5B%D0%9C%D1%91%D1%80%D1%84%D0%B8%20%D0%B2%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%BC%20%D0%BC%D0%B5%D1%81%D1%82%D0%B5%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Silent hill: Downpour - Серия 11 [Дом с привидениями] <img src="quality/480.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192639&hash=98b7f7eb479f5d7d&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/49d4ef4b4dae/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2011%20%5B%D0%94%D0%BE%D0%BC%20%D1%81%20%D0%BF%D1%80%D0%B8%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Silent hill: Downpour - Серия 12 [Монастырь] <img src="quality/480.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192665&hash=cd144262ffd6d154&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/6ba4d78bf5ff/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2012%20%5B%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Silent hill: Downpour - Серия 13 [Ловим баги] <img src="quality/480.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192681&hash=37c28642562db35f&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/b0afd7387c22/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2013%20%5B%D0%9B%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%B1%D0%B0%D0%B3%D0%B8%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Silent hill: Downpour - Серия 14 [Ключ в кишках] <img src="quality/480.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192703&hash=fc262877fe633275&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/aeed54bb34bf/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2014%20%5B%D0%9A%D0%BB%D1%8E%D1%87%20%D0%B2%20%D0%BA%D0%B8%D1%88%D0%BA%D0%B0%D1%85%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Silent hill: Downpour - Серия 15 [Спасти девочку!] <img src="quality/480.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192725&hash=93ed01329dc018b8&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/db05ea65179e/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2015%20%5B%D0%A1%D0%BF%D0%B0%D1%81%D1%82%D0%B8%20%D0%B4%D0%B5%D0%B2%D0%BE%D1%87%D0%BA%D1%83%21%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Silent hill: Downpour - Серия 16 [Бугимен] <img src="quality/480.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192747&hash=cecaeab33a753007&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/11aebb96f97f/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2016%20%5B%D0%91%D1%83%D0%B3%D0%B8%D0%BC%D0%B5%D0%BD%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Silent hill: Downpour - Серия 17 [Сайдквесты #1] <img src="quality/480.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192771&hash=1161131848d89c82&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/d65168affc22/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2017%20%5B%D0%A1%D0%B0%D0%B9%D0%B4%D0%BA%D0%B2%D0%B5%D1%81%D1%82%D1%8B%20%231%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Silent hill: Downpour - Серия 18 [Сайдквесты #2. The Room !] <img src="quality/480.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192793&hash=4bff3554838f64f9&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/8a3e3dd2ac62/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2018%20%5B%D0%A1%D0%B0%D0%B9%D0%B4%D0%BA%D0%B2%D0%B5%D1%81%D1%82%D1%8B%20%232.%20The%20Room%20%21%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Silent hill: Downpour - Серия 19 [Сайдквесты #3] <img src="quality/480.png" width="40"></h4>  
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192819&hash=607f8179a38733e7&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/f91b1cf57e47/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2019%20%5B%D0%A1%D0%B0%D0%B9%D0%B4%D0%BA%D0%B2%D0%B5%D1%81%D1%82%D1%8B%20%233%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Silent hill: Downpour - Серия 20 [Сайдквесты #4. Мерфи грабит банк] <img src="quality/480.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192852&hash=7171b91c7196f23f&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/56a1462b0c0b/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2020%20%5B%D0%A1%D0%B0%D0%B9%D0%B4%D0%BA%D0%B2%D0%B5%D1%81%D1%82%D1%8B%20%234.%20%D0%9C%D0%B5%D1%80%D1%84%D0%B8%20%D0%B3%D1%80%D0%B0%D0%B1%D0%B8%D1%82%20%D0%B1%D0%B0%D0%BD%D0%BA%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Silent hill: Downpour - Серия 21 [Заканчиваем с делами] <img src="quality/480.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192906&hash=38a33603c044ddf6&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/9da8109f67cf/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2021%20%5B%D0%97%D0%B0%D0%BA%D0%B0%D0%BD%D1%87%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%20%D1%81%20%D0%B4%D0%B5%D0%BB%D0%B0%D0%BC%D0%B8%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Silent hill: Downpour - Серия 22 [Покидая город] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168192958&hash=e20372873972258b&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/cdb76a350a52/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2022%20%5B%D0%9F%D0%BE%D0%BA%D0%B8%D0%B4%D0%B0%D1%8F%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+<div class="col col-md-12">
+<table width="720">
+<tr>
+<h4>Silent hill: Downpour - Серия 23 [Приближаясь к развязке] <img src="quality/720.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168193072&hash=51b66a5e499b2e28&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/7943e60675bf/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2023%20%5B%D0%9F%D1%80%D0%B8%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D1%8F%D1%81%D1%8C%20%D0%BA%20%D1%80%D0%B0%D0%B7%D0%B2%D1%8F%D0%B7%D0%BA%D0%B5%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+<h4>Silent hill: Downpour - Серия 24 [Финал] <img src="quality/360.png" width="40"></h4> 
+<iframe src="http://vk.com/video_ext.php?oid=249850522&id=168193179&hash=290f870a3e7ef3ec&hd=1" width="854" height="480" frameborder="0" ></iframe><a href="
+https://cloclo11.datacloudmail.ru/weblink/view/5f089f92a72c/Silent%20Hill%20Downpour%20-%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F%2024%20%5B%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%5D.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+
+
+
+</article>
+<h2><a name="end"></h2>
+<p align="center"><b><font size="5"><a href="#start">Назад</a></font></b><p>
+</div>
+</div>
+<footer class="row credit">
+<div class="col col-md-12">
+<div id="templatemo_footer"><a href="http://vk.com/pqwpqwpqw"><font size="2" color="#fffffff">© 2014<br>Влад Астапов</font></a></div>
+</div>
+</footer>
+</div>		
+</div>
+<script src="javascript/query.js"></script>
+<script>window.jQuery || document.write('<script src="../javascript/slider.js">\x3C/script>')</script>
+<script defer src="../javascript/slider.js"></script>
+<script type="text/javascript">
+	$(function(){
+	SyntaxHighlighter.all();
+	});
+	$(window).load(function(){
+	$('.flexslider').flexslider({
+	animation: "slide",
+	start: function(slider){
+	$('body').removeClass('loading');
+	}
+	});
+	});
+</script>
+</body>
+<script type='text/javascript' src='../javascript/logging.js'></script>
+</html>

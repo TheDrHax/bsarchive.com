@@ -1,0 +1,1873 @@
+<html>
+<head>
+	<title>Игровой архив Блэка - Прохождения</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="initial-scale=1, user-scalable=no"> 
+	<link href='http://fonts.googleapis.com/css?family=Scada:400,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="/css/reset.css">
+	<link rel="stylesheet" type="text/css" href="/css/style.css">
+	<script src="/javascript/jquery.js"></script>
+	<script type="text/javascript" src="//vk.com/js/api/openapi.js?116"></script>
+	<script type="text/javascript">
+	  VK.init({apiId: 4863229, onlyWidgets: true});
+	</script>
+</head>
+<body>
+	<a style="position: absolute; margin-top: -250px;" id="top"></a>
+ 
+<a onClick="window.history.back();" id="back-t"><div id="back-t-block"></div></a><a href="#top" id="scroll-t"><div id="scroll-t-block"></div></a>
+	<div class="page-wrapper">
+
+		<div class="background">
+			<img src="/images/backgrounds/default.jpg">
+		</div>
+		<header>
+			<section>
+				<div class="logotype"><a href="http://bsarchive.com"><img src="/images/logotype.png" alt="Игровой архив Блэка" title="Игровой архив Блэка"></a></div>
+				<div class="logotype-i"><a href="http://bsarchive.com"><img src="/images/logotype-i.png" alt="Игровой архив Блэка" title="Игровой архив Блэка"></a></div>
+				<div class="navigation">
+					<ul>
+						<li class="m-none"><a href="http://bsarchive.com">Поиск</a></li>
+						<li><a href="http://bsarchive.com/news">Новости</a></li><li><a href="http://bsarchive.com/tags">Теги</a></li>
+						<li class="curent"><a href="http://bsarchive.com/letsplays">Прохождения</a></li>
+					</ul>
+				</div>
+			</section>
+		</header>	
+		<main>
+			<section>
+				<div class="home">
+					<p>Все прохождения</p>
+					<p class="desc">Полный список прохождений видеоархива</p>
+				</div>			
+				<div class="search">
+					<input class="search-input short" type="text" name="search" placeholder="Введите название прохождения" onKeyUp="search(this.value)" id="text" autofocus>
+						<span class="alphabet"><a href="#Ш">Ш</a></span>
+						<span class="alphabet"><a href="#З">З</a></span>
+						<span class="alphabet"><a href="#Д">Д</a></span>
+						<span class="alphabet"><a href="#Б">Б</a></span>
+						<span class="alphabet"><a href="#А">А</a></span>
+						<span class="alphabet"><a href="#Z">Z</a></span>
+						<span class="alphabet"><a href="#W">W</a></span>
+						<span class="alphabet"><a href="#U">U</a></span>
+						<span class="alphabet"><a href="#T">T</a></span>
+						<span class="alphabet"><a href="#S">S</a></span>
+						<span class="alphabet"><a href="#R">R</a></span>
+						<span class="alphabet"><a href="#P">P</a></span>
+						<span class="alphabet"><a href="#O">O</a></span>
+						<span class="alphabet"><a href="#N">N</a></span>
+						<span class="alphabet"><a href="#M">M</a></span>
+						<span class="alphabet"><a href="#L">L</a></span>
+						<span class="alphabet"><a href="#K">K</a></span>
+						<span class="alphabet"><a href="#J">J</a></span>
+						<span class="alphabet"><a href="#I">I</a></span>
+						<span class="alphabet"><a href="#H">H</a></span>
+						<span class="alphabet"><a href="#G">G</a></span>
+						<span class="alphabet"><a href="#F">F</a></span>
+						<span class="alphabet"><a href="#E">E</a></span>
+						<span class="alphabet"><a href="#D">D</a></span>
+						<span class="alphabet"><a href="#C">C</a></span>
+						<span class="alphabet"><a href="#B">B</a></span>
+						<span class="alphabet"><a href="#A">A</a></span>	
+				<div id="search"></div>
+					<div class="block">
+					<div class="title sep">
+							<p>Рубрики видеоархива</p>
+						</div>
+						<div class="grid">
+    
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/rubric/indie-horrors" alt="Инди хорроры" title="Инди хорроры">
+									<div class="black">
+										<img src="images/rubrics/indie-horrors.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Инди хорроры</h2>
+										<p><img src="images/icons/views.png">23497</p>
+									</div>
+								</a>
+							</div>
+    
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/rubric/first-look" alt="Первый взгляд" title="Первый взгляд">
+									<div class="black">
+										<img src="images/rubrics/first-look.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Первый взгляд</h2>
+										<p><img src="images/icons/views.png">6604</p>
+									</div>
+								</a>
+							</div>
+    
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/rubric/friday-cast" alt="Пятничный подкаст" title="Пятничный подкаст">
+									<div class="black">
+										<img src="images/rubrics/friday-cast.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Пятничный подкаст</h2>
+										<p><img src="images/icons/views.png">3364</p>
+									</div>
+								</a>
+							</div>
+    						</div><div class='title'><p><a class='anchor' id='A'></a> A </p> <p class="low"> <b>9</b> прохождений </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/alan-wake" alt="Alan Wake" title="Alan Wake">
+									<div class="black">
+										<img src="images/letsplays/alan-wake.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Alan Wake</h2>
+										<p><img src="images/icons/views.png">8106</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/aliens-colonial-marines" alt="Aliens: Colonial marines" title="Aliens: Colonial marines">
+									<div class="black">
+										<img src="images/letsplays/aliens-colonial-marines.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Aliens: Colonial marines</h2>
+										<p><img src="images/icons/views.png">6254</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/amnesia-a-machine-for-pigs" alt="Amnesia: A machine for pigs" title="Amnesia: A machine for pigs">
+									<div class="black">
+										<img src="images/letsplays/amnesia-a-machine-for-pigs.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Amnesia: A machine for pigs</h2>
+										<p><img src="images/icons/views.png">5257</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/amnesia-justine" alt="Amnesia: Justine" title="Amnesia: Justine">
+									<div class="black">
+										<img src="images/letsplays/amnesia-justine.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Amnesia: Justine</h2>
+										<p><img src="images/icons/views.png">2312</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/amnesia-killings-in-altstadt" alt="Amnesia: Killings in Altstadt" title="Amnesia: Killings in Altstadt">
+									<div class="black">
+										<img src="images/letsplays/amnesia-killings-in-altstadt.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Amnesia: Killings in Altstadt</h2>
+										<p><img src="images/icons/views.png">3307</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/amnesia-mental-memorial" alt="Amnesia: Mental memorial" title="Amnesia: Mental memorial">
+									<div class="black">
+										<img src="images/letsplays/amnesia-mental-memorial.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Amnesia: Mental memorial</h2>
+										<p><img src="images/icons/views.png">3043</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/amnesia-the-dark-descent" alt="Amnesia: The dark descent" title="Amnesia: The dark descent">
+									<div class="black">
+										<img src="images/letsplays/amnesia-the-dark-descent.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Amnesia: The dark descent</h2>
+										<p><img src="images/icons/views.png">15013</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/amnesia-white-night" alt="Amnesia: White night" title="Amnesia: White night">
+									<div class="black">
+										<img src="images/letsplays/amnesia-white-night.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Amnesia: White night</h2>
+										<p><img src="images/icons/views.png">3902</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/ascension" alt="Ascension" title="Ascension">
+									<div class="black">
+										<img src="images/letsplays/ascension.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Ascension</h2>
+										<p><img src="images/icons/views.png">2582</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='B'></a> B </p> <p class="low"> <b>10</b> прохождений </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/barrow-hill" alt="Barrow hill" title="Barrow hill">
+									<div class="black">
+										<img src="images/letsplays/barrow-hill.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Barrow hill</h2>
+										<p><img src="images/icons/views.png">3442</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/batman-arkham-city" alt="Batman: Arkham city" title="Batman: Arkham city">
+									<div class="black">
+										<img src="images/letsplays/batman-arkham-city.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Batman: Arkham city</h2>
+										<p><img src="images/icons/views.png">4963</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/battlefield-3" alt="Battlefield 3" title="Battlefield 3">
+									<div class="black">
+										<img src="images/letsplays/battlefield-3.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Battlefield 3</h2>
+										<p><img src="images/icons/views.png">3757</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/beyond-two-souls" alt="Beyond: Two souls" title="Beyond: Two souls">
+									<div class="black">
+										<img src="images/letsplays/beyond-two-souls.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Beyond: Two souls</h2>
+										<p><img src="images/icons/views.png">12185</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/bioshock" alt="Bioshock" title="Bioshock">
+									<div class="black">
+										<img src="images/letsplays/bioshock.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Bioshock</h2>
+										<p><img src="images/icons/views.png">10175</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/bioshock-infinite" alt="Bioshock infinite" title="Bioshock infinite">
+									<div class="black">
+										<img src="images/letsplays/bioshock-infinite.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Bioshock infinite</h2>
+										<p><img src="images/icons/views.png">13479</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/bioshock-infinite-episode-1" alt="Bioshock infinite: Burial at sea - Эпизод 1" title="Bioshock infinite: Burial at sea - Эпизод 1">
+									<div class="black">
+										<img src="images/letsplays/bioshock-infinite-episode-1.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Bioshock infinite: Burial at sea - Эпизод 1</h2>
+										<p><img src="images/icons/views.png">4323</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/bioshock-infinite-episode-2" alt="Bioshock infinite: Burial at sea - Эпизод 2" title="Bioshock infinite: Burial at sea - Эпизод 2">
+									<div class="black">
+										<img src="images/letsplays/bioshock-infinite-episode-2.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Bioshock infinite: Burial at sea - Эпизод 2</h2>
+										<p><img src="images/icons/views.png">3598</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/black-mesa" alt="Black mesa" title="Black mesa">
+									<div class="black">
+										<img src="images/letsplays/black-mesa.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Black mesa</h2>
+										<p><img src="images/icons/views.png">8942</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/black-snow" alt="Black snow" title="Black snow">
+									<div class="black">
+										<img src="images/letsplays/black-snow.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Black snow</h2>
+										<p><img src="images/icons/views.png">3653</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='C'></a> C </p> <p class="low"> <b>5</b> прохождений </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/call-of-cthulhu" alt="Call of cthulhu" title="Call of cthulhu">
+									<div class="black">
+										<img src="images/letsplays/call-of-cthulhu.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Call of cthulhu</h2>
+										<p><img src="images/icons/views.png">14535</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/condemned" alt="Condemned: Criminal origins" title="Condemned: Criminal origins">
+									<div class="black">
+										<img src="images/letsplays/condemned.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Condemned: Criminal origins</h2>
+										<p><img src="images/icons/views.png">4877</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/condemned-2" alt="Condemned 2" title="Condemned 2">
+									<div class="black">
+										<img src="images/letsplays/condemned-2.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Condemned 2</h2>
+										<p><img src="images/icons/views.png">5548</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/cry-of-fear" alt="Cry of fear" title="Cry of fear">
+									<div class="black">
+										<img src="images/letsplays/cry-of-fear.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Cry of fear</h2>
+										<p><img src="images/icons/views.png">16174</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/crysis-3" alt="Crysis 3" title="Crysis 3">
+									<div class="black">
+										<img src="images/letsplays/crysis-3.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Crysis 3</h2>
+										<p><img src="images/icons/views.png">3520</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='D'></a> D </p> <p class="low"> <b>22</b> прохождения </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/dark-souls" alt="Dark souls" title="Dark souls">
+									<div class="black">
+										<img src="images/letsplays/dark-souls.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Dark souls</h2>
+										<p><img src="images/icons/views.png">27318</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/dark-souls-ptde" alt="Dark souls: Prepare to die edition" title="Dark souls: Prepare to die edition">
+									<div class="black">
+										<img src="images/letsplays/dark-souls-ptde.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Dark souls: Prepare to die edition</h2>
+										<p><img src="images/icons/views.png">19546</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/darkness-within" alt="Darkness within: In pursuit of Loath Nolder" title="Darkness within: In pursuit of Loath Nolder">
+									<div class="black">
+										<img src="images/letsplays/darkness-within.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Darkness within: In pursuit of Loath Nolder</h2>
+										<p><img src="images/icons/views.png">4448</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/darkness-within-2" alt="Darkness within 2: The dark lineage" title="Darkness within 2: The dark lineage">
+									<div class="black">
+										<img src="images/letsplays/darkness-within-2.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Darkness within 2: The dark lineage</h2>
+										<p><img src="images/icons/views.png">3816</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/day-z-epoch" alt="Day Z: Epoch" title="Day Z: Epoch">
+									<div class="black">
+										<img src="images/letsplays/day-z-epoch.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Day Z: Epoch</h2>
+										<p><img src="images/icons/views.png">8892</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/day-z-namalsk" alt="Day Z: Namalsk" title="Day Z: Namalsk">
+									<div class="black">
+										<img src="images/letsplays/day-z-namalsk.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Day Z: Namalsk</h2>
+										<p><img src="images/icons/views.png">8607</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/day-z-origins" alt="Day Z: Origins" title="Day Z: Origins">
+									<div class="black">
+										<img src="images/letsplays/day-z-origins.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Day Z: Origins</h2>
+										<p><img src="images/icons/views.png">9311</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/day-z-chronicles" alt="Day Z: Хроники выживания" title="Day Z: Хроники выживания">
+									<div class="black">
+										<img src="images/letsplays/day-z-chronicles.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Day Z: Хроники выживания</h2>
+										<p><img src="images/icons/views.png">24931</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/dead-island" alt="Dead island" title="Dead island">
+									<div class="black">
+										<img src="images/letsplays/dead-island.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Dead island</h2>
+										<p><img src="images/icons/views.png">9734</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/dead-island-riptide" alt="Dead island: Riptide" title="Dead island: Riptide">
+									<div class="black">
+										<img src="images/letsplays/dead-island-riptide.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Dead island: Riptide</h2>
+										<p><img src="images/icons/views.png">6295</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/dead-space" alt="Dead space" title="Dead space">
+									<div class="black">
+										<img src="images/letsplays/dead-space.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Dead space</h2>
+										<p><img src="images/icons/views.png">8590</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/dead-space-2" alt="Dead space 2 + DLC Severed" title="Dead space 2 + DLC Severed">
+									<div class="black">
+										<img src="images/letsplays/dead-space-2.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Dead space 2 + DLC Severed</h2>
+										<p><img src="images/icons/views.png">8976</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/dead-space-3" alt="Dead space 3" title="Dead space 3">
+									<div class="black">
+										<img src="images/letsplays/dead-space-3.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Dead space 3</h2>
+										<p><img src="images/icons/views.png">13974</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/dead-space-3-dlc" alt="Dead space 3: Awakened" title="Dead space 3: Awakened">
+									<div class="black">
+										<img src="images/letsplays/dead-space-3-dlc.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Dead space 3: Awakened</h2>
+										<p><img src="images/icons/views.png">3993</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/dead-space-extraction" alt="Dead space: Extraction" title="Dead space: Extraction">
+									<div class="black">
+										<img src="images/letsplays/dead-space-extraction.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Dead space: Extraction</h2>
+										<p><img src="images/icons/views.png">4447</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/deadlight" alt="Deadlight" title="Deadlight">
+									<div class="black">
+										<img src="images/letsplays/deadlight.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Deadlight</h2>
+										<p><img src="images/icons/views.png">3346</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/dear-esther" alt="Dear Esther" title="Dear Esther">
+									<div class="black">
+										<img src="images/letsplays/dear-esther.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Dear Esther</h2>
+										<p><img src="images/icons/views.png">2064</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/demons-souls" alt="Demon's souls" title="Demon's souls">
+									<div class="black">
+										<img src="images/letsplays/demons-souls.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Demon's souls</h2>
+										<p><img src="images/icons/views.png">16738</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/diablo-3" alt="Diablo 3" title="Diablo 3">
+									<div class="black">
+										<img src="images/letsplays/diablo-3.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Diablo 3</h2>
+										<p><img src="images/icons/views.png">8404</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/doom-3-bfg-edition" alt="Doom 3: BFG edition" title="Doom 3: BFG edition">
+									<div class="black">
+										<img src="images/letsplays/doom-3-bfg-edition.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Doom 3: BFG edition</h2>
+										<p><img src="images/icons/views.png">6559</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/doorways-beta" alt="Doorways (Бета)" title="Doorways (Бета)">
+									<div class="black">
+										<img src="images/letsplays/doorways-beta.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Doorways (Бета)</h2>
+										<p><img src="images/icons/views.png">2017</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/dragons-dogma" alt="Dragon's dogma" title="Dragon's dogma">
+									<div class="black">
+										<img src="images/letsplays/dragons-dogma.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Dragon's dogma</h2>
+										<p><img src="images/icons/views.png">7152</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='E'></a> E </p> <p class="low"> <b>1</b> прохождение </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/eyes" alt="Eyes" title="Eyes">
+									<div class="black">
+										<img src="images/letsplays/eyes.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Eyes</h2>
+										<p><img src="images/icons/views.png">3175</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='F'></a> F </p> <p class="low"> <b>4</b> прохождения </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/fear" alt="F.E.A.R" title="F.E.A.R">
+									<div class="black">
+										<img src="images/letsplays/fear.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>F.E.A.R</h2>
+										<p><img src="images/icons/views.png">5937</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/fibrilation" alt="Fibrilation" title="Fibrilation">
+									<div class="black">
+										<img src="images/letsplays/fibrilation.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Fibrilation</h2>
+										<p><img src="images/icons/views.png">2206</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/flash-frozen" alt="Flash frozen" title="Flash frozen">
+									<div class="black">
+										<img src="images/letsplays/flash-frozen.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Flash frozen</h2>
+										<p><img src="images/icons/views.png">1848</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/forgotten-ones" alt="Forgotten ones" title="Forgotten ones">
+									<div class="black">
+										<img src="images/letsplays/forgotten-ones.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Forgotten ones</h2>
+										<p><img src="images/icons/views.png">3814</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='G'></a> G </p> <p class="low"> <b>5</b> прохождений </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/god-of-war-ascension" alt="God of war: Ascension" title="God of war: Ascension">
+									<div class="black">
+										<img src="images/letsplays/god-of-war-ascension.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>God of war: Ascension</h2>
+										<p><img src="images/icons/views.png">8119</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/gone-home" alt="Gone home" title="Gone home">
+									<div class="black">
+										<img src="images/letsplays/gone-home.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Gone home</h2>
+										<p><img src="images/icons/views.png">3157</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/gta-5" alt="Grand theft auto 5" title="Grand theft auto 5">
+									<div class="black">
+										<img src="images/letsplays/gta-5.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Grand theft auto 5</h2>
+										<p><img src="images/icons/views.png">33378</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/gta-online" alt="Grand theft auto online: Суровые будни" title="Grand theft auto online: Суровые будни">
+									<div class="black">
+										<img src="images/letsplays/gta-online.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Grand theft auto online: Суровые будни</h2>
+										<p><img src="images/icons/views.png">22873</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/grey" alt="Grey" title="Grey">
+									<div class="black">
+										<img src="images/letsplays/grey.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Grey</h2>
+										<p><img src="images/icons/views.png">4022</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='H'></a> H </p> <p class="low"> <b>5</b> прохождений </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/halo-odst" alt="Halo: ODST" title="Halo: ODST">
+									<div class="black">
+										<img src="images/letsplays/halo-odst.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Halo: ODST</h2>
+										<p><img src="images/icons/views.png">2199</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/halo-reach" alt="Halo: Reach" title="Halo: Reach">
+									<div class="black">
+										<img src="images/letsplays/halo-reach.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Halo: Reach</h2>
+										<p><img src="images/icons/views.png">2932</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/haunted-memories" alt="Haunted memories" title="Haunted memories">
+									<div class="black">
+										<img src="images/letsplays/haunted-memories.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Haunted memories</h2>
+										<p><img src="images/icons/views.png">2223</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/home" alt="Home" title="Home">
+									<div class="black">
+										<img src="images/letsplays/home.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Home</h2>
+										<p><img src="images/icons/views.png">1686</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/hotline-miami" alt="Hotline Miami" title="Hotline Miami">
+									<div class="black">
+										<img src="images/letsplays/hotline-miami.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Hotline Miami</h2>
+										<p><img src="images/icons/views.png">4232</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='I'></a> I </p> <p class="low"> <b>2</b> прохождения </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/i-am-alive" alt="I am alive" title="I am alive">
+									<div class="black">
+										<img src="images/letsplays/i-am-alive.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>I am alive</h2>
+										<p><img src="images/icons/views.png">3985</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/insanidade" alt="Insanidade" title="Insanidade">
+									<div class="black">
+										<img src="images/letsplays/insanidade.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Insanidade</h2>
+										<p><img src="images/icons/views.png">2844</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='J'></a> J </p> <p class="low"> <b>1</b> прохождение </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/journey" alt="Journey" title="Journey">
+									<div class="black">
+										<img src="images/letsplays/journey.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Journey</h2>
+										<p><img src="images/icons/views.png">3933</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='K'></a> K </p> <p class="low"> <b>3</b> прохождения </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/killzone-shadow-fall" alt="Killzone: Shadow fall" title="Killzone: Shadow fall">
+									<div class="black">
+										<img src="images/letsplays/killzone-shadow-fall.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Killzone: Shadow fall</h2>
+										<p><img src="images/icons/views.png">4297</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/knock-knock" alt="Knock knock" title="Knock knock">
+									<div class="black">
+										<img src="images/letsplays/knock-knock.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Knock knock</h2>
+										<p><img src="images/icons/views.png">5416</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/kravens-manor" alt="Kraven's manor" title="Kraven's manor">
+									<div class="black">
+										<img src="images/letsplays/kravens-manor.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Kraven's manor</h2>
+										<p><img src="images/icons/views.png">2402</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='L'></a> L </p> <p class="low"> <b>6</b> прохождений </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/left-4-dead" alt="Left 4 dead" title="Left 4 dead">
+									<div class="black">
+										<img src="images/letsplays/left-4-dead.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Left 4 dead</h2>
+										<p><img src="images/icons/views.png">3935</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/legend-of-grimrock" alt="Legend of grimrock" title="Legend of grimrock">
+									<div class="black">
+										<img src="images/letsplays/legend-of-grimrock.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Legend of grimrock</h2>
+										<p><img src="images/icons/views.png">3406</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/lego-lotr" alt="Lego: Lord of the rings" title="Lego: Lord of the rings">
+									<div class="black">
+										<img src="images/letsplays/lego-lotr.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Lego: Lord of the rings</h2>
+										<p><img src="images/icons/views.png">3776</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/long-night-demo" alt="Long night (Демо)" title="Long night (Демо)">
+									<div class="black">
+										<img src="images/letsplays/long-night-demo.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Long night (Демо)</h2>
+										<p><img src="images/icons/views.png">1767</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/lords-of-the-fallen" alt="Lords of the fallen" title="Lords of the fallen">
+									<div class="black">
+										<img src="images/letsplays/lords-of-the-fallen.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Lords of the fallen</h2>
+										<p><img src="images/icons/views.png">7893</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/lost-planet-3" alt="Lost planet 3" title="Lost planet 3">
+									<div class="black">
+										<img src="images/letsplays/lost-planet-3.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Lost planet 3</h2>
+										<p><img src="images/icons/views.png">3333</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='M'></a> M </p> <p class="low"> <b>10</b> прохождений </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/mass-effect-2-dlc" alt="Mass effect 2: Arrival" title="Mass effect 2: Arrival">
+									<div class="black">
+										<img src="images/letsplays/mass-effect-2-dlc.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Mass effect 2: Arrival</h2>
+										<p><img src="images/icons/views.png">2956</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/max-payne" alt="Max Payne" title="Max Payne">
+									<div class="black">
+										<img src="images/letsplays/max-payne.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Max Payne</h2>
+										<p><img src="images/icons/views.png">3248</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/max-payne-2" alt="Max Payne 2" title="Max Payne 2">
+									<div class="black">
+										<img src="images/letsplays/max-payne-2.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Max Payne 2</h2>
+										<p><img src="images/icons/views.png">2537</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/metal-gear-solid" alt="Metal gear solid" title="Metal gear solid">
+									<div class="black">
+										<img src="images/letsplays/metal-gear-solid.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Metal gear solid</h2>
+										<p><img src="images/icons/views.png">6409</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/metal-gear-solid-2" alt="Metal gear solid 2" title="Metal gear solid 2">
+									<div class="black">
+										<img src="images/letsplays/metal-gear-solid-2.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Metal gear solid 2</h2>
+										<p><img src="images/icons/views.png">4386</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/metal-gear-solid-3" alt="Metal gear solid 3" title="Metal gear solid 3">
+									<div class="black">
+										<img src="images/letsplays/metal-gear-solid-3.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Metal gear solid 3</h2>
+										<p><img src="images/icons/views.png">4259</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/metro-2033" alt="Metro: 2033" title="Metro: 2033">
+									<div class="black">
+										<img src="images/letsplays/metro-2033.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Metro: 2033</h2>
+										<p><img src="images/icons/views.png">4021</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/metro-last-light" alt="Metro: Last light" title="Metro: Last light">
+									<div class="black">
+										<img src="images/letsplays/metro-last-light.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Metro: Last light</h2>
+										<p><img src="images/icons/views.png">5760</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/missing-person" alt="Missing person" title="Missing person">
+									<div class="black">
+										<img src="images/letsplays/missing-person.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Missing person</h2>
+										<p><img src="images/icons/views.png">2175</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/montagues-mount" alt="Montague's mount" title="Montague's mount">
+									<div class="black">
+										<img src="images/letsplays/montagues-mount.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Montague's mount</h2>
+										<p><img src="images/icons/views.png">1819</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='N'></a> N </p> <p class="low"> <b>2</b> прохождения </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/nightmare-house-2" alt="Nightmare house 2" title="Nightmare house 2">
+									<div class="black">
+										<img src="images/letsplays/nightmare-house-2.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Nightmare house 2</h2>
+										<p><img src="images/icons/views.png">4966</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/northfall-alpha" alt="Northfall (Альфа)" title="Northfall (Альфа)">
+									<div class="black">
+										<img src="images/letsplays/northfall-alpha.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Northfall (Альфа)</h2>
+										<p><img src="images/icons/views.png">1866</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='O'></a> O </p> <p class="low"> <b>2</b> прохождения </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/outlast" alt="Outlast" title="Outlast">
+									<div class="black">
+										<img src="images/letsplays/outlast.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Outlast</h2>
+										<p><img src="images/icons/views.png">7088</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/overcast-walden-and-the-werewolf" alt="Overcast: Walden and the werewolf" title="Overcast: Walden and the werewolf">
+									<div class="black">
+										<img src="images/letsplays/overcast-walden-and-the-werewolf.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Overcast: Walden and the werewolf</h2>
+										<p><img src="images/icons/views.png">2255</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='P'></a> P </p> <p class="low"> <b>4</b> прохождения </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/pesadelo" alt="Pesadelo" title="Pesadelo">
+									<div class="black">
+										<img src="images/letsplays/pesadelo.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Pesadelo</h2>
+										<p><img src="images/icons/views.png">1686</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/phobia" alt="Phobia" title="Phobia">
+									<div class="black">
+										<img src="images/letsplays/phobia.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Phobia</h2>
+										<p><img src="images/icons/views.png">2141</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/penumbra-overture" alt="Penumbra: Overture" title="Penumbra: Overture">
+									<div class="black">
+										<img src="images/letsplays/penumbra-overture.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Penumbra: Overture</h2>
+										<p><img src="images/icons/views.png">14432</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/penumbra-black-plague" alt="Penumbra: Black plague" title="Penumbra: Black plague">
+									<div class="black">
+										<img src="images/letsplays/penumbra-black-plague.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Penumbra: Black plague</h2>
+										<p><img src="images/icons/views.png">12765</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='R'></a> R </p> <p class="low"> <b>9</b> прохождений </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/rage" alt="Rage" title="Rage">
+									<div class="black">
+										<img src="images/letsplays/rage.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Rage</h2>
+										<p><img src="images/icons/views.png">6847</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/rain" alt="Rain" title="Rain">
+									<div class="black">
+										<img src="images/letsplays/rain.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Rain</h2>
+										<p><img src="images/icons/views.png">2898</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/red-dead-redemption" alt="Red dead redemption" title="Red dead redemption">
+									<div class="black">
+										<img src="images/letsplays/red-dead-redemption.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Red dead redemption</h2>
+										<p><img src="images/icons/views.png">5129</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/resident-evil-5" alt="Resident evil 5" title="Resident evil 5">
+									<div class="black">
+										<img src="images/letsplays/resident-evil-5.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Resident evil 5</h2>
+										<p><img src="images/icons/views.png">7872</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/resident-evil-5-dlc-1" alt="Resident evil 5: Lost in nightmares" title="Resident evil 5: Lost in nightmares">
+									<div class="black">
+										<img src="images/letsplays/resident-evil-5-dlc-1.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Resident evil 5: Lost in nightmares</h2>
+										<p><img src="images/icons/views.png">2902</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/resident-evil-5-dlc-2" alt="Resident evil 5: Desperate escape" title="Resident evil 5: Desperate escape">
+									<div class="black">
+										<img src="images/letsplays/resident-evil-5-dlc-2.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Resident evil 5: Desperate escape</h2>
+										<p><img src="images/icons/views.png">2818</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/resident-evil-revelations" alt="Resident evil: Revelations" title="Resident evil: Revelations">
+									<div class="black">
+										<img src="images/letsplays/resident-evil-revelations.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Resident evil: Revelations</h2>
+										<p><img src="images/icons/views.png">8430</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/resident-evil-6" alt="Resident evil 6" title="Resident evil 6">
+									<div class="black">
+										<img src="images/letsplays/resident-evil-6.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Resident evil 6</h2>
+										<p><img src="images/icons/views.png">9700</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/resistance-3" alt="Resistance 3" title="Resistance 3">
+									<div class="black">
+										<img src="images/letsplays/resistance-3.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Resistance 3</h2>
+										<p><img src="images/icons/views.png">3802</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='S'></a> S </p> <p class="low"> <b>20</b> прохождений </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/saints-row-4" alt="Saints row 4" title="Saints row 4">
+									<div class="black">
+										<img src="images/letsplays/saints-row-4.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Saints row 4</h2>
+										<p><img src="images/icons/views.png">6904</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/saints-row-3" alt="Saints row: The third" title="Saints row: The third">
+									<div class="black">
+										<img src="images/letsplays/saints-row-3.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Saints row: The third</h2>
+										<p><img src="images/icons/views.png">10075</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/scare" alt="Scare" title="Scare">
+									<div class="black">
+										<img src="images/letsplays/scare.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Scare</h2>
+										<p><img src="images/icons/views.png">2726</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/scare-2" alt="Scare 2" title="Scare 2">
+									<div class="black">
+										<img src="images/letsplays/scare-2.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Scare 2</h2>
+										<p><img src="images/icons/views.png">1429</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/scp-cb" alt="SCP: Containment breach" title="SCP: Containment breach">
+									<div class="black">
+										<img src="images/letsplays/scp-cb.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>SCP: Containment breach</h2>
+										<p><img src="images/icons/views.png">11669</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/seven-mysteries" alt="Seven mysteries" title="Seven mysteries">
+									<div class="black">
+										<img src="images/letsplays/seven-mysteries.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Seven mysteries</h2>
+										<p><img src="images/icons/views.png">1433</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/shadow-of-the-colossus" alt="Shadow of the colossus" title="Shadow of the colossus">
+									<div class="black">
+										<img src="images/letsplays/shadow-of-the-colossus.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Shadow of the colossus</h2>
+										<p><img src="images/icons/views.png">3852</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/silent-hill" alt="Silent hill" title="Silent hill">
+									<div class="black">
+										<img src="images/letsplays/silent-hill.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Silent hill</h2>
+										<p><img src="images/icons/views.png">9347</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/silent-hill-2" alt="Silent hill 2" title="Silent hill 2">
+									<div class="black">
+										<img src="images/letsplays/silent-hill-2.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Silent hill 2</h2>
+										<p><img src="images/icons/views.png">10116</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/silent-hill-3" alt="Silent hill 3" title="Silent hill 3">
+									<div class="black">
+										<img src="images/letsplays/silent-hill-3.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Silent hill 3</h2>
+										<p><img src="images/icons/views.png">7626</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/silent-hill-4" alt="Silent hill 4: The room" title="Silent hill 4: The room">
+									<div class="black">
+										<img src="images/letsplays/silent-hill-4.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Silent hill 4: The room</h2>
+										<p><img src="images/icons/views.png">8594</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/silent-hill-downpour" alt="Silent Hill: Downpour" title="Silent Hill: Downpour">
+									<div class="black">
+										<img src="images/letsplays/silent-hill-downpour.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Silent Hill: Downpour</h2>
+										<p><img src="images/icons/views.png">7033</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/siren-blood-curse" alt="Siren: Blood curse" title="Siren: Blood curse">
+									<div class="black">
+										<img src="images/letsplays/siren-blood-curse.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Siren: Blood curse</h2>
+										<p><img src="images/icons/views.png">4412</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/sleeping-dogs" alt="Sleeping dogs" title="Sleeping dogs">
+									<div class="black">
+										<img src="images/letsplays/sleeping-dogs.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Sleeping dogs</h2>
+										<p><img src="images/icons/views.png">7340</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/slender-the-arrival" alt="Slender: The arrival" title="Slender: The arrival">
+									<div class="black">
+										<img src="images/letsplays/slender-the-arrival.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Slender: The arrival</h2>
+										<p><img src="images/icons/views.png">3506</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/stanley-parable" alt="Stanley parable" title="Stanley parable">
+									<div class="black">
+										<img src="images/letsplays/stanley-parable.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Stanley parable</h2>
+										<p><img src="images/icons/views.png">3118</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/star-trek" alt="Star trek" title="Star trek">
+									<div class="black">
+										<img src="images/letsplays/star-trek.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Star trek</h2>
+										<p><img src="images/icons/views.png">4842</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/state-of-decay" alt="State of decay" title="State of decay">
+									<div class="black">
+										<img src="images/letsplays/state-of-decay.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>State of decay</h2>
+										<p><img src="images/icons/views.png">4341</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/survived" alt="Survived" title="Survived">
+									<div class="black">
+										<img src="images/letsplays/survived.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Survived</h2>
+										<p><img src="images/icons/views.png">2433</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/synergy-half-life-2" alt="Synergy: Half life 2" title="Synergy: Half life 2">
+									<div class="black">
+										<img src="images/letsplays/synergy-half-life-2.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Synergy: Half life 2</h2>
+										<p><img src="images/icons/views.png">13104</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='T'></a> T </p> <p class="low"> <b>11</b> прохождений </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/tes-4-oblivion-1" alt="Tes IV: Oblivion - Сезон 1" title="Tes IV: Oblivion - Сезон 1">
+									<div class="black">
+										<img src="images/letsplays/tes-4-oblivion-1.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Tes IV: Oblivion - Сезон 1</h2>
+										<p><img src="images/icons/views.png">22237</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/tes-4-oblivion-2" alt="Tes IV: Oblivion - Сезон 2" title="Tes IV: Oblivion - Сезон 2">
+									<div class="black">
+										<img src="images/letsplays/tes-4-oblivion-2.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Tes IV: Oblivion - Сезон 2</h2>
+										<p><img src="images/icons/views.png">9995</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/tes-4-oblivion-3" alt="Tes IV: Oblivion - Сезон 3" title="Tes IV: Oblivion - Сезон 3">
+									<div class="black">
+										<img src="images/letsplays/tes-4-oblivion-3.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Tes IV: Oblivion - Сезон 3</h2>
+										<p><img src="images/icons/views.png">4529</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/tes-5-skyrim-1" alt="Tes V: Skyrim - Сезон 1" title="Tes V: Skyrim - Сезон 1">
+									<div class="black">
+										<img src="images/letsplays/tes-5-skyrim-1.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Tes V: Skyrim - Сезон 1</h2>
+										<p><img src="images/icons/views.png">57468</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/tes-5-skyrim-2" alt="Tes V: Skyrim - Сезон 2" title="Tes V: Skyrim - Сезон 2">
+									<div class="black">
+										<img src="images/letsplays/tes-5-skyrim-2.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Tes V: Skyrim - Сезон 2</h2>
+										<p><img src="images/icons/views.png">8102</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/tes-5-skyrim-3" alt="Tes V: Skyrim - Сезон 3" title="Tes V: Skyrim - Сезон 3">
+									<div class="black">
+										<img src="images/letsplays/tes-5-skyrim-3.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Tes V: Skyrim - Сезон 3</h2>
+										<p><img src="images/icons/views.png">9000</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/the-darkness" alt="The darkness" title="The darkness">
+									<div class="black">
+										<img src="images/letsplays/the-darkness.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>The darkness</h2>
+										<p><img src="images/icons/views.png">3761</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/the-darkness-2" alt="The darkness 2" title="The darkness 2">
+									<div class="black">
+										<img src="images/letsplays/the-darkness-2.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>The darkness 2</h2>
+										<p><img src="images/icons/views.png">3049</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/the-last-of-us" alt="The last of us" title="The last of us">
+									<div class="black">
+										<img src="images/letsplays/the-last-of-us.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>The last of us</h2>
+										<p><img src="images/icons/views.png">16141</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/the-walking-dead" alt="The walking dead" title="The walking dead">
+									<div class="black">
+										<img src="images/letsplays/the-walking-dead.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>The walking dead</h2>
+										<p><img src="images/icons/views.png">8428</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/the-walking-dead-400-days" alt="The walking dead - 400 дней" title="The walking dead - 400 дней">
+									<div class="black">
+										<img src="images/letsplays/the-walking-dead-400-days.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>The walking dead - 400 дней</h2>
+										<p><img src="images/icons/views.png">3172</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='U'></a> U </p> <p class="low"> <b>2</b> прохождения </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/uncharted-drakes-fortune" alt="Uncharted: Drake's fortune" title="Uncharted: Drake's fortune">
+									<div class="black">
+										<img src="images/letsplays/uncharted-drakes-fortune.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Uncharted: Drake's fortune</h2>
+										<p><img src="images/icons/views.png">3013</p>
+									</div>
+								</a>
+							</div>
+
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/underhell" alt="Underhell" title="Underhell">
+									<div class="black">
+										<img src="images/letsplays/underhell.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Underhell</h2>
+										<p><img src="images/icons/views.png">9922</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='W'></a> W </p> <p class="low"> <b>1</b> прохождение </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/war-z" alt="War: Z" title="War: Z">
+									<div class="black">
+										<img src="images/letsplays/war-z.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>War: Z</h2>
+										<p><img src="images/icons/views.png">3770</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='Z'></a> Z </p> <p class="low"> <b>1</b> прохождение </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/zombiu" alt="ZombiU" title="ZombiU">
+									<div class="black">
+										<img src="images/letsplays/zombiu.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>ZombiU</h2>
+										<p><img src="images/icons/views.png">5821</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='А'></a> А </p> <p class="low"> <b>1</b> прохождение </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/cryostasis-sleep-of-reason" alt="Анабиоз: Сон разума" title="Анабиоз: Сон разума">
+									<div class="black">
+										<img src="images/letsplays/cryostasis-sleep-of-reason.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Анабиоз: Сон разума</h2>
+										<p><img src="images/icons/views.png">4786</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='Б'></a> Б </p> <p class="low"> <b>1</b> прохождение </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/hatch-18" alt="Бункер 18" title="Бункер 18">
+									<div class="black">
+										<img src="images/letsplays/hatch-18.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Бункер 18</h2>
+										<p><img src="images/icons/views.png">2325</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='Д'></a> Д </p> <p class="low"> <b>1</b> прохождение </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/swtor-light" alt="Джедаи старой Республики" title="Джедаи старой Республики">
+									<div class="black">
+										<img src="images/letsplays/swtor-light.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Джедаи старой Республики</h2>
+										<p><img src="images/icons/views.png">3436</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='З'></a> З </p> <p class="low"> <b>1</b> прохождение </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/swtor-dark" alt="Злодеи старой Республики" title="Злодеи старой Республики">
+									<div class="black">
+										<img src="images/letsplays/swtor-dark.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Злодеи старой Республики</h2>
+										<p><img src="images/icons/views.png">4128</p>
+									</div>
+								</a>
+							</div>
+ </div><div class='title'><p><a class='anchor' id='Ш'></a> Ш </p> <p class="low"> <b>1</b> прохождение </p> </div> 
+						<div class="grid">
+    						<div class="col-1-5">
+								<a href="http://bsarchive.com/letsplay/scratches" alt="Шорох" title="Шорох">
+									<div class="black">
+										<img src="images/letsplays/scratches.jpg" class="cover">
+									</div>
+									<div class="description">
+										<h2>Шорох</h2>
+										<p><img src="images/icons/views.png">9324</p>
+									</div>
+								</a>
+							</div>
+ </div></div>						
+				</div>
+			</section>		</main>
+		<div class="page-buffer"></div>
+	</div>
+	<div class="page-footer">
+		<footer>
+			<section>
+				<div class="copyright">
+					© 2014-2015, Игровой архив Блэка
+				</div>
+				<div class="about">
+					<a href="http://bsarchive.com/about">О сайте</a>
+				</div>	
+			</section>
+		</footer>
+	</div>
+	<script>
+		$(document).ready(function()
+		{$('a[href*=#]').bind("click", function(e)
+		{var anchor = $(this);
+		$('html, body').stop().animate(
+		{scrollTop: $(anchor.attr('href')).offset().top}, 500);
+		e.preventDefault();});return false;});
+	</script>
+	<script>
+		$(window).scroll(function()
+		{if ($(this).scrollTop() < 100)
+		{$('#back-t').css({'display': 'block'});}
+		if ($(this).scrollTop() > 100)
+		{$('#back-t').css({'display': 'none'});}});	
+	</script>
+	<script>
+		$(window).scroll(function()
+		{if ($(this).scrollTop() < 100)
+		{$('#scroll-t').css({'display': 'none'});}
+		if ($(this).scrollTop() > 100)
+		{$('#scroll-t').css({'display': 'block'});}});	
+	</script>
+	<script>
+		function search(string)
+		{var xmlhttp;
+		if(window.XMLHttpRequest)
+		{xmlhttp = new XMLHttpRequest();}
+		else{xmlhttp = new ActiveXObject("XMLHTTP");}
+		xmlhttp.onreadystatechange = function()
+		{if(xmlhttp.readyState == 4 && xmlhttp.status == 200)
+		{document.getElementById("search").innerHTML = xmlhttp.responseText;}}
+		xmlhttp.open("GET", "search.php?s="+string, true);
+		xmlhttp.send(null);}
+	</script>
+</body>
+</html> 

@@ -1,0 +1,88 @@
+<html>
+<head>
+	<title>Игровой архив Блэка - Новости - </title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="initial-scale=1, user-scalable=no"> 
+	<link href='http://fonts.googleapis.com/css?family=Scada:400,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="/css/reset.css">
+	<link rel="stylesheet" type="text/css" href="/css/style.css">
+	<script src="/javascript/jquery.js"></script>
+	<script type="text/javascript" src="//vk.com/js/api/openapi.js?116"></script>
+	<script type="text/javascript">
+	  VK.init({apiId: 4863229, onlyWidgets: true});
+	</script>
+</head>
+<body>
+	<a style="position: absolute; margin-top: -250px;" id="top"></a>
+ 
+<a onClick="window.history.back();" id="back-t"><div id="back-t-block"></div></a><a href="#top" id="scroll-t"><div id="scroll-t-block"></div></a>
+	<div class="page-wrapper">
+
+		<div class="background">
+			<img src="/images/backgrounds/default.jpg">
+		</div>
+		<header>
+			<section>
+				<div class="logotype"><a href="http://bsarchive.com"><img src="/images/logotype.png" alt="Игровой архив Блэка" title="Игровой архив Блэка"></a></div>
+				<div class="logotype-i"><a href="http://bsarchive.com"><img src="/images/logotype-i.png" alt="Игровой архив Блэка" title="Игровой архив Блэка"></a></div>
+				<div class="navigation">
+					<ul>
+						<li class="m-none"><a href="http://bsarchive.com">Поиск</a></li>
+						<li class="curent"><a href="http://bsarchive.com/news">Новости</a></li><li><a href="http://bsarchive.com/tags">Теги</a></li>
+						<li><a href="http://bsarchive.com/letsplays">Прохождения</a></li>
+					</ul>
+				</div>
+			</section>
+		</header>	
+		<main>
+    <meta http-equiv='Refresh' content='0; URL=http://bsarchive.com/'> 		</main>
+		<div class="page-buffer"></div>
+	</div>
+	<div class="page-footer">
+		<footer>
+			<section>
+				<div class="copyright">
+					© 2014-2015, Игровой архив Блэка
+				</div>
+				<div class="about">
+					<a href="http://bsarchive.com/about">О сайте</a>
+				</div>	
+			</section>
+		</footer>
+	</div>
+	<script>
+		$(document).ready(function()
+		{$('a[href*=#]').bind("click", function(e)
+		{var anchor = $(this);
+		$('html, body').stop().animate(
+		{scrollTop: $(anchor.attr('href')).offset().top}, 500);
+		e.preventDefault();});return false;});
+	</script>
+	<script>
+		$(window).scroll(function()
+		{if ($(this).scrollTop() < 100)
+		{$('#back-t').css({'display': 'block'});}
+		if ($(this).scrollTop() > 100)
+		{$('#back-t').css({'display': 'none'});}});	
+	</script>
+	<script>
+		$(window).scroll(function()
+		{if ($(this).scrollTop() < 100)
+		{$('#scroll-t').css({'display': 'none'});}
+		if ($(this).scrollTop() > 100)
+		{$('#scroll-t').css({'display': 'block'});}});	
+	</script>
+	<script>
+		function search(string)
+		{var xmlhttp;
+		if(window.XMLHttpRequest)
+		{xmlhttp = new XMLHttpRequest();}
+		else{xmlhttp = new ActiveXObject("XMLHTTP");}
+		xmlhttp.onreadystatechange = function()
+		{if(xmlhttp.readyState == 4 && xmlhttp.status == 200)
+		{document.getElementById("search").innerHTML = xmlhttp.responseText;}}
+		xmlhttp.open("GET", "search.php?s="+string, true);
+		xmlhttp.send(null);}
+	</script>
+</body>
+</html> 

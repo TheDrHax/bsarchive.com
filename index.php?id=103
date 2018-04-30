@@ -1,0 +1,784 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<title>BlackSilverUfa - Starbound</title>
+<link href="../css/loading.css" rel="stylesheet" type="text/css">
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<link rel="../stylesheet" href="slider.css" type="text/css" media="screen" />
+<script src="../javascript/modern.js"></script>
+<link href="video-js.css" rel="stylesheet" type="text/css">
+<script src="javascript/video.js"></script>
+<script>
+videojs.options.flash.swf = "video-js.swf";
+</script>
+</head>
+<body class="lets_plays_starbound">
+<div id="main_container">
+<div class="container" id="home">
+<div class="row col-wrap">			 
+<div id="left_container" class="col col-md-3 col-sm-12">
+<div class="logo">
+<img src="images/container/arthur.png">
+</div>
+<nav id="main_nav">
+<ul class="nav">
+	<li><a href="index.php?id=1">Главная страница</a></li>
+	<li><a href="index.php?id=2">Новости сайта</a></li>	
+	<li><a href="index.php?id=3">Обновление серий</a></li>
+	<li><a href="http://vk.com/official_group_by_blacksilver" target="blank">Группа Bконтакте</a></li>
+	<li><a href="http://www.youtube.com/user/BlackSilverUfa" target="blank">Канал на Youtube</a></li>
+	<li><a href="http://blacksilverufa.com/" target="blank">Форум Блэка</a></li>
+</ul>
+<ul class="nav">
+	<li><img src="images/container/rubrics.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=5">Инди хорроры</a></li>
+	<li><a href="index.php?id=6">Маленькие игры</a></li>
+	<li><a href="index.php?id=7"><font size="2">Инди игры и многосерийные хорроры</font></a></li>
+	<li><a href="index.php?id=8">Первый взгляд</a></li>
+	<li><a href="index.php?id=9">Пятничный подкаст</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/series.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><a href="index.php?id=11">"Серия игр Amnesia"</a></li>
+	<li><a href="index.php?id=189">"Серия игр Bioshock"</a></li>
+	<li><a href="index.php?id=192">"Серия игр Day Z"</a></li>
+	<li><a href="index.php?id=12">"Серия игр Dead space"</a></li>
+	<li><a href="index.php?id=23">"Серия игр Metal gear"</a></li>
+	<li><a href="index.php?id=14">"Серия игр Resident evil"</a></li>
+	<li><a href="index.php?id=13">"Серия игр SCP: Containment breach"</a></li>
+	<li><a href="index.php?id=15">"Серия игр Silent hill"</a></li>
+	<li><a href="index.php?id=193">"Серия игр Souls"</a></li>
+	<li><a href="index.php?id=16">"Серия игр The elder scrolls"</a></li>
+	<li><a href="index.php?id=31">"Серия игр The walking dead"</a></li>
+<!-- РАЗДЕЛЕНИЕ -->	
+	<li><img src="images/container/letsplay.png"></li>
+<!-- РАЗДЕЛЕНИЕ -->
+	<li><a href="index.php?id=35"><font size="3" color="999999">«Все прохождения»</font></a></li>
+	<li><a href="index.php?id=19"><font size="2">Black mesa & Stanley parable</font></a></li>
+	<li><a href="index.php?id=18"><font size="2">Call of cthulhu & Анабиоз: Сон разума</font></a></li>
+	<li><a href="index.php?id=21"><font size="2">Condemned: Criminal origins & Condemned 2</font></a></li>
+	<li><a href="index.php?id=29"><font size="2">Darkness within & Darkness within 2</font></a></li>
+	<li><a href="index.php?id=26"><font size="2">Dragons dogma & Тень колосса</font></a></li>
+	<li><a href="index.php?id=34"><font size="2">Halo: ODST & Halo:Reach</font></a></li>
+	<li><a href="index.php?id=22"><font size="2">I am alive & The last of us</font></a></li>
+	<li><a href="index.php?id=33"><font size="2">Journey & Dear Esther</font></a></li>
+	<li><a href="index.php?id=24"><font size="2">Left 4 dead & Left 4 dead 2</font></a></li>
+	<li><a href="index.php?id=201"><font size="2">Max Payne & Max payne 2</font></a></li>
+	<li><a href="index.php?id=27"><font size="2">Metro: 2033 & Metro: Last light</font></a></li>
+	<li><a href="index.php?id=25"><font size="2">Outlast & Siren: Blood curse</font></a></li>
+	<li><a href="index.php?id=30"><font size="2">Penumbra: Overture & Penumbra: Black plague</font></a></li>
+	<li class="active"><a href="index.php?id=20"><font size="2">Star trek & Starbound</font></a></li>
+	<li><a href="index.php?id=32"><font size="2">Злодеи республики  & Джедаи республики</font></a></li>
+</ul>
+</nav>
+<div>
+	<a href="http://vk.com/official_group_by_blacksilver" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+<img src="images_art_games/artem.png">
+<ul class="nav">
+	<li><a href="index.php?id=148"><font color="f1e685">Главная страница</font></a></li>	
+	<li><a href="index.php?id=159"><font color="f1e685">Обновление серий</font></a></li>
+	<li><a href="http://vk.com/artgamesofficial" target="blank"><font color="f1e685">Группа Bконтакте</font></a></li>
+	<li><a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><font color="f1e685">Канал на Youtube</font></a></li>
+</ul>
+<img src="images_art_games/rubrics_art_games.png">
+<ul class="nav">
+	<li><a href="index.php?id=151"><font color="f1e685">Дело было вечером</font></a></li>	
+	<li><a href="index.php?id=152"><font color="f1e685">Трансляции</font></a></li>
+	<li><a href="index.php?id=157"><font color="f1e685">Прохождения</font></a></li>	
+	<li><a href="index.php?id=160"><font color="f1e685">Сказки на ночь</font></a></li>
+</ul>
+<br>
+<div>
+	<a href="http://vk.com/artgamesofficial" target="blank"><img src="../../../buttons/vk.png"></a>
+	<a href="http://www.youtube.com/user/ArtGamesLP" target="blank"><img src="../../../buttons/youtube.png"></a>
+</div>
+</div>
+<div id="right_container" class="col col-md-9 col-sm-12">
+<p align="center"><img src="../images/blacksilverufa.png"></p>
+<div class="row">
+<div class="col col-md-12">                       
+</div>
+</div>
+<article class="row">
+<p align="center"><b><font size="6">«Starbound»</font></b><p> 
+</article>
+<article class="row">
+<p align="center"><b><font size="4"><a href="index.php?id=35">ВСЕ ПРОХОЖДЕНИЯ</a></font></b><p> 
+<p align="center"><b><font size="4"><a href="index.php?id=20">ВЕРНУТЬСЯ</a></font></b><p> 
+</article>
+<p align="center"><b><font size="5"><a href="#end">Вниз</a></font></b><p>
+<a name="start"></a>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/87f033965267/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%231%5D%20It%20came%20from%20outer%20space%21.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 1 [It came from outer space!] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/87f033965267/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%231%5D%20It%20came%20from%20outer%20space%21.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/4e03b7171376/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%232%5D%20%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D0%BC%20%D0%B4%D0%BE%D0%BC%20%D0%B8%D0%B7%20%D0%B3%D1%80%D1%8F%D0%B7%D0%B8%20%D0%B8%20%D0%BA%D1%85%D0%BC%2C%20%D0%BC%D1%83%D1%81%D0%BE%D1%80%D0%B0%21.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 2 [Построим дом из грязи и кхм, мусора!] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/4e03b7171376/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%232%5D%20%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D0%BC%20%D0%B4%D0%BE%D0%BC%20%D0%B8%D0%B7%20%D0%B3%D1%80%D1%8F%D0%B7%D0%B8%20%D0%B8%20%D0%BA%D1%85%D0%BC%2C%20%D0%BC%D1%83%D1%81%D0%BE%D1%80%D0%B0%21.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/ae7b79deba66/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%233%5D%20%D0%94%D0%BE%D0%B1%D1%80%D0%BE%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%B2%20%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%B5%D0%BA%21.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 3 [Добро пожаловать в каменный век!] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/ae7b79deba66/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%233%5D%20%D0%94%D0%BE%D0%B1%D1%80%D0%BE%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%B2%20%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%B5%D0%BA%21.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/017adccbffdc/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%234%5D%20%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8B%20vs%20%D0%A8%D0%B0%D0%BE%D0%BB%D0%B8%D0%BD%D1%8C%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D0%B1%D0%B5%D0%B7%D1%8C%D1%8F%D0%BD%D1%8B.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 4 [Бруталы vs Шаолиньские обезьяны] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/017adccbffdc/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%234%5D%20%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8B%20vs%20%D0%A8%D0%B0%D0%BE%D0%BB%D0%B8%D0%BD%D1%8C%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D0%B1%D0%B5%D0%B7%D1%8C%D1%8F%D0%BD%D1%8B.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/c15aee70e3ed/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%235%5D%20%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%88%D0%B0%D1%85%D1%82%D0%B5%D1%80%D1%8B.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 5 [Брутальные шахтеры] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/c15aee70e3ed/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%235%5D%20%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%88%D0%B0%D1%85%D1%82%D0%B5%D1%80%D1%8B.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/14e426430ede/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%236%5D%20%D0%90%D1%82%D0%B0%D0%BA%D0%B0%20%D0%BF%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D0%BD%D0%BE%D0%B2-%D1%83%D0%B1%D0%B8%D0%B9%D1%86%20%D0%B8%D0%B7%20%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B0.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 6 [Атака пингвинов-убийц из космоса] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/14e426430ede/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%236%5D%20%D0%90%D1%82%D0%B0%D0%BA%D0%B0%20%D0%BF%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D0%BD%D0%BE%D0%B2-%D1%83%D0%B1%D0%B8%D0%B9%D1%86%20%D0%B8%D0%B7%20%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/c7a64eb181c6/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%237%5D%20%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8B%20%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D1%8F%D1%82%D1%81%D1%8F%20%D0%BA%20%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%83.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 7 [Бруталы готовятся к отлету] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/c7a64eb181c6/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%237%5D%20%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8B%20%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D1%8F%D1%82%D1%81%D1%8F%20%D0%BA%20%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%83.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/5679edbaeb78/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%238%5D%20%D0%94%D0%BE%D0%BC%20%D0%BD%D0%B0%20%D0%B3%D1%80%D0%B8%D0%B1%D0%BD%D0%BE%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B5.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 8 [Дом на грибной планете] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/5679edbaeb78/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%238%5D%20%D0%94%D0%BE%D0%BC%20%D0%BD%D0%B0%20%D0%B3%D1%80%D0%B8%D0%B1%D0%BD%D0%BE%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B5.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/5eed82941aa6/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%239%5D%20%D0%A0%D0%B0%D0%B7%D1%83%D0%BC%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D1%8B%D0%B5%20vs%20%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8B.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 9 [Разумные пернатые vs Бруталы] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/5eed82941aa6/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%239%5D%20%D0%A0%D0%B0%D0%B7%D1%83%D0%BC%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D1%8B%D0%B5%20vs%20%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8B.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/fa7dc28a0b16/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2310%5D%20%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%20%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 10 [Планета смерти] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/fa7dc28a0b16/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2310%5D%20%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%20%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/7a717c9e6a39/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2311%5D%20%D0%97%D0%B0%D0%B1%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%82%D1%8E%D1%80%D1%8C%D0%BC%D0%B0%20%D0%94%D0%B6%D0%B0%D0%B2%D1%8B%21.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 11 [Заброшенная тюрьма Джавы!] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/7a717c9e6a39/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2311%5D%20%D0%97%D0%B0%D0%B1%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%82%D1%8E%D1%80%D1%8C%D0%BC%D0%B0%20%D0%94%D0%B6%D0%B0%D0%B2%D1%8B%21.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/1d9ae397d47f/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2312%5D%20%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%B7%D0%B0%20%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8%20vs%20%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8B.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 12 [Охотники за головами vs Бруталы] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/1d9ae397d47f/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2312%5D%20%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%B7%D0%B0%20%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8%20vs%20%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8B.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/54077702d5a3/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2313%5D%20%D0%90%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B%20%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 13 [Астероиды смерти] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/54077702d5a3/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2313%5D%20%D0%90%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B%20%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/4906d2fc2daa/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2314%5D%20%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D0%BE%D0%B9%20%D0%B0%D0%B4.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 14 [Ледяной ад] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/4906d2fc2daa/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2314%5D%20%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D0%BE%D0%B9%20%D0%B0%D0%B4.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/0cbbf14d3503/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2315%5D%20%D0%94%D1%83%D0%B1%D0%B5%D1%8F%20%D0%BD%D0%B0%20%D0%BC%D0%BE%D1%80%D0%BE%D0%B7%D0%B5%2C%20%D0%B1%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B0%D0%BB%D0%B8.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 15 [Дубея на морозе, бруталы продолжали] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/0cbbf14d3503/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2315%5D%20%D0%94%D1%83%D0%B1%D0%B5%D1%8F%20%D0%BD%D0%B0%20%D0%BC%D0%BE%D1%80%D0%BE%D0%B7%D0%B5%2C%20%D0%B1%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B0%D0%BB%D0%B8.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/e95eeead4c46/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2316%5D%20%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8B%20%D0%B2%20%D0%B7%D0%B0%D0%B1%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D1%88%D0%B0%D1%85%D1%82%D0%B5.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 16 [Бруталы в заброшенной шахте] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/e95eeead4c46/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2316%5D%20%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8B%20%D0%B2%20%D0%B7%D0%B0%D0%B1%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D1%88%D0%B0%D1%85%D1%82%D0%B5.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/db3b4cccb877/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2317%5D%20%D0%AF%D0%B4%D0%BE%D0%B2%D0%B8%D1%82%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 17 [Ядовитая планета] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/db3b4cccb877/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2317%5D%20%D0%AF%D0%B4%D0%BE%D0%B2%D0%B8%D1%82%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/fe128d05b96d/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2318%5D%20%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B1%D0%BE%D0%B3%D0%B8-%D1%83%D0%B1%D0%B8%D0%B9%D1%86%D1%8B%21%211.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 18 [Египетские боги-убийцы!!1] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/fe128d05b96d/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2318%5D%20%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B1%D0%BE%D0%B3%D0%B8-%D1%83%D0%B1%D0%B8%D0%B9%D1%86%D1%8B%21%211.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/1d15798dc523/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2319%5D%20%D0%9F%D0%BE%D1%85%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 19 [Похмельный синдром] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/1d15798dc523/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2319%5D%20%D0%9F%D0%BE%D1%85%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/fc137bb68bdd/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2320%5D%20%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%20%D0%BA%D0%B0%D0%BA%D0%B0%D1%88%D0%B5%D1%87%D0%BD%D1%8B%D1%85%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 20 [Планета какашечных монстров] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/fc137bb68bdd/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2320%5D%20%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%20%D0%BA%D0%B0%D0%BA%D0%B0%D1%88%D0%B5%D1%87%D0%BD%D1%8B%D1%85%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/147be9084310/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2321%5D%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2C%20%D0%B2%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%B1%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8B%20%D0%B2%D1%8B%D0%B1%D0%B8%D1%80%D0%B0%D1%8E%D1%82%D1%81%D1%8F%20%D0%B8%D0%B7%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 21 [Серия, в которой бруталы выбираются из канализации] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/147be9084310/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2321%5D%20%D0%A1%D0%B5%D1%80%D0%B8%D1%8F%2C%20%D0%B2%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%B1%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8B%20%D0%B2%D1%8B%D0%B1%D0%B8%D1%80%D0%B0%D1%8E%D1%82%D1%81%D1%8F%20%D0%B8%D0%B7%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/7dafc419a189/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2322%5D%20%D0%9F%D0%BE%D1%87%D0%B5%D0%BC%D1%83%20%D1%82%D0%B0%D0%BA%20%D0%B2%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8%20%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BA%D0%B8...%20%D1%88%D1%83%D0%BC%D1%8F%D1%82%21.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 22 [Почему так в России березки... шумят!] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/7dafc419a189/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2322%5D%20%D0%9F%D0%BE%D1%87%D0%B5%D0%BC%D1%83%20%D1%82%D0%B0%D0%BA%20%D0%B2%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8%20%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BA%D0%B8...%20%D1%88%D1%83%D0%BC%D1%8F%D1%82%21.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/1f44da7016a4/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2323%5D%20%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BD%D0%B5%D0%BB%D0%B5%D0%B3%D0%B0%D0%BB%D1%8B.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 23 [Египетские нелегалы] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/1f44da7016a4/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2323%5D%20%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BD%D0%B5%D0%BB%D0%B5%D0%B3%D0%B0%D0%BB%D1%8B.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/bee8ec5a2afa/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2324%5D%20%D0%94%D0%BE%D0%B1%D1%80%D0%BE%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%20%D0%90%D1%80%D1%80%D0%B0%D0%BA%D0%B8%D1%81.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 24 [Добро пожаловать на Арракис] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/bee8ec5a2afa/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2324%5D%20%D0%94%D0%BE%D0%B1%D1%80%D0%BE%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%20%D0%90%D1%80%D1%80%D0%B0%D0%BA%D0%B8%D1%81.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/a31a85ef23d9/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2325%5D%20%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD%D0%B7%D0%BE%D0%BD%D1%8B%20%D0%B1%D0%B5%D1%80%D1%83%D1%82%D1%81%D1%8F%20%D0%B7%D0%B0%20%D1%83%D0%BC.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 25 [Робинзоны берутся за ум] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/a31a85ef23d9/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2325%5D%20%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD%D0%B7%D0%BE%D0%BD%D1%8B%20%D0%B1%D0%B5%D1%80%D1%83%D1%82%D1%81%D1%8F%20%D0%B7%D0%B0%20%D1%83%D0%BC.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/496eb1cf23f7/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2326%5D%20%D0%9A%D0%B0%D0%BA%20%D0%BC%D1%8B%20%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%BC%20%D0%B7%D1%83%D0%B1%D1%8B%20%D0%B2%D1%8B%D0%B1%D0%B8%D0%B2%D0%B0%D0%BB%D0%B8.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 26 [Как мы местным зубы выбивали] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/496eb1cf23f7/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2326%5D%20%D0%9A%D0%B0%D0%BA%20%D0%BC%D1%8B%20%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%BC%20%D0%B7%D1%83%D0%B1%D1%8B%20%D0%B2%D1%8B%D0%B1%D0%B8%D0%B2%D0%B0%D0%BB%D0%B8.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/bd8febe48603/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2327%5D%20%D0%9A%D0%B8%D1%88%D0%BA%D0%B8%20%D0%BD%D0%B0%20%D1%81%D1%82%D0%B5%D0%BD%D0%B0%D1%85.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 27 [Кишки на стенах] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/bd8febe48603/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2327%5D%20%D0%9A%D0%B8%D1%88%D0%BA%D0%B8%20%D0%BD%D0%B0%20%D1%81%D1%82%D0%B5%D0%BD%D0%B0%D1%85.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/7e0397af11ee/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2328%5D%20%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8B%20vs%20%D0%9B%D0%B5%D1%82%D0%B0%D1%8E%D1%89%D0%B0%D1%8F%20%D1%82%D0%B0%D1%80%D0%B5%D0%BB%D0%BA%D0%B0.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 28 [Бруталы vs Летающая тарелка] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/7e0397af11ee/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2328%5D%20%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8B%20vs%20%D0%9B%D0%B5%D1%82%D0%B0%D1%8E%D1%89%D0%B0%D1%8F%20%D1%82%D0%B0%D1%80%D0%B5%D0%BB%D0%BA%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/6069eec11678/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2329%5D%20%D0%91%D0%B5%D1%82%D0%B0%20%D1%81%D0%B5%D0%BA%D1%82%D0%BE%D1%80.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 29 [Бета сектор] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/6069eec11678/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2329%5D%20%D0%91%D0%B5%D1%82%D0%B0%20%D1%81%D0%B5%D0%BA%D1%82%D0%BE%D1%80.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/d19a94d61757/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2330%5D%20%D0%9A%D0%B0%D0%BA%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%20%D0%B1%D0%B8%D1%82%D1%8C%20%D0%BA%D1%80%D0%BE%D0%BA%D0%BE%D0%B4%D0%B8%D0%BB%D0%B0%20%D0%BC%D0%BE%D0%BB%D0%BE%D1%82%D0%BA%D0%BE%D0%BC.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 30 [Как правильно бить крокодила молотком] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/d19a94d61757/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2330%5D%20%D0%9A%D0%B0%D0%BA%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%20%D0%B1%D0%B8%D1%82%D1%8C%20%D0%BA%D1%80%D0%BE%D0%BA%D0%BE%D0%B4%D0%B8%D0%BB%D0%B0%20%D0%BC%D0%BE%D0%BB%D0%BE%D1%82%D0%BA%D0%BE%D0%BC.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/934c75dd9264/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2331%5D%20%D0%94%D1%8E%D0%BD%D0%B0.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 31 [Дюна] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/934c75dd9264/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2331%5D%20%D0%94%D1%8E%D0%BD%D0%B0.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<article class="row">
+<div class="col col-md-12">
+<table>
+<tr>
+<td width="290">
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" height="163" width="290"
+poster="images/starbound.jpg"
+data-setup="{}">
+<source src="https://cloclo11.datacloudmail.ru/weblink/view/5bffb88e7481/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2332%5D%20%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BF%D0%B5%D1%86%D0%BD%D0%B0%D0%B7.mp4" type='video/mp4'codecs="avc1.4D401E, mp4a.40.2"/>
+</video>
+</td>
+<td align="center" width="500">
+<h3>Серия 32 [Космический спецназ] <img src="quality/1080.png" width="50"></h3> 
+<p>Игровой канал Блэка:<a href="http://www.youtube.com/user/BlackSilverUfa" target="blank"> http://www.youtube.com/user/BlackSilverUfa</a><br>
+Форум Блэка:<a href="http://blacksilverufa.com/" target="blank"> http://blacksilverufa.com/</a><br>
+Группа Вконтакте: <a href="http://vk.com/official_group_by_blacksilver" target="blank"> http://vk.com/official_group_by_blacksilver</a></p><a href="https://cloclo11.datacloudmail.ru/weblink/view/5bffb88e7481/%5B%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Starbound%20%2332%5D%20%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BF%D0%B5%D1%86%D0%BD%D0%B0%D0%B7.mp4" type="application/file" class="btn btn-primary" role="button">Скачать видео</a></p></td>
+</tr>
+</table>
+</div>
+</article>
+<h2><a name="end"></h2>
+<p align="center"><b><font size="5"><a href="#start">Назад</a></font></b><p>
+</div>
+</div>
+<footer class="row credit">
+<div class="col col-md-12">
+<div id="templatemo_footer"><a href="http://vk.com/pqwpqwpqw"><font size="2" color="#fffffff">© 2014<br>Влад Астапов</font></a></div>
+</div>
+</footer>
+</div>		
+</div>
+<script src="javascript/query.js"></script>
+<script>window.jQuery || document.write('<script src="../javascript/slider.js">\x3C/script>')</script>
+<script defer src="../javascript/slider.js"></script>
+<script type="text/javascript">
+	$(function(){
+	SyntaxHighlighter.all();
+	});
+	$(window).load(function(){
+	$('.flexslider').flexslider({
+	animation: "slide",
+	start: function(slider){
+	$('body').removeClass('loading');
+	}
+	});
+	});
+</script>
+</body>
+<script type='text/javascript' src='../javascript/logging.js'></script>
+</html>
